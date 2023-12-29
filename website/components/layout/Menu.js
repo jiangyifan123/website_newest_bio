@@ -15,10 +15,10 @@ export default function Menu() {
             <ul className="navigation clearfix">
                 <li><Link href="/">Home</Link> </li>
                 <li><Link href="/about">About</Link></li>
-                <li><Link href="/advanced-service">Services</Link></li>
-                <li><Link href="/contact">Contact</Link></li>
-                <li><Link href="/blogs">Blogs</Link></li>
                 <li><Link href="/products">Products</Link></li>
+                <li><Link href="/services">Services</Link></li>
+                <li><Link href="/contact">Contact</Link></li>
+                <li><Link href="/blogs">Blogs & News</Link></li>
             </ul>
         </>
     )
