@@ -1,9 +1,11 @@
 import Link from "next/link"
 
-export default function Breadcrumb({ breadcrumbTitle }) {
-    return (
+export default function Breadcrumb({ breadcrumbTitle, backgroundImage }) {
+    const sectionStyle = {
+        backgroundImage: backgroundImage !== undefined ? `url(${backgroundImage})` : 'url(assets/newestBiotech/images/banner.jpeg)',
+    };    return (
         <>
-            <section className="page-title" style={{ backgroundImage: 'url(assets/images/background/bg-17.jpg)' }}>
+            <section className="page-title" style={sectionStyle}>
                 <div className="auto-container">
                     <div className="content-box">
                         <div className="content-wrapper">
