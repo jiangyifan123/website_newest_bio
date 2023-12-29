@@ -18,6 +18,7 @@ export default function Menu() {
                 <li><Link href="/advanced-service">Services</Link></li>
                 <li><Link href="/contact">Contact</Link></li>
                 <li><Link href="/blogs">Blogs</Link></li>
+                <li><Link href="/portfolio-details">Products</Link></li>
             </ul>
         </>
     )
