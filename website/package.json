@@ -10,6 +10,7 @@
     "sass": "sass --watch public/assets/scss/main.scss:public/assets/css/main.css"
   },
   "dependencies": {
+    "@sendgrid/mail": "^8.1.0",
     "@vercel/analytics": "^1.1.1",
     "isotope-layout": "^3.0.6",
     "next": "13.4.19",
