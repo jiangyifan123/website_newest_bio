@@ -4,7 +4,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isSide
     return (
         <>
             {/* <header className="main-header header-style-three"> */}
-            <header className={`main-header header-style-three ${scroll ? "fixed-header" : ""}`}>
+            <header className={`main-header header-style-one ${scroll ? "fixed-header" : ""}`}>
                 {/* Header Top */}
                 <div className="header-top style-three">
                     <div className="auto-container">

@@ -10,7 +10,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Portfolio Classic" wrapperCls="home_1">
+            <Layout headerStyle={3} footerStyle={3} breadcrumbTitle="Portfolio Classic" wrapperCls="home_3">
                 <section className="portfolio-section">
                     <div className="auto-container">
                         {/*Sortable Galery*/}

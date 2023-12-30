@@ -31,7 +31,7 @@ const swiperOptions = {
 export default function Banner() {
     return (
         <>
-            <section className="banner-section style-three">
+            <section className="banner-section style-one">
                 <Swiper {...swiperOptions} className="banner-carousel theme_carousel owl-theme">
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">

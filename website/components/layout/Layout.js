@@ -6,11 +6,11 @@ import DataBg from "../elements/DataBg"
 import Breadcrumb from './Breadcrumb'
 import SearchPopup from "./SearchPopup"
 import Sidebar from "./Sidebar"
-import Header3 from "./header/Header3"
+import Header from "./header/Header3"
 import Footer3 from "./footer/Footer3"
 
 
-export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumbTitle, children, wrapperCls }) {
+export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumbTitle, children, wrapperCls, backgroundImage }) {
     const [scroll, setScroll] = useState(0)
     // Mobile Menu
     const [isMobileMenu, setMobileMenu] = useState(false)
@@ -45,12 +45,12 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
         <>
             <DataBg />
             <div className={`page-wrapper ${wrapperCls ? wrapperCls : ""}`} id="#top">
-                <Header3 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handlePopup={handlePopup} isSidebar={isSidebar} handleSidebar={handleSidebar} />
+                <Header scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handlePopup={handlePopup} isSidebar={isSidebar} handleSidebar={handleSidebar} />
 
                 <Sidebar isSidebar={isSidebar} handleSidebar={handleSidebar} />
                 <SearchPopup isPopup={isPopup} handlePopup={handlePopup} />
 
-                {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
+                {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} backgroundImage={backgroundImage} />}
 
                 {children}
 
