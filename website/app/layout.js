@@ -25,6 +25,7 @@ import "swiper/css/pagination"
 import 'swiper/css/free-mode';
 import { Analytics } from '@vercel/analytics/react';
 import { Barlow, Fira_Sans } from 'next/font/google'
+import Script from "next/script";
 
 const firaSans = Fira_Sans({
     weight: ['400', '500', '600', '700', '800', '900'],
@@ -47,6 +48,21 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en" className={`${firaSans.variable} ${barlow.variable}`}>
+                  <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}`}
+      />
+
+      <Script strategy="lazyOnload">
+        {`
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', '${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}', {
+                    page_path: window.location.pathname,
+                    });
+                `}
+      </Script>
             <body>{children}</body>
             <Analytics />
         </html>
