@@ -23,6 +23,7 @@ import "public/assets/css/responsive.css"
 import 'swiper/css'
 import "swiper/css/pagination"
 import 'swiper/css/free-mode';
+import { Analytics } from '@vercel/analytics/react';
 import { Barlow, Fira_Sans } from 'next/font/google'
 
 const firaSans = Fira_Sans({
@@ -47,6 +48,7 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en" className={`${firaSans.variable} ${barlow.variable}`}>
             <body>{children}</body>
+            <Analytics />
         </html>
     )
 }
