@@ -48,13 +48,13 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en" className={`${firaSans.variable} ${barlow.variable}`}>
-                  <Script
-        strategy="lazyOnload"
-        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}`}
-      />
+            <Script
+                strategy="lazyOnload"
+                src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}`}
+            />
 
-      <Script strategy="lazyOnload">
-        {`
+            <Script strategy="lazyOnload">
+                {`
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
@@ -62,7 +62,7 @@ export default function RootLayout({ children }) {
                     page_path: window.location.pathname,
                     });
                 `}
-      </Script>
+            </Script>
             <body>{children}</body>
             <Analytics />
         </html>
