@@ -1,8 +1,45 @@
-
+'use client'
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
-export default function Home() {
+import { useState } from 'react';
 
+export default function Home() {
+    const [fields, setFields] = useState({
+        firstname: '',
+        lastname: '',
+        email: '',
+        phone: '',
+        website: '',
+        subject: '',
+        message: ''
+    });
+
+
+
+    const handleFormSubmit = async (event) => {
+        event.preventDefault();
+        console.log("Submitting form:",fields)
+        const res = await fetch("/api/sendgrid", {
+            body: JSON.stringify(fields),
+            headers: {
+                "Content-Type": "application/json",
+            },
+            method: "POST",
+        });
+
+        const { error } = await res.json();
+        if (error) {
+            console.log(error);
+            return;
+        }
+        onComplete();
+    };
+
+    const onComplete = () => {
+        // Your onComplete logic goes here
+        console.log('Form submission completed!');
+        // You can trigger any additional actions or state changes after form submission
+    };
     return (
         <>
             <Layout headerStyle={3} footerStyle={3} breadcrumbTitle="Get in touch" wrapperCls="home_3" backgroundImage={'assets/newestBiotech/images/contact_us_banner.jpeg'}>
@@ -17,33 +54,33 @@ export default function Home() {
                                     <span className="right" />
                                 </div>
                             </div>
-                            <form method="post" action="sendemail.php" className="contact-form">
+                            <form method="post" action="sendemail.php" className="contact-form" onSubmit={handleFormSubmit}>
                                 <div className="row">
                                     <div className="col-lg-4 col-md-6 form-group">
-                                        <input type="text" name="firstname" placeholder="First Name" required />
+                                        <input type="text" name="firstname" placeholder="First Name" onChange={(e) => setFields({ ...fields, firstname: e.target.value })}
+                                            required />
                                     </div>
                                     <div className="col-lg-4 col-md-6 form-group">
-                                        <input type="text" name="lastname" placeholder="Last Name" required />
+                                        <input type="text" name="lastname" placeholder="Last Name" onChange={(e) => setFields({ ...fields, lastname: e.target.value })}
+                                            required />
                                     </div>
                                     <div className="col-lg-4 col-md-6 form-group">
-                                        <input type="email" name="email" placeholder="Email Address" required />
+                                        <input type="email" name="email" placeholder="Email Address" onChange={(e) => setFields({ ...fields, email: e.target.value })}
+                                            required />
                                     </div>
                                     <div className="col-lg-4 col-md-6 form-group">
-                                        <input type="text" name="phone" placeholder="Phone" required />
+                                        <input type="text" name="phone" placeholder="Phone" onChange={(e) => setFields({ ...fields, phone: e.target.value })}
+                                            required />
                                     </div>
                                     <div className="col-lg-4 col-md-6 form-group">
-                                        <input type="text" name="website" placeholder="Website" required />
+                                        <input type="text" name="website" placeholder="Website" onChange={(e) => setFields({ ...fields, website: e.target.value })} />
                                     </div>
                                     <div className="col-lg-4 col-md-6 form-group">
-                                        <select className="custom-select" name="subject">
-                                            <option value="*">Discusss about</option>
-                                            <option value=".category-1">Sample Request</option>
-                                            <option value=".category-4">Large quantity orders</option>
-                                            <option value=".category-5">Other</option>
-                                        </select>
+                                        <input type="text" name="subject" placeholder="Subject" onChange={(e) => setFields({ ...fields, subject: e.target.value })} />
+
                                     </div>
                                     <div className="col-md-12 form-group">
-                                        <textarea name="message" placeholder="Message goes here" />
+                                        <textarea name="message" placeholder="Message goes here" onChange={(e) => setFields({ ...fields, message: e.target.value })} />
                                     </div>
                                     <div className="col-md-12 form-group">
                                         <div className="text-center">
