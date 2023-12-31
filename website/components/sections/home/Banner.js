@@ -9,7 +9,7 @@ const swiperOptions = {
     slidesPerView: 1,
     spaceBetween: 0,
     autoplay: {
-        delay: 2500,
+        delay: 5000,
         disableOnInteraction: false,
     },
     loop: true,
@@ -39,11 +39,11 @@ export default function Banner() {
                         <div className="auto-container">
                             <div className="content-box">
                                 <div>
-                                    <h2>Envolve <span>&amp;</span> Co</h2>
-                                    <h3>A Global Leader in Consulting  Business Firm</h3>
-                                    <div className="text">Every pleasures is to welcomed pain avoided owing <br />Duty the obligations of our business.</div>
+                                    <h2>Newest BioTechnology Inc</h2>
+                                    <h3>A Global Leader raw ingredients and solutions provider</h3>
+                                    {/* <div className="text">Every pleasures is to welcomed pain avoided owing <br />Duty the obligations of our business.</div> */}
                                     <div className="btn-box">
-                                        <Link href="#" className="theme-btn btn-style-one"><span className="btn-title">More About Envolve <i className="flaticon-right" /></span></Link>
+                                        <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -55,11 +55,11 @@ export default function Banner() {
                         <div className="auto-container">
                             <div className="content-box justify-content-end">
                                 <div>
-                                    <h2>We Create</h2>
-                                    <h3>Value and Build Brand Confidence.</h3>
-                                    <div className="text">Every pleasures is to welcomed pain avoided owing <br /> Duty the obligations of our business.</div>
+                                    <h2>Our Mission</h2>
+                                    <h3>Cultivating Natural Sources for the Benefit of Human Health.</h3>
+                                    {/* <div className="text">Every pleasures is to welcomed pain avoided owing <br /> Duty the obligations of our business.</div> */}
                                     <div className="btn-box">
-                                        <Link href="#" className="theme-btn btn-style-one"><span className="btn-title">More About Envolve  <i className="flaticon-right" /></span></Link>
+                                        <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -71,11 +71,27 @@ export default function Banner() {
                         <div className="auto-container">
                             <div className="content-box">
                                 <div>
-                                    <h2>Advanced</h2>
-                                    <h3>and Easy to Implement Planning System</h3>
-                                    <div className="text">Every pleasures is to welcomed pain avoided owing <br /> Duty the obligations of our business.</div>
+                                    <h2>Our Vision</h2>
+                                    <h3>Leading in Green, Technology, and Natural Hydrocolloids.</h3>
+                                    <div className="text">As pioneers in natural hydrocolloids, we envision a future where green technology takes the lead.</div>
                                     <div className="btn-box">
-                                        <Link href="#" className="theme-btn btn-style-one"><span className="btn-title">More About Envolve <i className="flaticon-right" /></span></Link>
+                                        <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </SwiperSlide>
+                    {/* Slide Item */}
+                    <SwiperSlide className="slide-item">
+                        <div className="image-layer lazy-image" data-bg="/assets/images/main-slider/9.jpg" />
+                        <div className="auto-container">
+                            <div className="content-box">
+                                <div>
+                                    <h2>Our Goals</h2>
+                                    <h3>Continuously Optimize Operations to Support Sustainable Economic Growth.</h3>
+                                    <div className="text">We aim to constantly refine our operations, contributing to the ongoing development of a sustainable economy.</div>
+                                    <div className="btn-box">
+                                        <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>
                                 </div>
                             </div>

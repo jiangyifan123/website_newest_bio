@@ -19,13 +19,13 @@ export default function Home() {
                 <Banner />
                 <Features />
                 <About />
-                <Experience />
+                {/* <Experience /> */}
                 <Cases />
                 <Services />
                 <Testimonial />
                 <Award />
                 <News />
-                <MeetUp />
+                {/* <MeetUp /> */}
                 <Subscribe />
             </Layout>
         </>
