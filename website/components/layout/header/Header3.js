@@ -18,6 +18,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isSide
                             <div className="top-right">
                                
                                 <ul className="social-links clearfix">
+                                    <li><a href="#"><span className="fab fa-linkedin" /></a></li>
                                     <li><a href="#"><span className="fab fa-facebook-f" /></a></li>
                                     <li><a href="#"><span className="fab fa-twitter" /></a></li>
                                 </ul>
