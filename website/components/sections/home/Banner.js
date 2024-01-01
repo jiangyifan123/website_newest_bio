@@ -35,11 +35,11 @@ export default function Banner() {
                 <Swiper {...swiperOptions} className="banner-carousel theme_carousel owl-theme">
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">
-                        <div className="image-layer lazy-image" data-bg="/assets/images/main-slider/7.jpg" />
+                        <div className="image-layer lazy-image" data-bg="/assets/newestBiotech/images/banner/west-dbq-industrial-complex-full-1.jpg" />
                         <div className="auto-container">
                             <div className="content-box">
                                 <div>
-                                    <h2>Newest BioTechnology Inc</h2>
+                                    <h2>Newest BioTech Inc</h2>
                                     <h3>A Global Leader raw ingredients and solutions provider</h3>
                                     {/* <div className="text">Every pleasures is to welcomed pain avoided owing <br />Duty the obligations of our business.</div> */}
                                     <div className="btn-box">
@@ -51,13 +51,12 @@ export default function Banner() {
                     </SwiperSlide>
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">
-                        <div className="image-layer lazy-image" data-bg="/assets/images/main-slider/8.jpg" />
+                        <div className="image-layer lazy-image" data-bg="/assets/newestBiotech/images/banner/aphanizomenon-flos-aquae.jpg" />
                         <div className="auto-container">
                             <div className="content-box justify-content-end">
                                 <div>
                                     <h2>Our Mission</h2>
                                     <h3>Cultivating Natural Sources for the Benefit of Human Health.</h3>
-                                    {/* <div className="text">Every pleasures is to welcomed pain avoided owing <br /> Duty the obligations of our business.</div> */}
                                     <div className="btn-box">
                                         <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>
@@ -72,8 +71,7 @@ export default function Banner() {
                             <div className="content-box">
                                 <div>
                                     <h2>Our Vision</h2>
-                                    <h3>Leading in Green, Technology, and Natural Hydrocolloids.</h3>
-                                    <div className="text">As pioneers in natural hydrocolloids, we envision a future where green technology takes the lead.</div>
+                                    <h3>Leading in Green Technology, and Natural Hydrocolloids.</h3>
                                     <div className="btn-box">
                                         <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>
@@ -82,7 +80,7 @@ export default function Banner() {
                         </div>
                     </SwiperSlide>
                     {/* Slide Item */}
-                    <SwiperSlide className="slide-item">
+                    {/* <SwiperSlide className="slide-item">
                         <div className="image-layer lazy-image" data-bg="/assets/images/main-slider/9.jpg" />
                         <div className="auto-container">
                             <div className="content-box">
@@ -96,7 +94,7 @@ export default function Banner() {
                                 </div>
                             </div>
                         </div>
-                    </SwiperSlide>
+                    </SwiperSlide> */}
                     <div className="owl-nav">
                         <button type="button" className="owl-prev h1p">
                             <span>‹</span>
