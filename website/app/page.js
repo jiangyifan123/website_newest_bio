@@ -22,11 +22,11 @@ export default function Home() {
                 {/* <Experience /> */}
                 <Cases />
                 <Services />
-                <Testimonial />
+                {/* <Testimonial /> */}
                 <Award />
                 <News />
                 {/* <MeetUp /> */}
-                <Subscribe />
+                {/* <Subscribe /> */}
             </Layout>
         </>
     )
