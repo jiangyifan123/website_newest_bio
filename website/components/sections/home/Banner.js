@@ -40,7 +40,7 @@ export default function Banner() {
                             <div className="content-box">
                                 <div>
                                     <h2>Newest BioTech Inc</h2>
-                                    <h3>A Global Leader raw ingredients and solutions provider</h3>
+<h3 style={{ color: 'white' }}>A Global Leader raw ingredients and solutions provider</h3>
                                     {/* <div className="text">Every pleasures is to welcomed pain avoided owing <br />Duty the obligations of our business.</div> */}
                                     <div className="btn-box">
                                         <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
@@ -56,7 +56,7 @@ export default function Banner() {
                             <div className="content-box justify-content-end">
                                 <div>
                                     <h2>Our Mission</h2>
-                                    <h3>Cultivating Natural Sources for the Benefit of Human Health.</h3>
+                                    <h3 style={{ color: 'white' }}>Cultivating Natural Sources for the Benefit of Human Health.</h3>
                                     <div className="btn-box">
                                         <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>
@@ -71,7 +71,7 @@ export default function Banner() {
                             <div className="content-box">
                                 <div>
                                     <h2>Our Vision</h2>
-                                    <h3>Leading in Green Technology, and Natural Hydrocolloids.</h3>
+                                    <h3 style={{ color: 'grey' }}>Leading in Green Technology, and Natural Hydrocolloids.</h3>
                                     <div className="btn-box">
                                         <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
                                     </div>

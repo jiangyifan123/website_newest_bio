@@ -5,7 +5,7 @@ export default function Cases() {
     return (
         <>
             <section className="cases-section-two">
-                <div style={{ backgroundImage: 'url(website/public/assets/newestBiotech/images/1685515255102121.jpg)' }} />
+                {/* <div style={{ backgroundImage: 'url(website/public/assets/newestBiotech/images/1685515255102121.jpg)' }} /> */}
                 <div className="auto-container">
                     <div className="sec-title style-three text-center">
                         <h5>Selected Partners</h5>
