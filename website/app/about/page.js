@@ -7,7 +7,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About company" wrapperCls="home_1" backgroundImage={'assets/newestBiotech/images/banner/banner.jpeg'}>
+            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About company" wrapperCls="home_3" backgroundImage={'assets/newestBiotech/images/banner/banner.jpeg'}>
                 <div>
                     {/* About Section */}
                     <section className="about-section">
