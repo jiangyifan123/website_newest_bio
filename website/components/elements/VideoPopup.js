@@ -3,7 +3,7 @@ import { useState } from 'react'
 import ModalVideo from 'react-modal-video'
 
 
-export default function VideoPopup({ style, text }) {
+export default function VideoPopup({ style, text, url }) {
     const [isOpen, setOpen] = useState(false)
     return (
         <>
@@ -48,7 +48,7 @@ export default function VideoPopup({ style, text }) {
 
 
 
-            <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="vfhzo499OeA" onClose={() => setOpen(false)} />
+            <ModalVideo channel='custom' url={url} autoplay isOpen={isOpen} onClose={() => setOpen(false)} />
         </>
     )
 }
