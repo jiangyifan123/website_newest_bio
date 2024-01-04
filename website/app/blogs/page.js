@@ -14,7 +14,7 @@ export default function Home() {
                                     <div className="news-block-six">
                                         <div className="inner-box">
                                             <div className="image">
-                                                <Link href="/blog-details"><img className="lazy-image owl-lazy" src="/assets/newestBiotech/images/1650942152134501.jpg" alt="" /></Link>
+                                                <Link href="/blogs-details"><img className="lazy-image owl-lazy" src="/assets/newestBiotech/images/1650942152134501.jpg" alt="" /></Link>
                                             </div>
                                             <div className="lower-content">
                                                 <div className="category">Business</div>
@@ -25,10 +25,10 @@ export default function Home() {
                                                     <li>/</li>
                                                     <li><i className="far fa-comment-alt" />0 Comments</li>
                                                 </ul>
-                                                <h4><Link href="/blog-details">Agar-Agar Gum Market Growth Prospect, Future Trend, Comprehensive Analysis and Forecast</Link></h4>
+                                                <h4><Link href="/blogs-details">Agar-Agar Gum Market Growth Prospect, Future Trend, Comprehensive Analysis and Forecast</Link></h4>
                                                 <div className="text">The research report named “Agar Agar Gum Market Share, Size, Trends, & Industry Analysis Report, [By Product (Square, Strips, Powder), By Application (Microbiological and molecular, Meat, Confectionery, Retail, Others), By Regions]: Segment Forecast, 2018 – 2026”, recently published by Polaris Market Research...</div>
                                                 <div className="bottom-content">
-                                                    <Link href="/blog-details" className="theme-btn btn-style-one"><span className="btn-title">READ MORE</span></Link>
+                                                    <Link href="/blogs-details" className="theme-btn btn-style-one"><span className="btn-title">READ MORE</span></Link>
                                                     <div className="post-share-btn">
                                                         <div className="social-links-wrapper">
                                                             <div className="icon"><span className="flaticon-share-1" /></div>
@@ -78,8 +78,8 @@ export default function Home() {
                                         <div className="widget widget_popular_post">
                                             <h3 className="widget-title">Popular Post</h3>
                                             <article className="post">
-                                                <figure className="post-thumb"><Link href="/blog-details"><img src="/assets/newestBiotech/images/vegs.jpg" alt="" /></Link></figure>
-                                                <h5><Link href="/blog-details">Agar-Agar Gum Market Growth Prospect, Future Trend, Comprehensive Analysis and Forecast</Link></h5>
+                                                <figure className="post-thumb"><Link href="/blogs-details"><img src="/assets/newestBiotech/images/vegs.jpg" alt="" /></Link></figure>
+                                                <h5><Link href="/blogs-details">Agar-Agar Gum Market Growth Prospect, Future Trend, Comprehensive Analysis and Forecast</Link></h5>
                                                 <div className="post-info">3 January, 2024</div>
                                             </article>
                                         </div>
