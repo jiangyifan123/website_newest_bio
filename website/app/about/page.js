@@ -15,34 +15,19 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <div className="image-block">
-                                        <div className="image-one wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/images/resource/image-5.jpg" alt="" /></div></div>
-                                        <div className="image-two wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/images/resource/image-4.jpg" alt="" /></div></div>
+                                        <div className="image-one wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/newestBiotech/images/banner/top-ten-foods-for-health-2x.webp" alt="" /></div></div>
+                                        <div className="image-two wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/newestBiotech/images/1650442138214961.jpg" alt="" /></div></div>
                                         <div className="logo"><img src="/assets/images/icons/icon-12.png" alt="" /></div>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="sec-title">
-                                        <h2>Professional and <br /> dedicated consulting services</h2>
+                                        <h2>Professional manufacture services</h2>
                                         <div className="text-decoration">
                                             <span className="left" />
                                             <span className="right" />
                                         </div>
-                                        <div className="text">Every pleasures is to welcomed pain avoided owing to the duty the obligations of business it will frequently occur that pleasures have to be repudiated annoyances accepted.</div>
-                                    </div>
-                                    <div className="text-block">
-                                        <h5>Industries Covered</h5>
-                                        <h4>Focusing on what we do best</h4>
-                                    </div>
-                                    <div className="text-block">
-                                        <h5>our expertise</h5>
-                                        <h4>High level of knowledge </h4>
-                                    </div>
-                                    <div className="author-box">
-                                        <div className="signature"><img src="/assets/images/resource/signature.png" alt="" /></div>
-                                        <div className="author-info">
-                                            <h4>Franklin Sinatra</h4>
-                                            <h5>Manager</h5>
-                                        </div>
+                                        <div className="text">Newest Biotech is a high-tech enterprise in professional, scientific research and specializing in ingredients for the food and beverage industry, as well as dietary supplements. We manufacture and supply almost everything from dairy powders, proteins to fibers, oils, shortenings, thinkers, gums, starches, grains, fruit concentrates, savory sauces, and much more! </div>
                                     </div>
                                 </div>
                             </div>
@@ -64,8 +49,8 @@ export default function Home() {
                                         <div className="whay-choose-block">
                                             <div className="inner-box">
                                                 <div className="icon"><span className="flaticon-diamond" /></div>
-                                                <h4>Newest Biotech Is The Industry Leaders</h4>
-                                                <div className="text">We manufacture and supply almost everything from dairy powders, proteins to fibers, oils, shortenings, thinkers, gums, starches, grains, fruit concentrates, savory sauces, and much more! The production of seaweed polysaccharides, plant polysaccharides and related products is our expertise.</div>
+                                                <h4 color="red">Newest Biotech Is The Industry Leaders</h4>
+                                                <div className="text">The production of seaweed polysaccharides, plant polysaccharides and related products is our expertise.</div>
                                             </div>
                                         </div>
                                         <div className="whay-choose-block">
@@ -86,131 +71,20 @@ export default function Home() {
                             </div>
                         </div>
                     </section>
-                    {/* Why Choose Us Section Three */}
-                    <section className="why-choose-us-section-three">
+                    <section className="award-section style-two" style={{ backgroundImage: 'url(assets/newestBiotech/images/honey.jpg)' }}>
                         <div className="auto-container">
-                            <div className="sec-title text-center">
-                                <h2>Our approach to working with our clients <br /> provides significant benefits</h2>
-                                <div className="text-decoration">
-                                    <span className="left" />
-                                    <span className="right" />
-                                </div>
-                            </div>
-                            <div className="wrapper-box">
-                                <div className="outer-box">
-                                    <div className="row m-0">
-                                        <div className="col-lg-4 col-md-6 whay-choose-block">
-                                            <div className="inner-box">
-                                                <div className="icon"><span className="flaticon-rocket-2" /></div>
-                                                <h4>Quick Response</h4>
-                                                <div className="text">Businesswill frequently <br /> occur all pleasures have <br /> to accepted.</div>
-                                            </div>
+                            <div className="row">
+                                <div className="col-lg-8">
+                                    <div className="sec-title light">
+                                        <h2>GLUCOSE MONOHYDRATE</h2>
+                                        <div className="text-decoration">
+                                            <span className="left" />
+                                            <span className="right" />
                                         </div>
-                                        <div className="col-lg-4 col-md-6 whay-choose-block">
-                                            <div className="inner-box">
-                                                <div className="icon"><span className="flaticon-target-1" /></div>
-                                                <h4>Experience Team</h4>
-                                                <div className="text">Complete accounts of <br /> the system expounds in <br /> teachings great.</div>
-                                            </div>
-                                        </div>
-                                        <div className="col-lg-4 col-md-6 whay-choose-block">
-                                            <div className="inner-box">
-                                                <div className="icon"><span className="flaticon-world-1" /></div>
-                                                <h4>Flexible Payment</h4>
-                                                <div className="text">To take a trivial example, <br /> which of us ever under- <br /> takes laborious.</div>
-                                            </div>
-                                        </div>
-                                        <div className="col-lg-4 col-md-6 whay-choose-block">
-                                            <div className="inner-box">
-                                                <div className="icon"><span className="flaticon-advice" /></div>
-                                                <h4>Tailored advice</h4>
-                                                <div className="text">Complete accounts of <br /> the system expounds in <br /> teachings great.</div>
-                                            </div>
-                                        </div>
-                                        <div className="col-lg-4 col-md-6 whay-choose-block">
-                                            <div className="inner-box">
-                                                <div className="icon"><span className="flaticon-medal" /></div>
-                                                <h4>Quality Service</h4>
-                                                <div className="text">To take a trivial example, <br /> which of us ever under- <br /> takes laborious.</div>
-                                            </div>
-                                        </div>
-                                        <div className="col-lg-4 col-md-6 whay-choose-block">
-                                            <div className="inner-box">
-                                                <div className="icon"><span className="flaticon-agreement" /></div>
-                                                <h4>24/7 Support</h4>
-                                                <div className="text">Businesswill frequently <br /> occur all pleasures have <br /> to accepted.</div>
-                                            </div>
-                                        </div>
+                                        <div className="white-text">In the food industry and beverage industry, it is used as sweetener, nutrient and filler. In the pharmaceutical industry, it can be used as a nutrient solution to make oral liquid or intravenous injection. In the leather industry, sole leather and leather case leather are used as reducing agents.</div>
                                     </div>
+                                    <div className="bottom-text">We have won 10 more products <Link href="#">View All products<i className="flaticon-right" /></Link></div>
                                 </div>
-                            </div>
-                        </div>
-                    </section>
-                    {/* Testimonial Section Eleven */}
-                    <section className="testimonial-section-eleven">
-                        <div className="auto-container">
-                            <div className="sec-title light text-center">
-                                <h2>Team behind our success</h2>
-                                <div className="text-decoration">
-                                    <span className="left" />
-                                    <span className="right" />
-                                </div>
-                            </div>
-                            <div className="wrapper-box">
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Genentech</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-22.jpg" alt="" /></div>
-                                </div>
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Adam Clinton</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-23.jpg" alt="" /></div>
-                                </div>
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Homer Donnie</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-24.jpg" alt="" /></div>
-                                </div>
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Genentech</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-25.jpg" alt="" /></div>
-                                </div>
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Jerome Hobert</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-26.jpg" alt="" /></div>
-                                </div>
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Leonard Melvin</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-27.jpg" alt="" /></div>
-                                </div>
-                                <div className="client-block">
-                                    <div className="content">
-                                        <h4>Genentech</h4>
-                                        <h5>Nigeria</h5>
-                                    </div>
-                                    <div className="thumb"><img src="/assets/images/resource/author-thumb-28.jpg" alt="" /></div>
-                                </div>
-                                <img src="/assets/images/resource/map-three.png" alt="" />
-                            </div>
-                            <div className="testimonial-outer">
-                                {/*Testimonial Carousel*/}
-                                <TestimonialSlider16 />
                             </div>
                         </div>
                     </section>

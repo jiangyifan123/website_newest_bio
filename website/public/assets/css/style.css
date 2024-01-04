@@ -9714,7 +9714,7 @@ body .btn-style-one:hover {
 
 .award-section .bottom-text {
     font-size: 18px;
-    color: #e9eef8;
+    color: #fff;
 }
 
 .award-section .bottom-text a {
@@ -15587,6 +15587,10 @@ body .btn-style-one:hover {
 
 .award-section.style-two .sec-title .text {
     color: #d2ccda;
+}
+
+.award-section.style-two .sec-title .white-text {
+    color: #fff;
 }
 
 /* Team Section Seven */
