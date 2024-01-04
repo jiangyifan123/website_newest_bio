@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Blogs And News" wrapperCls="home_1" backgroundImage={'/assets/newestBiotech/images/newspaper_banner.jpeg'}>
+            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Blogs And News" wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/newspaper_banner.jpeg'}>
                 <div>
                     <section className="sidebar-page-container">
                         <div className="auto-container">
