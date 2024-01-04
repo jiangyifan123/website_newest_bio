@@ -30,7 +30,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/elements/ProductFilter.js"  ],
   "exclude": [
     "node_modules"
   ]
