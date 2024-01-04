@@ -4,14 +4,14 @@ import Link from "next/link"
 export default function Award() {
     return (
         <>
-            <section className="award-section" style={{ backgroundImage: 'url(assets/images/background/bg-9.jpg)' }}>
+            <section className="award-section" style={{ backgroundImage: 'url(assets/newestBiotech/images/1679510916-banner-6.jpg)' }}>
                 <div className="auto-container">
                     <div className="row">
                         <div className="col-lg-8 offset-lg-4">
                             <div className="sec-title light style-three">
                                 <h5>Achivements</h5>
                                 <h2>Our awards and achivements</h2>
-                                <div className="text">To take a trivial example, which of us ever undertakes laborious physical exercise, except <br />obtain some advantage from it enjoy a pleasure.</div>
+                                {/* <div className="text">To take a trivial example, which of us ever undertakes laborious physical exercise, except <br />obtain some advantage from it enjoy a pleasure.</div> */}
                             </div>
                             <div className="wrapper-box">
                                 <div className="row">

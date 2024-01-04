@@ -1,6 +1,3 @@
-import ServiceSlider3 from "@/components/slider/ServiceSlider3"
-
-
 export default function Services() {
     return (
         <>
@@ -11,10 +8,86 @@ export default function Services() {
                             <h5>Industries</h5>
                             <h2>Major industries we served</h2>
                         </div>
-                        <div className="text">Which is the same as saying through shrinking from toil and pain <br /> these perfectly simple and easy to distinguish.</div>
+                        {/* <div className="text">Which is the same as saying through shrinking from toil and pain <br /> these perfectly simple and easy to distinguish.</div> */}
                     </div>
-                    {/*Theme Carousel*/}
-                    <ServiceSlider3 />
+                    <div className="auto-container">
+                        <div className="row">
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/beverages.png" /></div>
+                                        <h4>Beverage</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/cupcake.png" /></div>
+                                        <h4>Bakery &amp; Confection</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/cow-alt.png" /></div>
+                                        <h4>Diary &amp; Non-Diary</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/capsules.png" /></div>
+                                        <h4>Capsule Production</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/lipstick.png" /></div>
+                                        <h4>Cosmetic</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/band-aid.png" /></div>
+                                        <h4>Wound Care Products</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/medicine.png" /></div>
+                                        <h4>Pharmaceutical gels</h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/bacterium.png" /></div>
+                                        <h4>Microbio Cultivation</h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 service-block-five">
+                                <div className="inner-box">
+                                    <div className="content-box">
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/mortar-pestle.png" /></div>
+                                        <h4>Drug Delivery System</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
         </>

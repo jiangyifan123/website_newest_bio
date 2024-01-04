@@ -1,16 +1,16 @@
 
 import Layout from "@/components/layout/Layout"
-import About from "@/components/sections/home3/About"
-import Award from "@/components/sections/home3/Award"
-import Banner from "@/components/sections/home3/Banner"
-import Cases from "@/components/sections/home3/Cases"
-import Experience from "@/components/sections/home3/Experience"
-import Features from "@/components/sections/home3/Features"
-import MeetUp from "@/components/sections/home3/MeetUp"
-import News from "@/components/sections/home3/News"
-import Services from "@/components/sections/home3/Services"
-import Subscribe from "@/components/sections/home3/Subscribe"
-import Testimonial from "@/components/sections/home3/Testimonial"
+import About from "@/components/sections/home/About"
+import Award from "@/components/sections/home/Award"
+import Banner from "@/components/sections/home/Banner"
+import Cases from "@/components/sections/home/Cases"
+import Experience from "@/components/sections/home/Experience"
+import Features from "@/components/sections/home/Features"
+import MeetUp from "@/components/sections/home/MeetUp"
+import News from "@/components/sections/home/News"
+import Services from "@/components/sections/home/Services"
+import Subscribe from "@/components/sections/home/Subscribe"
+import Testimonial from "@/components/sections/home/Testimonial"
 export default function Home() {
 
     return (
@@ -19,14 +19,14 @@ export default function Home() {
                 <Banner />
                 <Features />
                 <About />
-                <Experience />
+                {/* <Experience /> */}
                 <Cases />
                 <Services />
-                <Testimonial />
+                {/* <Testimonial /> */}
                 <Award />
                 <News />
-                <MeetUp />
-                <Subscribe />
+                {/* <MeetUp /> */}
+                {/* <Subscribe /> */}
             </Layout>
         </>
     )

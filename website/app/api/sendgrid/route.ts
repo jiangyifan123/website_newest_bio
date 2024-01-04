@@ -19,7 +19,7 @@ export async function POST(request: NextRequest) {
       </div>
     `;
         await sendgrid.send({
-            to: "nimbusnova123@gmail.com",
+            to: "info@newestbio.com",
             from: "info@nimbus-nova.com",
             subject: data.subject,
             html: htmlContent,

@@ -130,7 +130,7 @@
 .home_3 .banner-section .owl-theme .owl-nav button:hover:before,
 .home_3 .search-popup .search-form fieldset input[type="submit"],
 .home_3 .btn-style-two .btn-title:before {
-    background-color: #7fb23f;
+    background-color: #48ace2;
 }
 
 /* Color */
@@ -272,7 +272,7 @@
 .home_3 .main-menu .navigation>li.current>a,
 .home_3 .navbar-right-info .faq-btn a span,
 .home_3 .sec-title h4 {
-    color: #7fb23f;
+    color: #48ace2;
 }
 
 /* Border Color */
@@ -312,12 +312,12 @@
 .home_3 .testimonial-section-eleven .client-block:hover .thumb,
 .home_3 .testimonial-section-eleven .client-block:hover .thumb:before,
 .home_3 .about-section .logo {
-    border-color: #7fb23f;
+    border-color: #48ace2;
 }
 
 .home_3 .accordion-box.style-two .block .acc-btn.active,
 .home_3 .accordion-box.style-three .block .acc-btn.active {
-    border-left-color: #7fb23f;
+    border-left-color: #48ace2;
 }
 
 /* Gradient Color */
