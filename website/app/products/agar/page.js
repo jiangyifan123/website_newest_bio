@@ -10,27 +10,23 @@ export default function Home() {
     const agarProductList = [
         {
             img: "/assets/newestBiotech/images/products/Agar.jpg",
-            title: "Agar Manufacturer",
+            title: "Agar",
             desc: "Learn more",
-            url: "#",
+            url: "/products/agar",
         },
     ]
 
-    const desc = `Agar Manufacturer – Newest Biotech INC. is a specialized Agar Manufacturer of various gel strengths and specifications, used in dietary supplements, foods, and beverages.
-
-    Because of Newest Biotech INC. years of experience as an Agar Manufacturer for various industries, no barriers stand in the way of our customer service and fulfilling our clients’ specific product specifications.
+    const desc = `Newest Biotech INC., a leading Agar Manufacturer, excels in producing high-quality agar with a unique capability to melt at 65 degrees Celsius, catering to diverse industries including dietary supplements, foods, and beverages. 
     
-    In addition to being an Agar Manufacturer of various gel strengths, we also are here to help clients formulate perfect Agar mixtures or source other key ingredients.
+    Leveraging years of expertise, we offer unparalleled customer service and customized product specifications to meet clients' unique requirements. Our specialization in various gel strengths sets us apart, enabling us to produce both small and large quantities efficiently, catering to one-time or regular monthly orders. 
     
-    Being a specialized Agar manufacturer of various gel strengths, it is possible for us, unlike many other Agar manufacturers, to produce small quantities, for one-time orders or monthly orders. Also, as the Agar manufacturer, we can easily accommodate a customer’s specifications quickly. We are able to produce larger quantities very cost-efficiently. Our modern systems and production methods allow us to deliver fast, while not sacrificing quality.
+    Our modern production methods ensure fast delivery without compromising on quality. Committed to customer satisfaction, we provide flexible packaging options and strive to offer the best quality at competitive prices, aiming to be the industry leader.`
     
-    We are excited to fulfill individual needs, such as various packaging types or order sizes, when producing and packaging, striving to fulfill our customer’s wishes. We strive to be the best Agar manufacturer in the industry, by providing the best quality and beating our competitor’s prices!`
-    
-    const title = "Agar Manufacturer"
+    const title = "Agar"
 
     return (
         <>
-            <Layout headerStyle={3} footerStyle={3} breadcrumbTitle={title} wrapperCls="home_3">
+            <Layout headerStyle={3} footerStyle={3} breadcrumbTitle={title} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'}>
                 <section className="project-details">
                     <div className="auto-container">
                         <div className="top-box">
@@ -39,25 +35,36 @@ export default function Home() {
                                     <div className="row">
                                         <div className="col-md-6">
                                             <h2>{title}</h2>
+                                            <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Download PDF</span></Link></div>
                                         </div>
                                         <div className="col-md-6">
                                             <div className="project-info-wrapper">
                                                 <div className="project-info">
-                                                    <p>Service:</p>
-                                                    <h5>Fulfil custom need</h5>
+                                                    <p>Our Specialty:</p>
+                                                    <h5>Fulfill custom need to produce Agar with melting point as low as 65 degree Celsius</h5>
                                                 </div>
                                                 <div className="project-info">
-                                                    <p>Product type:</p>
-                                                    <h5>Agar</h5>
+                                                    <p>Functionalities:</p>
+                                                    <h5>Forms Strong, Brittle Gels</h5>
+                                                    <h5>Binds Water</h5>
+                                                    <h5>Tolerant of High Solids</h5>
+                                                    <h5>Require Heat Activation</h5>
                                                 </div>
+
                                                 <div className="project-info">
-                                                    <p>Share:</p>
-                                                    <ul className="social-links clearfix">
-                                                        <li><Link href="#"><span className="fab fa-facebook-f" /></Link></li>
-                                                        <li><Link href="#"><span className="fab fa-twitter" /></Link></li>
-                                                        <li><Link href="#"><span className="fab fa-google-plus-g" /></Link></li>
-                                                        <li><Link href="#"><span className="fab fa-skype" /></Link></li>
-                                                    </ul>
+                                                    <p>Applicable industries:</p>
+                                                    <h5>Food Industry</h5>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Bakery Products</h6>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Dairy Products</h6>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Meat Products</h6>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Beverages</h6>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Health Foods</h6>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Vegetarian and Vegan Foods</h6>
+                                                        <h6 style={{ paddingLeft: '10px' }}>Sauces and Dressings</h6>
+                                                    <h5>Microbiology</h5>
+                                                    <h5>Pharmaceutical</h5>
+                                                    <h5>Biotechnology</h5>
+                                                    <h5>Cosmetics and Personal Care</h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -77,7 +84,12 @@ export default function Home() {
                                             })
                                         }
                                     </div>
-                                    <div className="link-btn"><Link href="#" className="theme-btn btn-style-one"><span className="btn-title">INTERESTED</span></Link></div>
+                                    <div>
+
+                                        <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to learn more</span></Link></div>
+                                    </div>
+                                    
+                                    
                                 </div>
                             </div>
                         </div>
