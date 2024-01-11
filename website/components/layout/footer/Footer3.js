@@ -75,9 +75,9 @@ export default function Footer3() {
                     <div className="bottom-area">
                         <div className="auto-container">
                             <ul className="social-icon row m-0">
-                                <li><Link href="#">Facebook</Link></li>
-                                <li><Link href="#">Twitter</Link></li>
-                                <li><Link href="#">Linkedin</Link></li>
+                                <li><Link href="https://www.facebook.com/profile.php?id=61555626776648">Facebook</Link></li>
+                                <li><Link href="https://www.instagram.com/newestbio/">Instagram</Link></li>
+                                <li><Link href="https://www.linkedin.com/company/newest-biotech/about/">Linkedin</Link></li>
                             </ul>
                         </div>
                     </div>

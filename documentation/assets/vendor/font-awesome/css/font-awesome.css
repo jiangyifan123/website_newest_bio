@@ -627,6 +627,9 @@
 .fa-twitter:before {
   content: "\f099";
 }
+.fa-instagram:before {
+  content: "\f16d";
+}
 .fa-facebook-f:before,
 .fa-facebook:before {
   content: "\f09a";
