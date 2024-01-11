@@ -16,12 +16,12 @@ export default function Home() {
         },
     ]
 
-    const desc = `Newest Biotech INC., a leading Agar Manufacturer, excels in producing high-quality agar with a unique capability to melt at 65 degrees Celsius, catering to diverse industries including dietary supplements, foods, and beverages. 
+    const desc = `Newest Biotech INC., a leading Agar Manufacturer, excels in producing high-quality agar with a unique capability to melt at 65 degrees Celsius, catering to diverse industries.
     
     Leveraging years of expertise, we offer unparalleled customer service and customized product specifications to meet clients' unique requirements. Our specialization in various gel strengths sets us apart, enabling us to produce both small and large quantities efficiently, catering to one-time or regular monthly orders. 
     
     Our modern production methods ensure fast delivery without compromising on quality. Committed to customer satisfaction, we provide flexible packaging options and strive to offer the best quality at competitive prices, aiming to be the industry leader.`
-    
+
     const title = "Agar"
 
     return (
@@ -40,6 +40,13 @@ export default function Home() {
                                         <div className="col-md-6">
                                             <div className="project-info-wrapper">
                                                 <div className="project-info">
+                                                    <p> Other names </p>
+                                                    <h5>Agar Agar</h5>
+                                                    <h5>Agarose</h5>
+
+                                                </div>
+
+                                                <div className="project-info">
                                                     <p>Our Specialty:</p>
                                                     <h5>Fulfill custom need to produce Agar with melting point as low as 65 degree Celsius</h5>
                                                 </div>
@@ -54,13 +61,11 @@ export default function Home() {
                                                 <div className="project-info">
                                                     <p>Applicable industries:</p>
                                                     <h5>Food Industry</h5>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Bakery Products</h6>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Dairy Products</h6>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Meat Products</h6>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Beverages</h6>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Health Foods</h6>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Vegetarian and Vegan Foods</h6>
-                                                        <h6 style={{ paddingLeft: '10px' }}>Sauces and Dressings</h6>
+                                                    <h6 style={{ paddingLeft: '10px' }}>Bakery Products</h6>
+                                                    <h6 style={{ paddingLeft: '10px' }}>Dairy Products</h6>
+                                                    <h6 style={{ paddingLeft: '10px' }}>Beverages</h6>
+                                                    <h6 style={{ paddingLeft: '10px' }}>Health Foods</h6>
+                                                    <h6 style={{ paddingLeft: '10px' }}>Vegetarian and Vegan Foods</h6>
                                                     <h5>Microbiology</h5>
                                                     <h5>Pharmaceutical</h5>
                                                     <h5>Biotechnology</h5>
@@ -86,10 +91,10 @@ export default function Home() {
                                     </div>
                                     <div>
 
-                                        <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to learn more</span></Link></div>
+                                        <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to get a FREE quote</span></Link></div>
                                     </div>
-                                    
-                                    
+
+
                                 </div>
                             </div>
                         </div>
