@@ -47,12 +47,12 @@ export default function PortfolioFilter1() {
 
             <div className="filters clearfix">
                 <ul className="filter-tabs filter-btns clearfix">
-                    <li className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All Topics <span className="count">0</span></li>
-                    <li className={activeBtn("cat-1")} onClick={handleFilterKeyChange("cat-1")}>Business <span className="count">0</span></li>
+                    <li className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All<span className="count">0</span></li>
+                    {/* <li className={activeBtn("cat-1")} onClick={handleFilterKeyChange("cat-1")}>Business <span className="count">0</span></li>
                     <li className={activeBtn("cat-2")} onClick={handleFilterKeyChange("cat-2")}>Coaching <span className="count">0</span></li>
                     <li className={activeBtn("cat-3")} onClick={handleFilterKeyChange("cat-3")}>Financial <span className="count">0</span></li>
                     <li className={activeBtn("cat-4")} onClick={handleFilterKeyChange("cat-4")}>Marketing <span className="count">0</span></li>
-                    <li className={activeBtn("cat-5")} onClick={handleFilterKeyChange("cat-5")}>Technical <span className="count">0</span></li>
+                    <li className={activeBtn("cat-5")} onClick={handleFilterKeyChange("cat-5")}>Technical <span className="count">0</span></li> */}
                 </ul>
             </div>
             <div className="items-container row clearfix">
