@@ -46,7 +46,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isSide
                                 </nav>
                                 {/* Main Menu End*/}
                                 <div className="navbar-right-info">
-                                    <div className="link-btn"><a href="#" className="theme-btn btn-style-one"><span className="btn-title">Get In Touch</span></a></div>
+                                    <div className="link-btn"><a href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Get In Touch</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isSide
                                     </nav>
                                     {/* Main Menu End*/}
                                     <div className="navbar-right-info">
-                                        <div className="link-btn"><a href="#" className="theme-btn btn-style-one"><span className="btn-title">Get In Touch</span></a></div>
+                                        <div className="link-btn"><a href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Get In Touch</span></a></div>
                                     </div>
                                 </div>
                             </div>
