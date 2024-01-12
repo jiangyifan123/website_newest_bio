@@ -94,7 +94,6 @@ export default function Home() {
                                         <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to get a FREE quote</span></Link></div>
                                     </div>
 
-
                                 </div>
                             </div>
                         </div>

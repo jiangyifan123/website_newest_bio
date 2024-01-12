@@ -1,16 +1,16 @@
 
 import Layout from "@/components/layout/Layout"
 import About from "@/components/sections/home/About"
-import Award from "@/components/sections/home/Award"
+// import Award from "@/components/sections/home/Award"
 import Banner from "@/components/sections/home/Banner"
 import Cases from "@/components/sections/home/Cases"
-import Experience from "@/components/sections/home/Experience"
+// import Experience from "@/components/sections/home/Experience"
 import Features from "@/components/sections/home/Features"
-import MeetUp from "@/components/sections/home/MeetUp"
-import News from "@/components/sections/home/News"
+// import MeetUp from "@/components/sections/home/MeetUp"
+// import News from "@/components/sections/home/News"
 import Services from "@/components/sections/home/Services"
-import Subscribe from "@/components/sections/home/Subscribe"
-import Testimonial from "@/components/sections/home/Testimonial"
+// import Subscribe from "@/components/sections/home/Subscribe"
+// import Testimonial from "@/components/sections/home/Testimonial"
 export default function Home() {
 
     return (
@@ -23,8 +23,8 @@ export default function Home() {
                 <Cases />
                 <Services />
                 {/* <Testimonial /> */}
-                <Award />
-                <News />
+                {/* <Award /> */}
+                {/* <News /> */}
                 {/* <MeetUp /> */}
                 {/* <Subscribe /> */}
             </Layout>
