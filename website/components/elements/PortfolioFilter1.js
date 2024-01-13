@@ -3,6 +3,7 @@
 import Isotope from "isotope-layout"
 import Link from "next/link"
 import { useCallback, useEffect, useRef, useState } from "react"
+import {getData, getUniqueCategories} from "@/components/data/products"
 
 export default function PortfolioFilter1() {
     // Isotope
@@ -40,166 +41,44 @@ export default function PortfolioFilter1() {
 
     const activeBtn = (value) => (value === filterKey ? "filter active" : "filter")
 
-
-
+    const data = getData()
+    const categoriesMap = getUniqueCategories(data)
     return (
         <>
 
             <div className="filters clearfix">
                 <ul className="filter-tabs filter-btns clearfix">
-                    <li className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All<span className="count">0</span></li>
-                    {/* <li className={activeBtn("cat-1")} onClick={handleFilterKeyChange("cat-1")}>Business <span className="count">0</span></li>
-                    <li className={activeBtn("cat-2")} onClick={handleFilterKeyChange("cat-2")}>Coaching <span className="count">0</span></li>
-                    <li className={activeBtn("cat-3")} onClick={handleFilterKeyChange("cat-3")}>Financial <span className="count">0</span></li>
-                    <li className={activeBtn("cat-4")} onClick={handleFilterKeyChange("cat-4")}>Marketing <span className="count">0</span></li>
-                    <li className={activeBtn("cat-5")} onClick={handleFilterKeyChange("cat-5")}>Technical <span className="count">0</span></li> */}
+                    <li className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All</li>
+                    {
+                        categoriesMap.map(
+                            (categoryMap, index) => <li className={activeBtn(categoryMap.idx)} onClick={handleFilterKeyChange(categoryMap.idx)} key={index+1}>{categoryMap.name}</li>
+                        )
+                    }
                 </ul>
             </div>
             <div className="items-container row clearfix">
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-1 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-1.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Marketing</h5>
-                                <h4>Business Leadership</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-2 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-2.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Technical</h5>
-                                <h4>Market Expansion</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-1 cat-2 cat-4 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-3.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Coaching</h5>
-                                <h4>Money Savings</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-5 cat-2 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-4.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Business</h5>
-                                <h4>Helthy Solutions</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-2 cat-1 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-5.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Marketing</h5>
-                                <h4>Startup Business</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-3 cat-5 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-4-1.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Technical</h5>
-                                <h4>Market Expansion</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-1 cat-3 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-4-2.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Marketing</h5>
-                                <h4>Business Leadership</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-1 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-4-3.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Financial</h5>
-                                <h4>Capital Management</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* Case Block */}
-                <div className="case-block-one masonry-item all cat-4 cat-5 col-lg-4 col-md-6 col-sm-12">
-                    <div className="inner-box">
-                        <div className="image">
-                            <img src="/assets/images/gallery/gallery-4-4.jpg" alt="" />
-                        </div>
-                        <div className="overlay">
-                            <div className="title"><span className="icon"><img src="/assets/images/icons/icon-8.png" alt="" /></span>Precision</div>
-                            <div className="link-btn"><Link href="#"><i className="flaticon-right-arrow" /></Link></div>
-                            <div className="content">
-                                <h5>Financial</h5>
-                                <h4>Capital Management</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                {
+                    data.map(
+                        (content, index) => {
+                            const categoryClasses = content.category_idx.join(' ');
+                            return <div className={`case-block-one masonry-item all col-lg-4 col-md-6 col-sm-12 ${categoryClasses}`} key={content.title+index}>
+                                <div className="inner-box">
+                                    <div className="image">
+                                        <img src={content.image} alt="" />
+                                    </div>
+                                    <div className="overlay">
+                                        <div className="title"><span className="icon"><img src={content.overlay} alt="" /></span>{content.title}</div>
+                                        <div className="link-btn"><Link href={content.link}><i className="flaticon-right-arrow" /></Link></div>
+                                        <div className="content">
+                                            <h5>{content.content_top_header}</h5>
+                                            <h4>{content.content_secondary_header}</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                        }
+                    )
+                }
             </div>
         </>
     )

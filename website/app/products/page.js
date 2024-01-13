@@ -16,7 +16,6 @@ export default function Home() {
                         <div className="sortable-masonry">
                             {/*Filter*/}
                             <PortfolioFilter1/>
-                            <div className="link-btn text-center mb-30"><Link href="#" className="theme-btn btn-style-one text-white"><span className="btn-title">Load More</span></Link></div>
                         </div>
                     </div>
                 </section>
