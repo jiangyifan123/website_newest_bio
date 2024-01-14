@@ -14,7 +14,7 @@ export default function Home({ params }: { params: { category: string, productNa
 
     return (
         <>
-            <Layout headerStyle={3} footerStyle={3} breadcrumbTitle={title} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'}>
+            <Layout headerStyle={3} footerStyle={3} breadcrumbTitle={title} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'} headTitle=''>
                 <section className="project-details">
                     <div className="auto-container">
                         <div className="top-box">
