@@ -41,8 +41,8 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                                         <li><Link href="/products/prune-juice-concentrate">Prune Juice Concentrate</Link></li>
                                         <li><Link href="/products/allulose">Allulose</Link></li>
                                     </ul>
-                                    <div className={isActive.key == 3 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(3)}><span className="fa fa-angle-right" /></div></li>
-                                
+                                    <div className={isActive.key == 3 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(3)}><span className="fa fa-angle-right" /></div>
+                                </li>
                                 {/* <li><Link href="/services">Services</Link></li> */}
                                 <li><Link href="/contact">Contact</Link></li>
                                 <li><Link href="/blogs">Blogs & News</Link></li>
