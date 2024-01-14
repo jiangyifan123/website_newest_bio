@@ -71,7 +71,7 @@ export default function Home() {
                             </div>
                         </div>
                     </section>
-                    <section className="award-section style-two" style={{ backgroundImage: 'url(assets/newestBiotech/images/honey.jpg)' }}>
+                    {/* <section className="award-section style-two" style={{ backgroundImage: 'url(assets/newestBiotech/images/honey.jpg)' }}>
                         <div className="auto-container">
                             <div className="row">
                                 <div className="col-lg-8">
@@ -87,8 +87,8 @@ export default function Home() {
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <section className="team-section-seven">
+                    </section> */}
+                    {/* <section className="team-section-seven">
                         <div className="auto-container">
                             <div className="top-content row m-0 justify-content-between">
                                 <div className="sec-title">
@@ -169,9 +169,9 @@ export default function Home() {
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> */}
                     {/* Feature Section Two */}
-                    <section className="feature-section-two">
+                    {/* <section className="feature-section-two">
                         <div className="auto-container">
                             <div className="row">
                                 <div className="col-lg-6 feature-block-two style-two">
@@ -194,7 +194,7 @@ export default function Home() {
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> */}
                 </div>
 
             </Layout>

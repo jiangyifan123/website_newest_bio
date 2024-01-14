@@ -66,8 +66,8 @@ export default function Footer3() {
                         <div className="row m-0 justify-content-between">
                             <div className="copyright-text"><Link href="#">© {new Date().getFullYear()} Newest BioTech Inc,</Link> All Rights Reserved.</div>
                             <ul className="menu">
-                                <li><Link href="#">Privacy Policy </Link></li>
-                                <li><Link href="#">Terms &amp; Conditions</Link></li>
+                                <li><Link href="/privacy-policy">Privacy Policy </Link></li>
+                                <li><Link href="/terms-and-conditions">Terms &amp; Conditions</Link></li>
                                 <li><Link href="#">Site Map</Link></li>
                             </ul>
                         </div>

@@ -30,7 +30,7 @@ export default function Footer1() {
                                                     <li><Link href="/about-1">About</Link></li>
                                                     <li><Link href="/team-1">Meet Our Team</Link></li>
                                                     <li><Link href="/blog-1">Blog</Link></li>
-                                                    <li><Link href="/services">Services</Link></li>
+                                                    {/* <li><Link href="/services">Services</Link></li> */}
                                                     <li><Link href="/contact-1">Contact</Link></li>
                                                 </ul>
                                             </div>
