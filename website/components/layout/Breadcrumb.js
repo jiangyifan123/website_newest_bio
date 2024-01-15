@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-export default function Breadcrumb({ breadcrumbTitle, backgroundImage }) {
+export default function Breadcrumb({ breadcrumbTitle, backgroundImage, Category }) {
     const sectionStyle = {
         backgroundImage: backgroundImage !== undefined ? `url(${backgroundImage})` : 'url(/assets/newestBiotech/images/banner/banner.jpeg)',
     };    return (
@@ -14,7 +14,7 @@ export default function Breadcrumb({ breadcrumbTitle, backgroundImage }) {
                             </div>
                             <ul className="bread-crumb clearfix">
                                 <li><Link href="/">Home</Link></li>
-                                <li><Link href="#">Company</Link></li>
+                                {Category && <li>{Category}</li>}
                                 <li>{breadcrumbTitle}</li>
                             </ul>
                         </div>

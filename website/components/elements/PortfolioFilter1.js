@@ -68,7 +68,7 @@ export default function PortfolioFilter1() {
                                     </div>
                                     <div className="overlay">
                                         <div className="title"><span className="icon"><img src={content.overlay} alt="" /></span>{content.title}</div>
-                                        <div className="link-btn"><Link href={content.link}><i className="flaticon-right-arrow" /></Link></div>
+                                        <div className="link-btn"><Link href={`/products/${categoryClasses}/${content.pid}`}><i className="flaticon-right-arrow" /></Link></div>
                                         <div className="content">
                                             <h5>{content.content_top_header}</h5>
                                             <h4>{content.content_secondary_header}</h4>

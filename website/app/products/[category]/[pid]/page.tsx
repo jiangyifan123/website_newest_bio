@@ -1,20 +1,22 @@
 
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
-import dynamic from 'next/dynamic'
-const ProductFilter = dynamic(() => import('@/components/elements/ProductFilter'), {
-    ssr: false,
-})
-import { getProductDetailByName } from '@/components/data/products_detail'
+import { getProductByPid } from '@/components/data/products'
+import { getProductDetailByPid } from '@/components/data/products_detail'
+import { notFound } from 'next/navigation';
 
-export default function Home({ params }: { params: { category: string, productName: string } }) {
-    const data = getProductDetailByName(params.productName)
+export default function Home({ params }: { params: { category: string, pid: string } }) {
+    const product = getProductByPid(params.pid);
+    const product_detail = getProductDetailByPid(params.pid);
+    const procceedCategory = params.category.replace('_', ' ');
 
-    const title = params.productName
+    if (product === undefined) {
+        return notFound()
+    }
 
     return (
         <>
-            <Layout headerStyle={3} footerStyle={3} breadcrumbTitle={title} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'} headTitle=''>
+            <Layout headerStyle={3} footerStyle={3} headTitle={product.title} breadcrumbTitle={product.title} Category={procceedCategory} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'}>
                 <section className="project-details">
                     <div className="auto-container">
                         <div className="top-box">
@@ -22,13 +24,13 @@ export default function Home({ params }: { params: { category: string, productNa
                                 <div className="col-lg-6">
                                     <div className="row">
                                         <div className="col-md-6">
-                                            <h2>{title}</h2>
-                                            <div className="link-btn"><Link href={data.pdfUrl} className="theme-btn btn-style-one"><span className="btn-title">Download PDF</span></Link></div>
+                                            <h2>{product.title}</h2>
+                                            <div className="link-btn"><Link href={product_detail.pdfUrl} className="theme-btn btn-style-one"><span className="btn-title">Download PDF</span></Link></div>
                                         </div>
                                         <div className="col-md-6">
                                             <div className="project-info-wrapper">
                                                 {
-                                                    Object.entries(data.info).map(([infoTitle, infoSubInfo]) => {
+                                                    Object.entries(product_detail.info).map(([infoTitle, infoSubInfo]) => {
                                                         return <div className="project-info">
                                                             <p> {infoTitle} </p>
                                                             {
@@ -54,7 +56,7 @@ export default function Home({ params }: { params: { category: string, productNa
                                     <h4>Description</h4>
                                     <div className="text">
                                         {
-                                            data.desc.split('\n').map(content => {
+                                            product_detail.desc.split('\n').map(content => {
                                                 if (content.trim().length > 0) {
                                                     return <>
                                                         <p>{content}</p>

@@ -1,9 +1,10 @@
 import Link from "next/link"
 // import { useRouter } from "next/router"
+import { getProductListSortedByCategory } from '@/components/data/products'
 
 export default function Menu() {
     // const router = useRouter()
-
+    console.log(getProductListSortedByCategory())
     return (
         <>
             <ul className="navigation clearfix">

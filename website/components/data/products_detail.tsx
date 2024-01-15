@@ -43,6 +43,6 @@ const product_detail = {
     }),
 }
 
-export function getProductDetailByName(name) {
+export function getProductDetailByPid(name) {
     return product_detail[name.toLowerCase()] || buildDetailObject({});
 }
