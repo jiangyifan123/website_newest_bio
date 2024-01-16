@@ -63,14 +63,16 @@ export default function PortfolioFilter1( { category } ) {
                                     <div className="image">
                                         <img src={content.image} alt="" />
                                     </div>
-                                    <div className="overlay">
-                                        <div className="title"><span className="icon"><img src={content.overlay} alt="" /></span>{content.title}</div>
-                                        <div className="link-btn"><Link href={`/products/${filterKey}/${content.pid}`}><i className="flaticon-right-arrow" /></Link></div>
-                                        <div className="content">
-                                            <h5>{content.content_top_header}</h5>
-                                            <h4>{content.content_secondary_header}</h4>
+                                    <Link href={`/products/${filterKey}/${content.pid}`}>
+                                        <div className="overlay">
+                                            <div className="title"><span className="icon"><img src={content.overlay} alt="" /></span>{content.title}</div>
+                                            <div className="link-btn"><i className="flaticon-right-arrow" /></div>
+                                            <div className="content">
+                                                <h5>{content.content_top_header}</h5>
+                                                <h4>{content.content_secondary_header}</h4>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </Link>
                                 </div>
                                 </div>
                         }
