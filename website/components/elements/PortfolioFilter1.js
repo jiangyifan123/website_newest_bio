@@ -40,6 +40,7 @@ export default function PortfolioFilter1( { category } ) {
     const activeBtn = (value) => (value === filterKey ? "filter active" : "filter")
     const data = getData()
     const categoriesMap = getUniqueCategories()
+
     return (
         <>
 
