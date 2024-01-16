@@ -7,8 +7,9 @@ import {getData, getUniqueCategories} from "@/components/data/products"
 
 export default function PortfolioFilter1( { category } ) {
     // Isotope
+    const defaultAllKey = "all"
     const isotope = useRef()
-    const [filterKey, setFilterKey] = useState(category || 'all')
+    const [filterKey, setFilterKey] = useState(category || defaultAllKey)
     useEffect(() => {
         setTimeout(() => {
             isotope.current = new Isotope(".items-container", {
@@ -28,9 +29,7 @@ export default function PortfolioFilter1( { category } ) {
     }, [])
     useEffect(() => {
         if (isotope.current) {
-            filterKey === "all"
-                ? isotope.current.arrange({ filter: `all` })
-                : isotope.current.arrange({ filter: `.${filterKey}` })
+            isotope.current.arrange({ filter: `.${filterKey}` })
         }
     }, [filterKey])
     const handleFilterKeyChange = useCallback((key) => () => {
@@ -46,7 +45,7 @@ export default function PortfolioFilter1( { category } ) {
 
             <div className="filters clearfix">
                 <ul className="filter-tabs filter-btns clearfix">
-                    <li className={activeBtn("all")} onClick={handleFilterKeyChange("all")}>All</li>
+                    <li className={activeBtn(defaultAllKey)} onClick={handleFilterKeyChange(defaultAllKey)}>All</li>
                     {
                         categoriesMap.map(
                             (categoryMap, index) => <li className={activeBtn(categoryMap.idx)} onClick={handleFilterKeyChange(categoryMap.idx)} key={index+1}>{categoryMap.name}</li>
