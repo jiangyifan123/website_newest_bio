@@ -2,7 +2,6 @@
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 import { getProductByPid } from '@/components/data/products'
-import { getProductDetailByPid } from '@/components/data/products_detail'
 import { notFound } from 'next/navigation';
 
 export default function Home({ params }: { params: { category: string, pid: string } }) {
