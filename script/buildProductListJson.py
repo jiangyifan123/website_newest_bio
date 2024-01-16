@@ -35,6 +35,7 @@ for category_name, products in productList.items():
         category_idx = '_'.join(category_name.lower().split(' '))
         if pid not in procceededProductList:
             procceededProductList[pid] = {"pid": pid, "title": product_name, "categories": [], "category_idx": [], "infos": {}}
+        info['pdfUrl'] = '#'
         procceededProductList[pid]["categories"].append(category_name)
         procceededProductList[pid]['category_idx'].append(category_idx)
         procceededProductList[pid]["infos"][category_idx] = info

@@ -7,9 +7,9 @@ import { notFound } from 'next/navigation';
 
 export default function Home({ params }: { params: { category: string, pid: string } }) {
     const product = getProductByPid(params.pid);
-    const product_detail = getProductDetailByPid(params.pid);
+    const product_detail = product.infos[params.category];
 
-    if (product === undefined) {
+    if (product === undefined || product_detail === undefined) {
         return notFound()
     }
 
@@ -29,18 +29,16 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                         <div className="col-md-6">
                                             <div className="project-info-wrapper">
                                                 {
-                                                    Object.entries(product_detail.info).map(([infoTitle, infoSubInfo]) => {
+                                                    Object.entries(product_detail).map(([infoTitle, infoTextList]) => {
+                                                        if (['desc', 'pdfUrl'].indexOf(infoTitle) > -1) {
+                                                            return <></>
+                                                        }
                                                         return <div className="project-info">
                                                             <p> {infoTitle} </p>
                                                             {
-                                                                Object.entries(infoSubInfo).map(([infoSubTitle, infoSubValue]) => {
+                                                                Object.values(infoTextList).map(text => {
                                                                     return <>
-                                                                        <h5>{infoSubTitle}</h5>
-                                                                        {
-                                                                            infoSubValue.map(value => {
-                                                                                return <h6 style={{ paddingLeft: '10px' }}>{value}</h6>
-                                                                            })
-                                                                        }
+                                                                        <h5>{text}</h5>
                                                                     </>
                                                                 })
                                                             }
@@ -55,7 +53,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                     <h4>Description</h4>
                                     <div className="text">
                                         {
-                                            product_detail.desc.split('\n').map(content => {
+                                            product_detail.desc.map(content => {
                                                 if (content.trim().length > 0) {
                                                     return <>
                                                         <p>{content}</p>

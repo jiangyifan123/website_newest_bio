@@ -1,15 +1,48 @@
 [
     {
-        "pid": "food_grade_xanthan_gum",
-        "title": "Food Grade Xanthan Gum",
+        "pid": "agar-agar",
+        "title": "Agar-agar",
         "categories": [
-            "Hydrocolloids"
+            "Gums"
         ],
         "category_idx": [
-            "hydrocolloids"
+            "gums"
         ],
         "infos": {
-            "hydrocolloids": {
+            "gums": {
+                "Functionalities:": [
+                    "1.Gelling Agent",
+                    "2.Thickening Agent",
+                    "3.Stabilizer",
+                    "4.Vegetarian and Vegan Alternative",
+                    "5.Heat Resistance",
+                    "6.Versatility in Culinary Applications"
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Culinary",
+                    "2.Pharmaceuticals",
+                    "3.Microbiology"
+                ],
+                "desc": [
+                    "Agar, derived from seaweed, is a food-grade hydrocolloid celebrated for its remarkable gelling and stabilizing properties. This natural substance has been a staple in Asian cuisines for centuries and has gained global popularity in the food industry. As a versatile ingredient, agar is prized for its ability to form strong, resilient gels at relatively low concentrations, making it an ideal vegetarian and vegan substitute for gelatin. Its neutral taste, odorless nature, and capacity to set gels at higher temperatures contribute to its widespread use in diverse culinary applications, ranging from desserts and confectionery to savory dishes. Beyond the kitchen, agar finds utility in microbiology laboratories as a solidifying agent for culture media, and in pharmaceuticals for encapsulation purposes. The widespread adoption of agar in various industries reflects its unique combination of natural origin, functionality, and adaptability in creating textures and structures in a myriad of products."
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "xanthan_gum",
+        "title": "Xanthan Gum",
+        "categories": [
+            "Gums"
+        ],
+        "category_idx": [
+            "gums"
+        ],
+        "infos": {
+            "gums": {
                 "Functionalities": [
                     "1.Thickening Agent",
                     "2.Stabilizer",
@@ -24,7 +57,8 @@
                 ],
                 "desc": [
                     "Food-grade xanthan gum is a polysaccharide produced through the fermentation of specific bacteria, primarily Xanthomonas campestris. Known for its remarkable thickening, stabilizing, and emulsifying properties, xanthan gum is widely used in the food industry as a versatile additive. It undergoes careful processing to meet strict food-grade standards, ensuring its safety and suitability for consumption. Xanthan gum is appreciated for its ability to create desirable textures, prevent ingredient separation, and improve the shelf life of various food and beverage products. Its applications range from salad dressings and sauces to gluten-free baking, providing viscosity and enhancing overall product quality. As a natural ingredient derived from microbial fermentation, food-grade xanthan gum caters to diverse dietary preferences and has become a staple in the formulation of numerous processed foods, contributing to their stability, texture, and sensory appeal."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -34,13 +68,13 @@
         "pid": "gellan_gum",
         "title": "Gellan Gum",
         "categories": [
-            "Hydrocolloids"
+            "Gums"
         ],
         "category_idx": [
-            "hydrocolloids"
+            "gums"
         ],
         "infos": {
-            "hydrocolloids": {
+            "gums": {
                 "Functionalities": [
                     "1.Gelling Agent",
                     "2.Thickening Agent",
@@ -57,7 +91,8 @@
                 ],
                 "desc": [
                     "Gellan gum is a food-grade hydrocolloid produced through the fermentation of certain bacterial strains(Sphingomonas elodea). Widely used in the food and beverage industry for its versatile gelling, thickening, and stabilizing properties, gellan gum is particularly valued for its ability to create unique textures and maintain stability over a broad range of temperatures. As a natural additive, gellan gum is suitable for various dietary preferences, including vegetarian and vegan formulations. It undergoes stringent processing to meet food-grade standards, ensuring its safety and efficacy in diverse applications. Gellan gum is commonly found in a variety of products, including dairy alternatives, desserts, sauces, and confectionery, contributing to improved texture, suspension of particles, and enhanced overall product quality. Its adaptability and effectiveness in a range of formulations make gellan gum a popular choice in the food industry."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -67,13 +102,13 @@
         "pid": "carrageenan",
         "title": "Carrageenan",
         "categories": [
-            "Hydrocolloids"
+            "Gums"
         ],
         "category_idx": [
-            "hydrocolloids"
+            "gums"
         ],
         "infos": {
-            "hydrocolloids": {
+            "gums": {
                 "Functionalities:": [
                     "1.Thickening Agent",
                     "2.Gelling Agent",
@@ -90,7 +125,8 @@
                 ],
                 "desc": [
                     "Carrageenan is a food-grade additive derived from certain types of red seaweed. Widely used in the food industry for its gelling, thickening, and stabilizing properties, carrageenan is particularly known for its application in dairy and plant-based products. As a natural hydrocolloid, carrageenan undergoes careful processing to meet food-grade standards, ensuring its safety and efficacy. It is commonly employed in products like ice cream, yogurt, and plant-based milk alternatives to enhance texture, prevent ingredient separation, and create a smooth, appealing consistency. Despite its extensive use, carrageenan has been a subject of occasional debate regarding its safety, and various forms, such as degraded carrageenan, have been studied for their potential health implications. As research continues, the food industry remains attentive to consumer concerns, exploring alternative stabilizers while utilizing carrageenan within established safety guidelines."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -100,13 +136,13 @@
         "pid": "pectin",
         "title": "Pectin",
         "categories": [
-            "Hydrocolloids"
+            "Gums"
         ],
         "category_idx": [
-            "hydrocolloids"
+            "gums"
         ],
         "infos": {
-            "hydrocolloids": {
+            "gums": {
                 "Functionalities:": [
                     "1.Gelling Agent",
                     "2.Thickener",
@@ -123,7 +159,43 @@
                 ],
                 "desc": [
                     "Pectin is a natural polysaccharide found in the cell walls of fruits, particularly apples and citrus fruits. Recognized for its gelling and thickening properties, pectin is widely used in the food industry, particularly in the production of jams, jellies, and fruit preserves. As a food-grade ingredient, it undergoes careful processing to ensure purity and adherence to quality standards. Pectin acts as a gelling agent when combined with sugar and acid, creating a gel-like consistency in fruit spreads. Apart from its role in food preservation, pectin is also valued for its dietary fiber content, contributing to digestive health. Its versatility makes it a common additive in a variety of food and beverage products, including juices, confectionery, and baked goods, enhancing texture and providing a desirable mouthfeel."
-                ]
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "carboxymethyl_cellulose_(cmc)",
+        "title": "Carboxymethyl cellulose (CMC)",
+        "categories": [
+            "Gums"
+        ],
+        "category_idx": [
+            "gums"
+        ],
+        "infos": {
+            "gums": {
+                "Functionalities:": [
+                    "1.Thickening Agent",
+                    "2.Stabilizer",
+                    "3.Water Retention",
+                    "4.Texture Enhancement",
+                    "5.Fat Replacement"
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "2.Confectionery",
+                    "3.Dairy Industry",
+                    "4.Bakery",
+                    "5.Processed Foods",
+                    "6.Personal Care Products"
+                ],
+                "desc": [
+                    "Carboxymethyl cellulose (CMC) is a versatile cellulose derivative widely utilized in various industries for its exceptional thickening, stabilizing, and emulsifying properties. Derived from cellulose, a natural polymer found in plant cell walls, CMC is modified through a chemical reaction to introduce carboxymethyl groups. This modification enhances its water-solubility and makes it an effective additive in food products, pharmaceuticals, cosmetics, and industrial applications. In the food industry, CMC acts as a thickening agent in a variety of products such as sauces, dressings, and ice cream, contributing to improved texture and stability. Its role as a stabilizer and emulsifier extends to the pharmaceutical and cosmetic industries, where it is incorporated into formulations such as creams and lotions. CMC's ability to modify viscosity, improve suspension, and enhance texture makes it a valuable and versatile ingredient in a wide array of consumer and industrial products."
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -156,7 +228,8 @@
                 ],
                 "desc": [
                     "Food-grade L-arginine is a conditionally essential amino acid, meaning that while the body can synthesize it, there are instances where dietary intake becomes crucial. L-arginine plays a fundamental role in protein synthesis, immune function, and is a precursor to nitric oxide—a molecule that dilates blood vessels, promoting improved blood circulation. As a food-grade supplement, L-arginine undergoes strict quality control measures to ensure its safety and efficacy. Its popularity in the food and dietary supplement industry lies in its potential cardiovascular benefits, exercise performance support, and contributions to overall well-being. It is commonly found in various protein-rich foods and is frequently included in formulations like sports nutrition products, pre-workout supplements, and certain functional foods, appealing to those aiming to enhance cardiovascular health and optimize physical performance."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -189,7 +262,8 @@
                 ],
                 "desc": [
                     "Food-grade L-arginine hydrochloride is a form of the amino acid L-arginine that includes a hydrochloride salt. L-arginine is a semi-essential amino acid that plays a critical role in various physiological functions, including protein synthesis, immune function, and the production of nitric oxide—a vasodilator that supports improved blood circulation. L-arginine hydrochloride is commonly used in the food and dietary supplement industry for its potential cardiovascular benefits and exercise performance support. It undergoes rigorous quality control measures to ensure safety and efficacy. This compound is often included in pre-workout supplements, sports nutrition products, and certain functional foods, catering to individuals seeking cardiovascular health support and those aiming to optimize their physical performance."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -222,7 +296,8 @@
                 ],
                 "desc": [
                     "Food-grade L-histidine is an essential amino acid that plays a crucial role in various physiological processes within the body. As a building block of proteins, L-histidine is involved in the formation of histamine, a neurotransmitter that regulates immune responses and contributes to the inflammatory process. L-histidine is found in protein-rich foods such as meat, fish, dairy, and certain grains. As a food-grade supplement, L-histidine undergoes strict quality control measures to ensure its safety and effectiveness. While the body can synthesize histidine to some extent, its dietary intake remains essential for maintaining optimal health. L-histidine is a less common amino acid to supplement individually but is often included in complete amino acid formulations or protein supplements, contributing to the overall amino acid profile necessary for various physiological functions."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -255,7 +330,8 @@
                 ],
                 "desc": [
                     "Food-grade L-glutamine is a conditionally essential amino acid that holds significant importance in the realms of protein synthesis, immune function, and gut health. While the body can synthesize glutamine, during times of stress, illness, or intense physical activity, the demand may exceed the body's production. L-glutamine is found in various protein-rich foods and is often included as a supplement to support muscle recovery, reduce muscle soreness, and enhance overall exercise performance. Its ability to serve as a fuel source for rapidly dividing cells, such as those in the immune system and the cells lining the digestive tract, makes L-glutamine a valuable nutrient. As a food-grade supplement, L-glutamine undergoes quality control measures to ensure safety and efficacy. It is commonly utilized in protein powders, sports nutrition products, and certain functional foods, catering to individuals seeking to optimize their muscle health and overall well-being."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -288,7 +364,8 @@
                 ],
                 "desc": [
                     "Food-grade L-citrulline is a naturally occurring amino acid found in certain fruits like watermelon. Widely recognized for its potential benefits in promoting cardiovascular health and supporting exercise performance, L-citrulline is a popular ingredient in the food and dietary supplement industry. It acts as a precursor to L-arginine, which, in turn, contributes to the production of nitric oxide—a vasodilator that enhances blood flow. Improved blood circulation may lead to better nutrient delivery to muscles and reduced fatigue during exercise. As a food-grade supplement, L-citrulline undergoes stringent quality control measures to ensure its safety and efficacy. It is commonly included in pre-workout formulations, sports drinks, and nutritional supplements, catering to individuals looking to enhance their overall cardiovascular fitness and exercise endurance."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -321,7 +398,8 @@
                 ],
                 "desc": [
                     "Food-grade L-citrulline DL-malate is a compound composed of the amino acid L-citrulline and malic acid. It is widely utilized in the food and dietary supplement industry for its potential benefits in supporting athletic performance and overall cardiovascular health. L-citrulline is a precursor to nitric oxide, a vasodilator that enhances blood flow, while malic acid contributes to the Krebs cycle, a key process in cellular energy production. The combination of these two compounds is believed to improve endurance, reduce muscle soreness, and enhance recovery post-exercise. As a food-grade supplement, L-citrulline DL-malate undergoes rigorous quality control to meet safety standards. It is commonly found in pre-workout supplements, sports nutrition products, and certain functional foods, catering to individuals seeking to optimize their exercise routines and promote cardiovascular well-being."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -354,7 +432,8 @@
                 ],
                 "desc": [
                     "Food-grade L-alanine is a non-essential amino acid, meaning the human body can synthesize it, and it is also obtained through dietary sources. It plays a significant role in protein synthesis, serving as a building block for various proteins in the body. L-alanine is involved in glucose metabolism, and its conversion to pyruvate contributes to energy production. As a food-grade ingredient, L-alanine undergoes quality control measures to ensure its safety and efficacy in various applications. It is found naturally in protein-rich foods such as meat, poultry, and dairy products. While not as commonly supplemented as essential amino acids, L-alanine's role in supporting overall protein function and energy metabolism makes it a relevant component in the formulation of certain food and dietary supplement products."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -387,7 +466,8 @@
                 ],
                 "desc": [
                     "Food-grade L-phenylalanine is an essential amino acid that the human body cannot produce on its own and must be obtained through dietary sources. As a precursor to tyrosine, L-phenylalanine plays a vital role in the synthesis of neurotransmitters such as dopamine, norepinephrine, and epinephrine. Its impact on neurotransmitter production contributes to mood regulation, cognitive function, and overall mental well-being. Food-grade L-phenylalanine is carefully processed to meet quality standards, ensuring its safety and suitability for consumption. It is commonly found in protein-rich foods like meat, dairy, and certain plant-based sources. Given its role in neurotransmitter synthesis, L-phenylalanine is often included in formulations targeting cognitive support, mood enhancement, and overall brain health in various dietary supplement products."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -422,7 +502,8 @@
                 ],
                 "desc": [
                     "Food-grade L-tryptophan is an essential amino acid known for its role as a precursor to serotonin, a neurotransmitter that regulates mood and sleep. As the body cannot synthesize L-tryptophan, it must be obtained through the diet, making it a crucial component in various food and dietary supplement products. L-tryptophan is carefully processed to meet food-grade standards, ensuring its safety and effectiveness. Due to its involvement in serotonin production, L-tryptophan is often included in formulations targeting mood support and sleep enhancement. In addition to its impact on neurotransmitters, L-tryptophan is an essential building block for protein synthesis and contributes to overall protein nutrition. Its versatility and physiological importance make food-grade L-tryptophan a valuable ingredient in products aimed at promoting both mental well-being and nutritional balance."
-                ]
+                ],
+                "pdfUrl": "#"
             },
             "feed_grade_amino_acids": {
                 "Functionalities:": [
@@ -441,15 +522,16 @@
                 ],
                 "desc": [
                     "Feed grade L-Tryptophan is a crucial amino acid supplement in animal nutrition, particularly in the feed industry. Recognized as an essential amino acid, L-Tryptophan plays a vital role in protein synthesis, supporting optimal growth, immunity, and overall metabolic functions in livestock and poultry. Its significance arises from being a precursor to serotonin and melatonin, neurotransmitters involved in regulating mood, sleep, and stress response. As animals cannot synthesize L-Tryptophan internally, its inclusion in their diets becomes essential. The supplementation of feed with L-Tryptophan is known to improve the overall amino acid profile, enhance feed efficiency, and positively impact animal behavior and stress management. This amino acid serves as a key component in ensuring balanced nutrition, contributing to the well-being and productivity of various animal species."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "bcaa",
-        "title": "BCAA",
+        "pid": "branched-chain_amino_acid_(bcaa)",
+        "title": "Branched-chain amino acid (BCAA)",
         "categories": [
             "Food Grade Amino acid"
         ],
@@ -474,7 +556,8 @@
                 ],
                 "desc": [
                     "A branched-chain amino acid (BCAA) is an amino acid having an aliphatic side-chain with Branched-chain amino acids (BCAAs) refer to a group of essential amino acids that include leucine, isoleucine, and valine. Unlike other amino acids, BCAAs are metabolized in the muscles rather than the liver, making them crucial for protein synthesis, muscle growth, and overall energy production. As essential components of the human diet, BCAAs cannot be produced by the body and must be obtained through food or supplements. Their popularity in sports nutrition and fitness industries stems from their role in supporting muscle health, enhancing exercise performance, and aiding in post-exercise recovery. BCAAs are commonly found in protein-rich foods, and their isolated form is often included in dietary supplements, energy drinks, and protein powders to meet the needs of individuals seeking to optimize muscle function and maintain overall well-being."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -509,7 +592,8 @@
                 ],
                 "desc": [
                     "Food-grade L-valine is an essential branched-chain amino acid that the human body cannot produce and must be obtained through dietary sources. As a key component in protein synthesis and a contributor to muscle metabolism, L-valine plays a crucial role in supporting muscle growth, repair, and overall athletic performance. Often included alongside other essential amino acids, especially leucine and isoleucine, L-valine is a sought-after ingredient in food and dietary supplement formulations, particularly those designed for sports nutrition. Its food-grade quality ensures safety and compliance with regulatory standards. L-valine is commonly found in protein-rich foods like meat, dairy, and legumes, and its supplementation is valued by individuals looking to optimize their protein intake for muscle health and recovery."
-                ]
+                ],
+                "pdfUrl": "#"
             },
             "feed_grade_amino_acids": {
                 "Functionalities:": [
@@ -528,7 +612,8 @@
                 ],
                 "desc": [
                     "Feed grade L-Valine is a crucial amino acid supplement in animal nutrition, especially in the feed industry. As an essential branched-chain amino acid (BCAA), L-Valine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being one of the building blocks for proteins essential for various physiological processes. Given that animals cannot synthesize L-Valine internally, its inclusion in their diets is essential. The supplementation of feed with L-Valine is known to enhance the overall amino acid profile, promote protein utilization, and contribute to the health and productivity of various animal species."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -563,7 +648,8 @@
                 ],
                 "desc": [
                     "Food-grade L-isoleucine is an essential amino acid, meaning it cannot be synthesized by the human body and must be obtained through the diet. As a branched-chain amino acid (BCAA), L-isoleucine plays a crucial role in protein synthesis, muscle development, and energy production. It is a valuable component in various food and dietary supplement products, especially those designed for athletic and fitness purposes. Food-grade L-isoleucine undergoes stringent quality control measures to ensure its safety and effectiveness in various applications. Often found alongside other BCAAs like leucine and valine, L-isoleucine is incorporated into protein powders, energy bars, and sports nutrition formulations, contributing to the overall amino acid profile necessary for muscle health and performance optimization. Its inclusion in food-grade products caters to individuals looking to support their exercise routines and maintain a balanced amino acid intake."
-                ]
+                ],
+                "pdfUrl": "#"
             },
             "feed_grade_amino_acids": {
                 "Functionalities:": [
@@ -582,7 +668,8 @@
                 ],
                 "desc": [
                     "Feed grade L-Isoleucine is a crucial amino acid supplement in animal nutrition, particularly in the feed industry. As an essential branched-chain amino acid (BCAA), L-Isoleucine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance arises from being indispensable for various physiological processes that contribute to the well-being of animals. Since animals cannot synthesize L-Isoleucine internally, its inclusion in their diets becomes essential. The supplementation of feed with L-Isoleucine is known to enhance the overall amino acid profile, promote protein utilization, and support the health and productivity of various animal species."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -615,7 +702,8 @@
                 ],
                 "desc": [
                     "Food-grade creatine monohydrate is a naturally occurring compound that plays a crucial role in energy metabolism, particularly during short bursts of intense physical activity. Widely recognized and utilized in the sports and fitness industry, creatine monohydrate is a popular dietary supplement for individuals aiming to enhance their athletic performance and support muscle strength. As a food-grade supplement, it undergoes rigorous quality control measures to ensure purity and safety. Creatine monohydrate works by replenishing adenosine triphosphate (ATP), the primary energy currency in cells, leading to improved strength, power, and recovery. It is commonly incorporated into sports nutrition products, protein powders, and functional foods, contributing to the development of formulations geared towards fitness enthusiasts and athletes seeking to optimize their exercise performance."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -648,7 +736,8 @@
                 ],
                 "desc": [
                     "Food-grade L-malic acid is a naturally occurring organic acid found in various fruits, particularly apples. As a food additive, L-malic acid is widely used in the food and beverage industry for its multifunctional properties. It serves as a tart and sour flavor enhancer, providing a crisp and tangy taste in various products, including candies, beverages, and fruit-flavored items. L-malic acid is also utilized as an acidulant and pH regulator, contributing to the stability and preservation of certain food formulations. Its inclusion in food-grade products is carefully regulated to meet quality and safety standards, ensuring its suitability for consumption. The versatility of food-grade L-malic acid makes it a valuable ingredient, enhancing the overall sensory experience of a wide range of food and beverage applications."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -681,7 +770,8 @@
                 ],
                 "desc": [
                     "Food-grade N-Acetyl-L-cysteine (NAC) is a derivative of the amino acid L-cysteine and is widely used in the food and dietary supplement industry for its potential health benefits. NAC is valued for its role as a precursor to glutathione, a powerful antioxidant in the body that plays a crucial role in cellular protection and detoxification. With its ability to replenish glutathione levels, food-grade NAC is incorporated into formulations aiming to support immune function and overall antioxidant defenses. Additionally, NAC has been studied for its mucolytic properties, making it beneficial for respiratory health. It is carefully processed to meet food-grade standards, ensuring its safety and efficacy when used in various food products and nutritional supplements. The versatility and potential health-promoting properties of food-grade N-Acetyl-L-cysteine make it a sought-after ingredient in the development of products aimed at enhancing overall well-being."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -714,7 +804,8 @@
                 ],
                 "desc": [
                     "Food-grade L-arginine nitrate is a compound derived from the amino acid L-arginine and nitric acid. It is a common ingredient in various food and beverage products, particularly those within the sports and fitness industry, due to its potential to enhance nitric oxide production in the body. Nitric oxide is a vasodilator that may improve blood flow and nutrient delivery to muscles. In food-grade formulations, L-arginine nitrate is carefully processed to meet quality standards, ensuring its safety and suitability for consumption. It is often incorporated into pre-workout supplements, energy drinks, and certain functional foods as a way to support athletic performance and cardiovascular health. The combination of L-arginine and nitrate in this compound makes it a popular choice for individuals looking to boost exercise endurance and promote overall well-being through their dietary choices."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -746,7 +837,8 @@
                 ],
                 "desc": [
                     "Food-grade taurine is a naturally occurring amino acid-like compound that is often included in various food and beverage products for its potential health benefits. While the human body can synthesize taurine, dietary sources contribute to its intake. Taurine is commonly found in foods like meat, fish, and dairy products. In the food industry, it is used as a functional ingredient in energy drinks, nutritional supplements, and certain functional foods. Taurine is recognized for its role in supporting cardiovascular health, bile salt formation, and antioxidative properties. As a food-grade supplement, taurine undergoes strict quality control measures to ensure its safety and efficacy. Its inclusion in food products reflects its versatility and the growing interest in promoting health and wellness through dietary choices."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -778,7 +870,172 @@
                 ],
                 "desc": [
                     "Food-grade inositol is a carbohydrate and essential nutrient often classified as a B-vitamin, although the body can synthesize it naturally. Recognized for its integral role in various physiological processes, including cell membrane structure, signal transduction, and lipid metabolism, inositol is found in many food sources such as fruits, beans, and grains. In the food industry, inositol is used as a food supplement and ingredient in a variety of products, including beverages, cereals, and nutritional supplements. It is valued not only for its potential health benefits, such as supporting mental health and mood regulation, but also for its functional properties in promoting overall well-being. Food-grade inositol is carefully processed to meet quality standards and is widely incorporated into formulations to enhance nutritional profiles and contribute to the development of health-conscious food products."
-                ]
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "glucosamine",
+        "title": "Glucosamine",
+        "categories": [
+            "Food Grade Amino acid"
+        ],
+        "category_idx": [
+            "food_grade_amino_acid"
+        ],
+        "infos": {
+            "food_grade_amino_acid": {
+                "Functionalities:": [
+                    "Glucosamine plays a crucial role in the synthesis of proteoglycans and hyaluronic acid, which contribute to the structure and lubrication of joints. It is believed to promote the regeneration of damaged cartilage and inhibit the progression of joint-related disorders. Additionally, glucosamine possesses anti-inflammatory properties that can help alleviate joint pain and discomfort."
+                ],
+                "Applicable Industries:": [
+                    "1.Dietary Supplements",
+                    "2.Pharmaceuticals",
+                    "3.Functional Foods"
+                ],
+                "desc": [
+                    "Food-grade glucosamine is a naturally occurring compound found in the exoskeletons of shellfish, as well as in some fungi. Widely recognized for its potential benefits in joint health, glucosamine is often used as a dietary supplement. It serves as a building block for the synthesis of glycosaminoglycans, essential components of cartilage and connective tissues. As a food-grade ingredient, glucosamine undergoes rigorous quality control measures to ensure its safety and efficacy. It is commonly included in formulations targeting joint support, arthritis management, and overall musculoskeletal well-being. While some sources of glucosamine may not be suitable for individuals with shellfish allergies, there are vegetarian alternatives like glucosamine sulfate derived from fungi. The popularity of food-grade glucosamine stems from its potential role in promoting joint flexibility, reducing inflammation, and contributing to overall joint health."
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "l-methionine",
+        "title": "L-Methionine",
+        "categories": [
+            "Feed grade amino acids"
+        ],
+        "category_idx": [
+            "feed_grade_amino_acids"
+        ],
+        "infos": {
+            "feed_grade_amino_acids": {
+                "Functionalities:": [
+                    "1.Protein Synthesis Support",
+                    "2.Feather and Coat Health",
+                    "3.Optimal Growth and Performance",
+                    "4.Nutritional Balance",
+                    "5.Egg Production in Poultry"
+                ],
+                "Applicable Industries:": [
+                    "1.Poultry Farming",
+                    "2.Livestock Farming",
+                    "3.Aquaculture",
+                    "4.Animal Nutrition",
+                    "5.Pet Food Industry"
+                ],
+                "desc": [
+                    "Feed grade L-Methionine stands as a crucial amino acid supplement in animal nutrition, notably in the feed industry. As an essential amino acid, L-Methionine plays a pivotal role in protein synthesis, supporting optimal growth, promoting tissue development, and ensuring overall metabolic function in livestock and poultry. Its indispensability arises from the fact that animals cannot synthesize it internally, necessitating its inclusion in their diets. Beyond its role in protein formation, L-Methionine serves as a primary source of sulfur, contributing to the synthesis of other essential sulfur-containing amino acids. The supplementation of animal feeds with L-Methionine is known to enhance growth rates, improve feed efficiency, and bolster the animals' immune systems. This amino acid is particularly crucial in diets where natural feed ingredients may lack sufficient methionine levels, ensuring balanced nutrition and fostering the health and productivity of various animal species."
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "l-threonine",
+        "title": "L-Threonine",
+        "categories": [
+            "Feed grade amino acids"
+        ],
+        "category_idx": [
+            "feed_grade_amino_acids"
+        ],
+        "infos": {
+            "feed_grade_amino_acids": {
+                "Functionalities:": [
+                    "1.Protein Synthesis Support",
+                    "2.Gut Health",
+                    "3.Immune System Support",
+                    "4.Feather Quality in Poultry",
+                    "5.Optimal Performance"
+                ],
+                "Applicable Industries:": [
+                    "1.Poultry Farming",
+                    "2.Livestock Farming",
+                    "3.Aquaculture",
+                    "4.Animal Nutrition",
+                    "5.Pet Food Industry"
+                ],
+                "desc": [
+                    "Feed grade L-Threonine is a crucial amino acid supplement extensively utilized in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Threonine plays a vital role in protein synthesis, promoting optimal growth, maintaining tissue integrity, and supporting various metabolic functions in livestock and poultry. Its significance lies in being a building block for proteins essential for muscle development and overall health. By supplementing animal feeds with L-Threonine, nutritional imbalances are addressed, leading to improved feed efficiency, enhanced weight gain, and better utilization of dietary protein. Additionally, L-Threonine contributes to immune function, disease resistance, and, in the case of poultry, positively impacts feather quality, making it an indispensable component for ensuring the well-being and productivity of various animal species."
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "l-lysine",
+        "title": "L-Lysine",
+        "categories": [
+            "Feed grade amino acids"
+        ],
+        "category_idx": [
+            "feed_grade_amino_acids"
+        ],
+        "infos": {
+            "feed_grade_amino_acids": {
+                "Functionalities:": [
+                    "1.Protein Synthesis Support",
+                    "2.Optimal Growth Rates",
+                    "3.Protein Quality Improvement",
+                    "4.Nutrient Utilization",
+                    "5.Immune System Support"
+                ],
+                "Applicable Industries:": [
+                    "1.Poultry Farming",
+                    "2.Livestock Farming",
+                    "3.Aquaculture",
+                    "4.Animal Nutrition",
+                    "5.Pet Food Industry"
+                ],
+                "desc": [
+                    "Feed grade L-Lysine is a vital amino acid supplement extensively utilized in animal nutrition, especially in the feed industry. As an essential amino acid, L-Lysine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being a limiting amino acid in many animal diets, and its supplementation is essential for addressing nutritional imbalances. L-Lysine is particularly valuable in diets based on plant proteins, where natural sources may be deficient in this essential amino acid. The inclusion of feed grade L-Lysine helps enhance the amino acid profile of feeds, improving feed efficiency, promoting weight gain, and supporting the overall health and productivity of various animal species."
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "l-leucine",
+        "title": "L-leucine",
+        "categories": [
+            "Feed grade amino acids"
+        ],
+        "category_idx": [
+            "feed_grade_amino_acids"
+        ],
+        "infos": {
+            "feed_grade_amino_acids": {
+                "Functionalities:": [
+                    "1.Protein Synthesis Support",
+                    "2.Muscle Maintenance",
+                    "3.Energy Metabolism",
+                    "4.Stress Response",
+                    "5.Immune System Support"
+                ],
+                "Applicable Industries:": [
+                    "1.Poultry Farming",
+                    "2.Livestock Farming",
+                    "3.Aquaculture",
+                    "4.Animal Nutrition",
+                    "5.Pet Food Industry"
+                ],
+                "desc": [
+                    "Feed grade L-Leucine is a pivotal amino acid supplement in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Leucine plays a crucial role in protein synthesis, promoting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being one of the branched-chain amino acids (BCAAs), essential for supporting various physiological processes. L-Leucine, which animals cannot synthesize internally, must be supplied through their diet. The inclusion of feed grade L-Leucine contributes to improving the overall amino acid profile, enhancing protein utilization, and supporting the overall health and productivity of various animal species."
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -810,15 +1067,16 @@
                 ],
                 "desc": [
                     "Human milk oligosaccharides (HMOs) are complex carbohydrates naturally found in human breast milk. Comprising a diverse and unique group of over 200 structures, HMOs play a crucial role in supporting the health and development of infants. While not directly digestible by the infant, HMOs serve as prebiotics, promoting the growth of beneficial bacteria in the infant's gut, which is vital for the development of a healthy microbiome. Additionally, HMOs have been associated with various health benefits, including immune system support and protection against pathogens. The composition of HMOs in breast milk is dynamic, adapting to the specific needs of the infant at different stages of development. Recognizing the importance of HMOs, there is ongoing research to replicate their structures in infant formula, aiming to provide non-breastfed infants with some of the unique benefits associated with breast milk consumption."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "iso-malto-oligosaccharide",
-        "title": "iso-malto-oligosaccharide",
+        "pid": "iso-malto-oligosaccharide(imo)",
+        "title": "iso-malto-oligosaccharide(IMO)",
         "categories": [
             "Prebiotic"
         ],
@@ -843,15 +1101,16 @@
                 ],
                 "desc": [
                     "Iso-malto-oligosaccharides (IMO) are a group of prebiotic carbohydrates derived from starch through enzymatic hydrolysis and isomerization processes. With a molecular structure comprising glucose units linked by alpha-1,6 and alpha-1,4 glycosidic bonds, IMO is known for its resistance to digestion in the upper gastrointestinal tract. This resistance allows it to reach the colon intact, where it serves as a substrate for beneficial gut bacteria, promoting their growth and activity. IMO is recognized for its low-calorie content, mildly sweet taste, and prebiotic properties, making it a popular ingredient in functional foods, dietary supplements, and low-calorie products. It is often used to enhance the fiber content of food products while contributing to improved taste and texture. Additionally, IMO has gained attention for its potential to support digestive health and overall well-being by fostering a balanced gut microbiota."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "fructooligosaccharides",
-        "title": "Fructooligosaccharides",
+        "pid": "fructooligosaccharides(fos)",
+        "title": "Fructooligosaccharides(FOS)",
         "categories": [
             "Prebiotic"
         ],
@@ -876,15 +1135,16 @@
                 ],
                 "desc": [
                     "Fructooligosaccharides (FOS) are naturally occurring, plant-derived carbohydrates known for their prebiotic properties and potential health benefits. Comprising short chains of fructose molecules, FOS serves as a selectively fermentable substrate for beneficial gut bacteria, promoting their growth and activity in the colon. Found in various fruits and vegetables such as bananas, onions, and asparagus, FOS is recognized for its ability to stimulate the growth of probiotics, particularly bifidobacteria. As a prebiotic, FOS contributes to the maintenance of a healthy gut microbiota, supporting digestive health and potentially enhancing the absorption of certain minerals. FOS is commonly used as an ingredient in functional foods, dietary supplements, and health-promoting products due to its sweet taste, low-calorie content, and positive impact on gut flora."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "galactooligosaccharides",
-        "title": "Galactooligosaccharides",
+        "pid": "galactooligosaccharides(gos)",
+        "title": "Galactooligosaccharides(GOS)",
         "categories": [
             "Prebiotic"
         ],
@@ -909,15 +1169,16 @@
                 ],
                 "desc": [
                     "Galactooligosaccharides (GOS) are a group of naturally occurring carbohydrates composed of short chains of galactose molecules. Recognized for their prebiotic properties, GOS serves as a selectively fermentable substrate for beneficial gut bacteria, particularly bifidobacteria, promoting their growth and activity in the colon. GOS is naturally present in certain foods like legumes and human breast milk. As a prebiotic, GOS contributes to the development of a healthy gut microbiota, supporting digestive health and potentially enhancing the body's natural defenses. Due to their positive impact on gut flora and the potential health benefits associated with prebiotics, GOS is often used as an ingredient in functional foods, dietary supplements, and infant formulas. It is valued for its ability to provide health-promoting effects while also serving as a mild sweetener in various applications."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "xylo-oligosaccharides",
-        "title": "xylo-oligosaccharides",
+        "pid": "xylo-oligosaccharides(xos)",
+        "title": "xylo-oligosaccharides(XOS)",
         "categories": [
             "Prebiotic"
         ],
@@ -942,34 +1203,8 @@
                 ],
                 "desc": [
                     "Xylo-oligosaccharides (XOS) are a class of prebiotic fibers derived from the enzymatic hydrolysis of xylan, a hemicellulose present in plant cell walls. Comprising short chains of xylose molecules, XOS are resistant to digestion in the upper gastrointestinal tract and reach the colon intact, where they serve as a substrate for beneficial gut bacteria. Recognized for their prebiotic properties, XOS selectively stimulate the growth and activity of probiotics, particularly bifidobacteria. Found naturally in certain fruits, vegetables, and plant-based materials, XOS is increasingly utilized as an ingredient in functional foods and dietary supplements. Its prebiotic effects contribute to the maintenance of a balanced gut microbiota, supporting digestive health and potentially conferring additional health benefits. XOS is valued for its ability to enhance the fiber content of products while offering a mild sweetness, making it suitable for a variety of applications in the food and beverage industry."
-                ]
-            }
-        },
-        "image": "/assets/images/gallery/gallery-1.jpg",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
-        "pid": "glucosamine",
-        "title": "Glucosamine",
-        "categories": [
-            "Prebiotic"
-        ],
-        "category_idx": [
-            "prebiotic"
-        ],
-        "infos": {
-            "prebiotic": {
-                "Functionalities:": [
-                    "Glucosamine plays a crucial role in the synthesis of proteoglycans and hyaluronic acid, which contribute to the structure and lubrication of joints. It is believed to promote the regeneration of damaged cartilage and inhibit the progression of joint-related disorders. Additionally, glucosamine possesses anti-inflammatory properties that can help alleviate joint pain and discomfort."
                 ],
-                "Applicable Industries:": [
-                    "1.Dietary Supplements",
-                    "2.Pharmaceuticals",
-                    "3.Functional Foods"
-                ],
-                "desc": [
-                    "Food-grade glucosamine is a naturally occurring compound found in the exoskeletons of shellfish, as well as in some fungi. Widely recognized for its potential benefits in joint health, glucosamine is often used as a dietary supplement. It serves as a building block for the synthesis of glycosaminoglycans, essential components of cartilage and connective tissues. As a food-grade ingredient, glucosamine undergoes rigorous quality control measures to ensure its safety and efficacy. It is commonly included in formulations targeting joint support, arthritis management, and overall musculoskeletal well-being. While some sources of glucosamine may not be suitable for individuals with shellfish allergies, there are vegetarian alternatives like glucosamine sulfate derived from fungi. The popularity of food-grade glucosamine stems from its potential role in promoting joint flexibility, reducing inflammation, and contributing to overall joint health."
-                ]
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1002,7 +1237,8 @@
                 ],
                 "desc": [
                     "Erythritol is a natural sugar alcohol that has gained popularity as a low-calorie sweetener and sugar substitute. Produced through the fermentation of glucose by certain yeasts, erythritol possesses a sweetness similar to sugar but with virtually no calories and a minimal impact on blood sugar levels. As a polyol, it is well-tolerated by individuals with diabetes and does not contribute to tooth decay. Erythritol is commonly used in the food and beverage industry as a sugar alternative, providing a sweet taste without the caloric content. Its cooling effect, similar to mint, is an additional characteristic that makes it suitable for various applications, including sugar-free candies, beverages, and baked goods. Erythritol's growing popularity is attributed to its natural origin, low calorie count, and favorable taste profile, making it a prominent choice for those seeking reduced-calorie and sugar-free options."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1035,7 +1271,8 @@
                 ],
                 "desc": [
                     "Allulose, a low-calorie sweetener, has garnered attention for its ability to mimic the taste and texture of sugar while providing minimal calories. Classified as a rare sugar, it occurs naturally in small quantities in certain fruits and foods. Allulose is unique in that it is not metabolized by the body in the same way as traditional sugars, contributing negligible calories and having little to no impact on blood glucose levels. Known for its clean, sugar-like taste without the associated caloric load, allulose is increasingly used in the food industry as a sugar substitute in various products, including beverages, baked goods, and confectionery. Its properties make it suitable for individuals managing their calorie intake or those with diabetes, and its versatility as a sweetener continues to make it a popular choice in formulating reduced-sugar and low-calorie food options."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1068,7 +1305,8 @@
                 ],
                 "desc": [
                     "Xylitol is a sugar alcohol derived from birch wood, corn cobs, or other plant materials. Known for its natural sweetness and crystalline structure, xylitol has gained popularity as a sugar substitute due to its lower calorie content and oral health benefits. Unlike traditional sugars, xylitol does not metabolize into acids in the mouth, making it a tooth-friendly sweetener that helps prevent cavities and promotes dental health. It has a similar sweetness to sucrose but with fewer calories, making it a common ingredient in sugar-free and reduced-calorie products such as chewing gum, candies, and baked goods. Additionally, xylitol has a low glycemic index, making it suitable for individuals managing their blood sugar levels. With its versatility, pleasant taste, and dental benefits, xylitol continues to be a popular choice for those seeking healthier sugar alternatives."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1101,7 +1339,8 @@
                 ],
                 "desc": [
                     "D-Xylose is a naturally occurring sugar, classified as a pentose, and is commonly found in plant fibers such as those from wood and corncobs. Unlike other sugars, D-xylose is not as sweet and is not readily absorbed in the human digestive system, which makes it a valuable component in various applications. It is often used in the food industry, particularly in sugar-free and low-calorie products, providing sweetness without the caloric impact of traditional sugars. Additionally, D-xylose has applications in the pharmaceutical and research fields, serving as a substrate for fermentation processes and being a precursor in the synthesis of certain medications. Its unique properties and versatility make D-xylose a valuable ingredient in diverse industries and contribute to its role in various scientific and industrial processes."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1134,7 +1373,8 @@
                 ],
                 "desc": [
                     "Aspartame is a low-calorie artificial sweetener widely used as a sugar substitute in various food and beverage products. Composed of aspartic acid and phenylalanine, both naturally occurring amino acids, aspartame provides sweetness without the calories associated with traditional sugars. It is approximately 200 times sweeter than sucrose, making it an efficient sweetening agent, and is commonly utilized in sugar-free or reduced-calorie products such as diet sodas, sugar-free gum, and light desserts. While aspartame has faced occasional scrutiny and controversy, extensive scientific research supports its safety for consumption by the general population, except for individuals with phenylketonuria (PKU), a rare genetic disorder. Aspartame's ability to deliver sweetness without contributing to caloric intake has positioned it as a popular choice for those seeking alternatives to sugar in their dietary preferences."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1167,7 +1407,8 @@
                 ],
                 "desc": [
                     "Dextrose monohydrate, a form of glucose derived from starches, is a common and versatile carbohydrate widely used in the food and pharmaceutical industries. Recognized for its quick and easily digestible energy source, dextrose monohydrate is often employed as a sweetener, a fermentable sugar in baking and brewing processes, and as a stabilizing and bulking agent in various food formulations. It is the crystalline form of dextrose, which is glucose produced through the hydrolysis of starch. In pharmaceutical applications, dextrose monohydrate serves as an excipient in the production of tablets and a source of energy in intravenous fluids. Its multifaceted properties and broad applicability make dextrose monohydrate a fundamental ingredient in the formulation of diverse products across several industries."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1200,7 +1441,8 @@
                 ],
                 "desc": [
                     "Anhydrous glucose refers to glucose in its pure, crystalline form without water content. This crystalline glucose is derived from the hydrolysis of starch and is widely used in the food and pharmaceutical industries. Its versatility stems from its role as a sweetener, bulking agent, and fermentable sugar in various applications. Anhydrous glucose is a key ingredient in confectionery, baked goods, and beverages, contributing sweetness while enhancing texture and stability. In the pharmaceutical sector, it finds application as an excipient in the production of tablets and as a source of rapidly absorbable energy in medical formulations. Renowned for its high solubility and neutral taste, anhydrous glucose remains a crucial component in the formulation of diverse products where precise control of sugar content and functionality is essential."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1233,7 +1475,8 @@
                 ],
                 "desc": [
                     "Mannose is a naturally occurring monosaccharide, classified as a hexose, and is found in various fruits, especially cranberries, as well as some plants and human cells. It is a stereoisomer of glucose and exhibits unique properties that contribute to its significance in health and nutrition. Mannose has gained attention for its potential benefits, including its role in supporting urinary tract health, where it may interfere with the adhesion of certain bacteria to the urinary tract lining. As a nutritional supplement, mannose is available in different forms, such as D-mannose, and is commonly used to support urinary tract function. Its low glycemic index and potential health benefits make mannose a subject of ongoing research and a sought-after ingredient in dietary supplements aimed at promoting overall well-being."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1266,15 +1509,16 @@
                 ],
                 "desc": [
                     "Mannitol is a sugar alcohol derived from mannose and is commonly used in the food and pharmaceutical industries for its unique properties. Recognized for its sweet taste and low calorie content, mannitol serves as a sugar substitute and a bulking agent in various sugar-free and reduced-calorie products, including candies, chewing gum, and dietary supplements. With its ability to provide sweetness without impacting blood sugar levels, mannitol is often favored by individuals managing their sugar intake or those with diabetes. Beyond its use in the food industry, mannitol has pharmaceutical applications, where it serves as an excipient in drug formulations, contributing to the stability and solubility of medications. Additionally, mannitol is known for its osmotic diuretic properties and is sometimes used in medical settings to induce diuresis. Its versatility and multiple applications make mannitol a valuable ingredient in a range of consumer and healthcare products."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "pure_crystalline_fructose",
-        "title": "Pure Crystalline Fructose",
+        "pid": "pure_crystalline_fructose_(pcf)",
+        "title": "Pure Crystalline Fructose (PCF)",
         "categories": [
             "Sweetener"
         ],
@@ -1299,7 +1543,8 @@
                 ],
                 "desc": [
                     "Pure crystalline fructose is a natural sweetener and simple sugar found abundantly in fruits, vegetables, and honey. Extracted and refined into its crystalline form, pure crystalline fructose is prized for its intense sweetness, approximately 1.7 times sweeter than sucrose, the standard table sugar. This characteristic allows for its use in smaller quantities, contributing fewer calories while maintaining the desired level of sweetness in food and beverage products. Often utilized in the food industry as a sweetening agent, pure crystalline fructose is incorporated into a variety of products, including baked goods, cereals, and beverages. Its high solubility, clean taste, and ability to enhance flavors make it a popular choice for manufacturers aiming to reduce overall sugar content while maintaining product palatability. Additionally, its low glycemic index makes it an attractive option for individuals seeking alternatives to traditional sugars, particularly those with diabetes or those focused on managing their blood sugar levels."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1332,7 +1577,8 @@
                 ],
                 "desc": [
                     "Trehalose is a naturally occurring disaccharide composed of two glucose molecules linked together. Widely found in various organisms, including bacteria, yeast, fungi, and certain plants, trehalose has gained attention for its unique properties and applications in the food and pharmaceutical industries. Notable for its stability and resistance to high temperatures, trehalose serves as a valuable ingredient in food preservation, maintaining the quality of products by preventing deterioration and dehydration. In the pharmaceutical realm, trehalose is employed as a stabilizing agent for proteins, enzymes, and vaccines due to its ability to protect against denaturation and aggregation. With its mild sweetness and versatility, trehalose is used in a range of products, including baked goods, confectionery, and freeze-dried foods, contributing to improved texture, flavor, and overall product stability."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1366,7 +1612,8 @@
                 ],
                 "desc": [
                     "Polydextrose is a versatile and low-calorie carbohydrate polymer commonly used in the food industry as a functional ingredient. Composed of randomly bonded glucose units and sorbitol, polydextrose has gained popularity for its ability to mimic the texture and mouthfeel of sugar while providing a minimal impact on blood sugar levels. It is frequently employed as a bulking agent, texturizer, and stabilizer in various food products, including baked goods, dairy items, and beverages. Notably, polydextrose functions as a soluble fiber, contributing to digestive health and offering potential benefits for weight management. Its versatility and favorable nutritional profile make polydextrose a valuable tool for food manufacturers seeking to enhance the health attributes of their products without compromising on taste and texture."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1400,41 +1647,8 @@
                 ],
                 "desc": [
                     "Resistant dextrin, also known as digestion-resistant maltodextrin, is a soluble dietary fiber derived from starch. Produced through a controlled enzymatic process, resistant dextrin is characterized by its resistance to digestion in the small intestine, reaching the colon where it serves as a substrate for beneficial gut bacteria. With a neutral taste and excellent solubility, it is commonly used in the food industry as a functional ingredient. Resistant dextrin offers several health benefits, including supporting digestive health by promoting the growth of probiotic bacteria, aiding in weight management due to its low-calorie content, and contributing to blood sugar control. As a versatile dietary fiber, resistant dextrin has found applications in a variety of food products, including beverages, baked goods, and nutritional supplements, providing manufacturers with a tool to enhance the nutritional profile of their offerings."
-                ]
-            }
-        },
-        "image": "/assets/images/gallery/gallery-1.jpg",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
-        "pid": "carboxymethyl_cellulose_(cmc)",
-        "title": "Carboxymethyl cellulose (CMC)",
-        "categories": [
-            "Dietary fiber"
-        ],
-        "category_idx": [
-            "dietary_fiber"
-        ],
-        "infos": {
-            "dietary_fiber": {
-                "Functionalities:": [
-                    "1.Thickening Agent",
-                    "2.Stabilizer",
-                    "3.Water Retention",
-                    "4.Texture Enhancement",
-                    "5.Fat Replacement"
                 ],
-                "Applicable Industries:": [
-                    "1.Food and Beverage",
-                    "2.Confectionery",
-                    "3.Dairy Industry",
-                    "4.Bakery",
-                    "5.Processed Foods",
-                    "6.Personal Care Products"
-                ],
-                "desc": [
-                    "Carboxymethyl cellulose (CMC) is a versatile cellulose derivative widely utilized in various industries for its exceptional thickening, stabilizing, and emulsifying properties. Derived from cellulose, a natural polymer found in plant cell walls, CMC is modified through a chemical reaction to introduce carboxymethyl groups. This modification enhances its water-solubility and makes it an effective additive in food products, pharmaceuticals, cosmetics, and industrial applications. In the food industry, CMC acts as a thickening agent in a variety of products such as sauces, dressings, and ice cream, contributing to improved texture and stability. Its role as a stabilizer and emulsifier extends to the pharmaceutical and cosmetic industries, where it is incorporated into formulations such as creams and lotions. CMC's ability to modify viscosity, improve suspension, and enhance texture makes it a valuable and versatile ingredient in a wide array of consumer and industrial products."
-                ]
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1467,7 +1681,25 @@
                 ],
                 "desc": [
                     "Monosodium glutamate (MSG) is a widely used food additive known for its umami flavor-enhancing properties. Composed of sodium and the amino acid glutamic acid, MSG is a crystalline powder that imparts a savory taste to food, enhancing the overall flavor profile. Commonly utilized in Asian and international cuisines, MSG serves as a versatile seasoning to elevate the taste of various dishes. Despite misconceptions about its safety, numerous scientific studies have affirmed MSG's general recognition as safe (GRAS) status, emphasizing its role as a flavor enhancer without causing adverse health effects when consumed within recommended levels. MSG continues to be a staple in the culinary world, contributing to the rich and savory character of a diverse array of foods."
-                ]
+                ],
+                "pdfUrl": "#"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "acidulants",
+        "title": "Acidulants",
+        "categories": [
+            "Flavor enhancer"
+        ],
+        "category_idx": [
+            "flavor_enhancer"
+        ],
+        "infos": {
+            "flavor_enhancer": {
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1501,15 +1733,16 @@
                 ],
                 "desc": [
                     "Citric acid monohydrate is a crystalline form of citric acid that contains one molecule of water. Widely used across various industries, citric acid monohydrate is prized for its acidity, chelating properties, and versatile applications. As a natural organic acid found in citrus fruits, it serves as a key ingredient in the food and beverage industry, contributing a sour or tangy taste to numerous products. Beyond its culinary uses, citric acid monohydrate finds applications in the pharmaceutical, cosmetic, and cleaning product industries, where it serves as a chelating agent, pH regulator, and stabilizing agent. With its multifunctional properties, citric acid monohydrate continues to be a valuable and ubiquitous component in a diverse range of consumer and industrial products."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "citric_acid",
-        "title": "Citric acid",
+        "pid": "citric_acid_anhydrous",
+        "title": "Citric Acid Anhydrous",
         "categories": [
             "Flavor enhancer"
         ],
@@ -1519,156 +1752,31 @@
         "infos": {
             "flavor_enhancer": {
                 "Functionalities:": [
-                    "1.Acidulant",
+                    "1.Natural Acidulant",
+                    "Citric Acid Anhydrous imparts a tangy flavor to food and beverages, making it a popular choice as a natural acidulant in the food industry.",
                     "2.pH Regulator",
-                    "3.Flavor Enhancer",
-                    "4.Gelling Agent",
-                    "5.Preservative"
+                    "It acts as a pH regulator, helping to maintain the desired acidity levels in various formulations. This functionality is crucial in achieving the right balance and taste in many processed foods and beverages.",
+                    "3.Preservative",
+                    "Citric Acid Anhydrous serves as a preservative, contributing to the preservation of certain foods and preventing the growth of microorganisms. This is particularly important in the production of jams, jellies, and canned goods.",
+                    "4.Antioxidant Synergist",
+                    "It enhances the effectiveness of antioxidants, contributing to the preservation of the color and freshness of certain fruits and vegetables."
                 ],
                 "Applicable Industries:": [
-                    "1.Beverage Industry",
-                    "2.Bakery",
-                    "3.Confectionery",
-                    "4.Preserves and Jams",
-                    "5.Dairy Products",
-                    "6.Sauces and Dressings",
-                    "7.Pharmaceuticals"
+                    "1.Food and Beverage",
+                    "Citric Acid Anhydrous is a staple in the food and beverage industry, used in beverages, jams, jellies, confectionery, and various processed foods.",
+                    "2.Pharmaceuticals",
+                    "Pharmaceutical formulations may utilize citric acid anhydrous as an excipient in tablet formulations and effervescent preparations.",
+                    "3.Cosmetics and Personal Care",
+                    "It can be found in cosmetics and personal care products, particularly in products like bath fizzers and certain skin care formulations.",
+                    "4.Cleaning Products",
+                    "Citric Acid Anhydrous is used in cleaning products for its chelating properties, helping to remove mineral deposits and improve the effectiveness of certain detergents.",
+                    "5.Nutraceuticals",
+                    "It may be used in the production of certain nutraceuticals and dietary supplements."
                 ],
                 "desc": [
-                    "Citric acid is a natural, organic acid widely utilized in various industries for its multifunctional properties. As a key component found in citrus fruits, it is extensively used in the food and beverage industry to add a tangy or sour taste to products. Its acidic nature also makes it an effective preservative, pH regulator, and chelating agent. Beyond culinary applications, citric acid is employed in the pharmaceutical, cosmetic, and cleaning product industries due to its versatility. It plays a crucial role in stabilizing formulations, adjusting acidity levels, and serving as a chelator to bind metal ions. Recognized for its safety and natural origin, citric acid remains a ubiquitous and indispensable ingredient, contributing to the quality, flavor, and stability of a diverse range of consumer and industrial products."
-                ]
-            }
-        },
-        "image": "/assets/images/gallery/gallery-1.jpg",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
-        "pid": "l-methionine",
-        "title": "L-Methionine",
-        "categories": [
-            "Feed grade amino acids"
-        ],
-        "category_idx": [
-            "feed_grade_amino_acids"
-        ],
-        "infos": {
-            "feed_grade_amino_acids": {
-                "Functionalities:": [
-                    "1.Protein Synthesis Support",
-                    "2.Feather and Coat Health",
-                    "3.Optimal Growth and Performance",
-                    "4.Nutritional Balance",
-                    "5.Egg Production in Poultry"
+                    "Citric acid anhydrous is a food-grade compound derived from citrus fruits, predominantly lemons and limes. Recognized for its versatile applications in the food and beverage industry, citric acid anhydrous is a crystalline powder with a sour taste. It serves as a natural acidulant, pH regulator, and preservative, contributing to the tartness and preservation of numerous food products. Beyond its use in the culinary world, citric acid anhydrous finds applications in various industries, including cosmetics, pharmaceuticals, and cleaning products, due to its chelating and antioxidant properties. Its wide-ranging functionality, natural origin, and safety make it a ubiquitous ingredient, enhancing flavors, extending shelf life, and serving diverse purposes in both consumable and non-consumable products."
                 ],
-                "Applicable Industries:": [
-                    "1.Poultry Farming",
-                    "2.Livestock Farming",
-                    "3.Aquaculture",
-                    "4.Animal Nutrition",
-                    "5.Pet Food Industry"
-                ],
-                "desc": [
-                    "Feed grade L-Methionine stands as a crucial amino acid supplement in animal nutrition, notably in the feed industry. As an essential amino acid, L-Methionine plays a pivotal role in protein synthesis, supporting optimal growth, promoting tissue development, and ensuring overall metabolic function in livestock and poultry. Its indispensability arises from the fact that animals cannot synthesize it internally, necessitating its inclusion in their diets. Beyond its role in protein formation, L-Methionine serves as a primary source of sulfur, contributing to the synthesis of other essential sulfur-containing amino acids. The supplementation of animal feeds with L-Methionine is known to enhance growth rates, improve feed efficiency, and bolster the animals' immune systems. This amino acid is particularly crucial in diets where natural feed ingredients may lack sufficient methionine levels, ensuring balanced nutrition and fostering the health and productivity of various animal species."
-                ]
-            }
-        },
-        "image": "/assets/images/gallery/gallery-1.jpg",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
-        "pid": "l-threonine",
-        "title": "L-Threonine",
-        "categories": [
-            "Feed grade amino acids"
-        ],
-        "category_idx": [
-            "feed_grade_amino_acids"
-        ],
-        "infos": {
-            "feed_grade_amino_acids": {
-                "Functionalities:": [
-                    "1.Protein Synthesis Support",
-                    "2.Gut Health",
-                    "3.Immune System Support",
-                    "4.Feather Quality in Poultry",
-                    "5.Optimal Performance"
-                ],
-                "Applicable Industries:": [
-                    "1.Poultry Farming",
-                    "2.Livestock Farming",
-                    "3.Aquaculture",
-                    "4.Animal Nutrition",
-                    "5.Pet Food Industry"
-                ],
-                "desc": [
-                    "Feed grade L-Threonine is a crucial amino acid supplement extensively utilized in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Threonine plays a vital role in protein synthesis, promoting optimal growth, maintaining tissue integrity, and supporting various metabolic functions in livestock and poultry. Its significance lies in being a building block for proteins essential for muscle development and overall health. By supplementing animal feeds with L-Threonine, nutritional imbalances are addressed, leading to improved feed efficiency, enhanced weight gain, and better utilization of dietary protein. Additionally, L-Threonine contributes to immune function, disease resistance, and, in the case of poultry, positively impacts feather quality, making it an indispensable component for ensuring the well-being and productivity of various animal species."
-                ]
-            }
-        },
-        "image": "/assets/images/gallery/gallery-1.jpg",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
-        "pid": "l-lysine",
-        "title": "L-Lysine",
-        "categories": [
-            "Feed grade amino acids"
-        ],
-        "category_idx": [
-            "feed_grade_amino_acids"
-        ],
-        "infos": {
-            "feed_grade_amino_acids": {
-                "Functionalities:": [
-                    "1.Protein Synthesis Support",
-                    "2.Optimal Growth Rates",
-                    "3.Protein Quality Improvement",
-                    "4.Nutrient Utilization",
-                    "5.Immune System Support"
-                ],
-                "Applicable Industries:": [
-                    "1.Poultry Farming",
-                    "2.Livestock Farming",
-                    "3.Aquaculture",
-                    "4.Animal Nutrition",
-                    "5.Pet Food Industry"
-                ],
-                "desc": [
-                    "Feed grade L-Lysine is a vital amino acid supplement extensively utilized in animal nutrition, especially in the feed industry. As an essential amino acid, L-Lysine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being a limiting amino acid in many animal diets, and its supplementation is essential for addressing nutritional imbalances. L-Lysine is particularly valuable in diets based on plant proteins, where natural sources may be deficient in this essential amino acid. The inclusion of feed grade L-Lysine helps enhance the amino acid profile of feeds, improving feed efficiency, promoting weight gain, and supporting the overall health and productivity of various animal species."
-                ]
-            }
-        },
-        "image": "/assets/images/gallery/gallery-1.jpg",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
-        "pid": "l-leucine",
-        "title": "L-leucine",
-        "categories": [
-            "Feed grade amino acids"
-        ],
-        "category_idx": [
-            "feed_grade_amino_acids"
-        ],
-        "infos": {
-            "feed_grade_amino_acids": {
-                "Functionalities:": [
-                    "1.Protein Synthesis Support",
-                    "2.Muscle Maintenance",
-                    "3.Energy Metabolism",
-                    "4.Stress Response",
-                    "5.Immune System Support"
-                ],
-                "Applicable Industries:": [
-                    "1.Poultry Farming",
-                    "2.Livestock Farming",
-                    "3.Aquaculture",
-                    "4.Animal Nutrition",
-                    "5.Pet Food Industry"
-                ],
-                "desc": [
-                    "Feed grade L-Leucine is a pivotal amino acid supplement in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Leucine plays a crucial role in protein synthesis, promoting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being one of the branched-chain amino acids (BCAAs), essential for supporting various physiological processes. L-Leucine, which animals cannot synthesize internally, must be supplied through their diet. The inclusion of feed grade L-Leucine contributes to improving the overall amino acid profile, enhancing protein utilization, and supporting the overall health and productivity of various animal species."
-                ]
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1709,7 +1817,8 @@
                     "As a chemical intermediate, MEA plays a crucial role in the synthesis of various compounds, including herbicides, pharmaceuticals, and textile auxiliaries. Additionally, it serves as a pH regulator in different processes due to its amine nature.",
                     "The applications of monoethanolamine extend to sectors such as personal care products, where it is used in certain cosmetics and shampoos, and in the textile industry for formulating textile auxiliaries.",
                     "Overall, monoethanolamine's multifunctional properties contribute to its significance across diverse industries, making it a versatile and valuable compound in numerous industrial processes."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1744,7 +1853,8 @@
                     "Industrial Xanthan Gum is a polysaccharide with unique rheological properties, derived through the fermentation of sugars by the bacterium Xanthomonas campestris. This versatile ingredient has gained widespread usage across diverse industries due to its exceptional thickening, stabilizing, and gelling capabilities.",
                     "In industrial processes, Xanthan Gum's versatility shines. It is used in sectors such as oil and gas, where it aids in viscosity control of drilling fluids, and in the production of household and industrial cleaners, where it contributes to the stability of formulations.",
                     "The success of Industrial Xanthan Gum lies in its ability to function effectively across a spectrum of industries, offering solutions for texture, stability, and viscosity control. As a natural and efficient additive, Industrial Xanthan Gum continues to play a vital role in shaping the formulation landscape, contributing to the quality and performance of a wide array of consumer and industrial products."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1775,7 +1885,8 @@
                     "Industrial citric acid plays a crucial role in the pharmaceutical industry, where it serves as a pH regulator in medications and enhances the taste of certain formulations. It is a common ingredient in cosmetic and personal care products, contributing to stability and pH balance.",
                     "Moreover, industrial citric acid finds applications in cleaning products as a chelating agent, aiding in the removal of mineral deposits. In the textile industry, it is utilized in dyeing processes.",
                     "With its diverse functionalities, industrial citric acid is an integral component in a wide range of industrial processes, contributing to the quality, stability of various products across different sectors."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1810,7 +1921,8 @@
                     "In the food and beverage industry, sodium tartrate is utilized for its ability to stabilize and control the acidity of certain products. It is also employed in the pharmaceutical industry as a buffering agent, contributing to the stability of medications. Sodium tartrate finds applications in the textile industry, where it is used as a complexing agent in dyeing processes.",
                     "Furthermore, sodium tartrate plays a role in cleaning products, acting as a chelating agent to bind metal ions and prevent discoloration. In the laboratory and research settings, sodium tartrate may be used as a reference material.",
                     "Overall, sodium tartrate's multifunctional properties make it an important ingredient in various industrial processes, contributing to the stability, quality, and performance of diverse products."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1844,7 +1956,8 @@
                 ],
                 "desc": [
                     "Tetrakis(hydroxymethyl)phosphonium sulfate, commonly known as THPS, is a versatile chemical compound recognized for its effectiveness as a biocide and flame retardant. Derived from phosphorus chemistry, THPS is widely used in various industrial applications. In microbial control, particularly in industries like oil and gas, water treatment, and pulp and paper processing, THPS serves as a potent biocide, effectively inhibiting the growth of bacteria, fungi, and algae. Additionally, THPS exhibits flame-retardant properties, making it valuable in enhancing fire resistance in textiles, wood products, and other materials. THPS plays a crucial role in industries where both microbial control and fire safety are critical considerations."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
@@ -1876,7 +1989,8 @@
                 ],
                 "desc": [
                     "Tetrakis(hydroxymethyl)phosphonium chloride, commonly known as THPC, is a chemical compound recognized for its flame-retardant properties and diverse industrial applications. Produced through a synthesis process, THPC has found prominence as an effective additive in textiles, wood treatments, and various materials where enhancing fire resistance is crucial. It imparts flame-retardant characteristics without significantly altering the physical properties of the treated materials. THPC is a valuable solution in industries prioritizing fire safety, making it an essential component in the production of flame-resistant textiles, wood products, and other materials where reducing the risk of fire is a paramount concern."
-                ]
+                ],
+                "pdfUrl": "#"
             }
         },
         "image": "/assets/images/gallery/gallery-1.jpg",
