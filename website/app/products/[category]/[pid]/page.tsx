@@ -8,7 +8,6 @@ import { notFound } from 'next/navigation';
 export default function Home({ params }: { params: { category: string, pid: string } }) {
     const product = getProductByPid(params.pid);
     const product_detail = getProductDetailByPid(params.pid);
-    const procceedCategory = params.category.replace('_', ' ');
 
     if (product === undefined) {
         return notFound()
@@ -16,7 +15,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
 
     return (
         <>
-            <Layout headerStyle={3} footerStyle={3} headTitle={product.title} breadcrumbTitle={product.title} Category={procceedCategory} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'}>
+            <Layout headerStyle={3} footerStyle={3} headTitle={product.title} breadcrumbTitle={product.title} Category={params.category} wrapperCls="home_3" backgroundImage={'/assets/newestBiotech/images/banner/agar_banner.jpeg'}>
                 <section className="project-details">
                     <div className="auto-container">
                         <div className="top-box">

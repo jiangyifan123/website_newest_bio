@@ -1,9 +1,12 @@
 import Link from "next/link"
 
 export default function Breadcrumb({ breadcrumbTitle, backgroundImage, Category }) {
+    const procceedCategory = Category?.replaceAll('_', ' ');
     const sectionStyle = {
         backgroundImage: backgroundImage !== undefined ? `url(${backgroundImage})` : 'url(/assets/newestBiotech/images/banner/banner.jpeg)',
-    };    return (
+    };    
+    
+    return (
         <>
             <section className="page-title" style={sectionStyle}>
                 <div className="auto-container">
@@ -14,7 +17,7 @@ export default function Breadcrumb({ breadcrumbTitle, backgroundImage, Category 
                             </div>
                             <ul className="bread-crumb clearfix">
                                 <li><Link href="/">Home</Link></li>
-                                {Category && <li>{Category}</li>}
+                                {Category && <li><Link href={`/products/${Category}`}>{procceedCategory}</Link></li>}
                                 <li>{breadcrumbTitle}</li>
                             </ul>
                         </div>

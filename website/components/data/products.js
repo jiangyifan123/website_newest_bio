@@ -424,7 +424,7 @@ export function getData() {
     return [...processed_data];
 } 
 
-export function getUniqueCategories(products) {
+export function getUniqueCategories() {
     const categoriesSet = new Set();
 
     getData().forEach(product => {
@@ -439,21 +439,6 @@ export function getUniqueCategories(products) {
         idx: category.toLowerCase().replace(/\s+/g, '_'),
         name: category
     }));
-}
-
-export function getProductListSortedByCategory() {
-    const productMap = {};
-
-    getData().forEach(product => {
-        product.categories.forEach(category => {
-            // Add only the category name to the Set to ensure uniqueness
-            if (productMap[category] === undefined) {
-                productMap[category] = new Set();
-            }
-            productMap[category].add(product);
-        });
-    });
-    return productMap;
 }
 
 export function getProductByPid(pid) {
