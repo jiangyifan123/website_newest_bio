@@ -5,10 +5,10 @@ import Link from "next/link"
 import { useCallback, useEffect, useRef, useState } from "react"
 import {getData, getUniqueCategories} from "@/components/data/products"
 
-export default function PortfolioFilter1() {
+export default function PortfolioFilter1( { category } ) {
     // Isotope
     const isotope = useRef()
-    const [filterKey, setFilterKey] = useState("*")
+    const [filterKey, setFilterKey] = useState(category || 'all')
     useEffect(() => {
         setTimeout(() => {
             isotope.current = new Isotope(".items-container", {
@@ -28,8 +28,8 @@ export default function PortfolioFilter1() {
     }, [])
     useEffect(() => {
         if (isotope.current) {
-            filterKey === "*"
-                ? isotope.current.arrange({ filter: `*` })
+            filterKey === "all"
+                ? isotope.current.arrange({ filter: `all` })
                 : isotope.current.arrange({ filter: `.${filterKey}` })
         }
     }, [filterKey])
@@ -38,17 +38,15 @@ export default function PortfolioFilter1() {
     },
         []
     )
-
     const activeBtn = (value) => (value === filterKey ? "filter active" : "filter")
-
     const data = getData()
-    const categoriesMap = getUniqueCategories(data)
+    const categoriesMap = getUniqueCategories()
     return (
         <>
 
             <div className="filters clearfix">
                 <ul className="filter-tabs filter-btns clearfix">
-                    <li className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All</li>
+                    <li className={activeBtn("all")} onClick={handleFilterKeyChange("all")}>All</li>
                     {
                         categoriesMap.map(
                             (categoryMap, index) => <li className={activeBtn(categoryMap.idx)} onClick={handleFilterKeyChange(categoryMap.idx)} key={index+1}>{categoryMap.name}</li>
@@ -68,7 +66,7 @@ export default function PortfolioFilter1() {
                                     </div>
                                     <div className="overlay">
                                         <div className="title"><span className="icon"><img src={content.overlay} alt="" /></span>{content.title}</div>
-                                        <div className="link-btn"><Link href={content.link}><i className="flaticon-right-arrow" /></Link></div>
+                                        <div className="link-btn"><Link href={`/products/${filterKey}/${content.pid}`}><i className="flaticon-right-arrow" /></Link></div>
                                         <div className="content">
                                             <h5>{content.content_top_header}</h5>
                                             <h4>{content.content_secondary_header}</h4>
