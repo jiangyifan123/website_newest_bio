@@ -29,7 +29,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                             <div className="project-info-wrapper">
                                                 {
                                                     Object.entries(product_detail).map(([infoTitle, infoTextList]) => {
-                                                        if (['desc', 'pdfUrl'].indexOf(infoTitle) > -1) {
+                                                        if (['desc', 'pdfUrl', 'Functionalities'].indexOf(infoTitle) > -1) {
                                                             return <></>
                                                         }
                                                         return <div className="project-info">
@@ -37,7 +37,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                                             {
                                                                 Object.values(infoTextList).map(text => {
                                                                     return <>
-                                                                        <h5>{text}</h5>
+                                                                        <h5>{text.split(':')[0]}</h5>
                                                                     </>
                                                                 })
                                                             }

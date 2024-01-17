@@ -1,6 +1,8 @@
 import docx
 import json
 import os
+import re
+import traceback
 
 file = r'./production description.docx'
 imagePath = r'../website/public/assets/images/products/'
@@ -8,6 +10,7 @@ iConPath = r'../website/public/assets/images/product-icon/'
 doc = docx.Document(file)
 
 productList = {}
+errorList = {"missImage": [], "missIcon": []}
 stk = [productList,]
 
 
@@ -19,6 +22,10 @@ def checkPageExists(path, pid):
     return None
 
 
+def startWithOrder(text):
+    return re.search('^\d+\.', text) is not None
+
+
 for idx, paragraph in enumerate(doc.paragraphs):
     try:
         if paragraph.style.name.startswith('Heading'):
@@ -26,14 +33,17 @@ for idx, paragraph in enumerate(doc.paragraphs):
             assert (num <= len(stk))
             while num < len(stk):
                 stk.pop()
-            stk[-1][paragraph.text.strip()] = {} if num < 3 else []
-            stk.append(stk[-1][paragraph.text.strip()])
+            text = paragraph.text.strip().strip(':')
+            stk[-1][text] = {} if num < 3 else []
+            stk.append(stk[-1][text])
         else:
             if len(paragraph.text.strip()) == 0:
                 continue
-            stk[-1].append(paragraph.text.split(':')[0].strip())
-    except Exception as e:
-        print(e.args)
+            if len(stk[-1]) > 0 and startWithOrder(stk[-1][-1]) and not startWithOrder(paragraph.text.strip()):
+                raise Exception('Invalid paragraph')
+            stk[-1].append(paragraph.text.strip())
+    except Exception:
+        print(traceback.format_exc())
         pLen = len(doc.paragraphs)
         for i in range(idx, idx + 10):
             if i < pLen:
@@ -62,15 +72,17 @@ for category_name, products in productList.items():
         if checkPageExists(imagePath, pid) is not None:
             procceededProductList[pid]['image'] = checkPageExists(imagePath, pid)
         else:
+            errorList["missImage"].append(pid)
             procceededProductList[pid]['image'] = "/assets/images/gallery/gallery-1.jpg"
 
         if checkPageExists(iConPath, pid) is not None:
             procceededProductList[pid]['overlay'] = checkPageExists(iConPath, pid)
         else:
+            errorList["missIcon"].append(pid)
             procceededProductList[pid]['overlay'] = "/assets/images/icons/icon-8.png"
 
-# with open('product_detail.json', 'w') as f:
-#     f.write(json.dumps(productList, indent=4))
+with open('error_list.json', 'w') as f:
+    json.dump(errorList, f, ensure_ascii=False, indent=4)
 
 with open('product.json', 'w', encoding='utf8') as f:
     json.dump(list(procceededProductList.values()), f, ensure_ascii=False, indent=4)
