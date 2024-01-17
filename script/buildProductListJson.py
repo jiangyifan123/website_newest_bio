@@ -5,7 +5,7 @@ import re
 import traceback
 
 file = r'./production description.docx'
-imagePath = r'../website/public/assets/images/products/'
+imagePath = r'../website/public/assets/newestBiotech/images/products/products_display/'
 iConPath = r'../website/public/assets/images/product-icon/'
 doc = docx.Document(file)
 

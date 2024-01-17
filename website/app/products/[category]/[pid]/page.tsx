@@ -6,11 +6,17 @@ import { notFound } from 'next/navigation';
 
 export default function Home({ params }: { params: { category: string, pid: string } }) {
     const product = getProductByPid(params.pid);
-    const product_detail = params.category === 'all' ? Object.values(product.infos)[0] : product.infos[params.category];
 
-    if (product === undefined || product_detail === undefined) {
+    if (product === undefined) {
         return notFound()
     }
+
+    const product_detail = params.category === 'all' ? Object.values(product.infos)[0] : product.infos[params.category];
+
+    if (product_detail === undefined) {
+        return notFound()
+    }
+
 
     return (
         <>
