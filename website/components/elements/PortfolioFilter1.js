@@ -9,7 +9,7 @@ export default function PortfolioFilter1( { category } ) {
     // Isotope
     const defaultAllKey = "all"
     const isotope = useRef()
-    const [filterKey, setFilterKey] = useState(category || defaultAllKey)
+    const [filterKey, setFilterKey] = useState(defaultAllKey)
     useEffect(() => {
         setTimeout(() => {
             isotope.current = new Isotope(".items-container", {
@@ -25,7 +25,10 @@ export default function PortfolioFilter1( { category } ) {
                     queue: false,
                 },
             })
-        }, 1000)
+            if (category) {
+                setFilterKey(category)
+            }
+        }, 200)
     }, [])
     useEffect(() => {
         if (isotope.current) {
