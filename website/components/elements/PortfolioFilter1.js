@@ -3,9 +3,9 @@
 import Isotope from "isotope-layout"
 import Link from "next/link"
 import { useCallback, useEffect, useRef, useState } from "react"
-import {getData, getUniqueCategories} from "@/components/data/products"
+import { getData, getUniqueCategories } from "@/components/data/products"
 
-export default function PortfolioFilter1( { category } ) {
+export default function PortfolioFilter1({ category }) {
     // Isotope
     const defaultAllKey = "all"
     const isotope = useRef()
@@ -52,7 +52,7 @@ export default function PortfolioFilter1( { category } ) {
                     <li className={activeBtn(defaultAllKey)} onClick={handleFilterKeyChange(defaultAllKey)}>All</li>
                     {
                         categoriesMap.map(
-                            (categoryMap, index) => <li className={activeBtn(categoryMap.idx)} onClick={handleFilterKeyChange(categoryMap.idx)} key={index+1}>{categoryMap.name}</li>
+                            (categoryMap, index) => <li className={activeBtn(categoryMap.idx)} onClick={handleFilterKeyChange(categoryMap.idx)} key={index + 1}>{categoryMap.name}</li>
                         )
                     }
                 </ul>
@@ -62,10 +62,10 @@ export default function PortfolioFilter1( { category } ) {
                     data.map(
                         (content, index) => {
                             const categoryClasses = content.category_idx.join(' ');
-                            return <div className={`case-block-one masonry-item all col-lg-4 col-md-6 col-sm-12 ${categoryClasses}`} key={content.title+index}>
+                            return <div className={`case-block-one masonry-item all col-lg-4 col-md-6 col-sm-12 ${categoryClasses}`} key={content.title + index}>
                                 <div className="inner-box">
                                     <div className="image">
-                                        <img src={content.image} alt="" />
+                                        <img src={content.image} alt={content.image} />
                                     </div>
                                     <Link href={`/products/${filterKey}/${content.pid}`}>
                                         <div className="overlay">
@@ -78,7 +78,7 @@ export default function PortfolioFilter1( { category } ) {
                                         </div>
                                     </Link>
                                 </div>
-                                </div>
+                            </div>
                         }
                     )
                 }
