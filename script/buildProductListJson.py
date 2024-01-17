@@ -19,18 +19,26 @@ def checkPageExists(path, pid):
     return None
 
 
-for paragraph in doc.paragraphs:
-    if paragraph.style.name.startswith('Heading'):
-        num = int(paragraph.style.name.replace('Heading', ''))
-        assert (num <= len(stk))
-        while num < len(stk):
-            stk.pop()
-        stk[-1][paragraph.text.strip()] = {} if num < 3 else []
-        stk.append(stk[-1][paragraph.text.strip()])
-    else:
-        if len(paragraph.text.strip()) == 0:
-            continue
-        stk[-1].append(paragraph.text.split(':')[0].strip())
+for idx, paragraph in enumerate(doc.paragraphs):
+    try:
+        if paragraph.style.name.startswith('Heading'):
+            num = int(paragraph.style.name.replace('Heading', ''))
+            assert (num <= len(stk))
+            while num < len(stk):
+                stk.pop()
+            stk[-1][paragraph.text.strip()] = {} if num < 3 else []
+            stk.append(stk[-1][paragraph.text.strip()])
+        else:
+            if len(paragraph.text.strip()) == 0:
+                continue
+            stk[-1].append(paragraph.text.split(':')[0].strip())
+    except Exception as e:
+        print(e.args)
+        pLen = len(doc.paragraphs)
+        for i in range(idx, idx + 10):
+            if i < pLen:
+                print(doc.paragraphs[i].text)
+        break
 
 procceededProductList = {}
 
