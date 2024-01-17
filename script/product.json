@@ -1,7 +1,7 @@
 [
     {
         "pid": "agar-agar",
-        "title": "Agar-agar",
+        "title": "Agar-Agar",
         "categories": [
             "Gums"
         ],
@@ -168,7 +168,7 @@
     },
     {
         "pid": "carboxymethyl_cellulose_(cmc)",
-        "title": "Carboxymethyl cellulose (CMC)",
+        "title": "Carboxymethyl Cellulose (CMC)",
         "categories": [
             "Gums"
         ],
@@ -202,16 +202,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "l-arginine",
-        "title": "L-arginine",
+        "pid": "l-_arginine",
+        "title": "L- Arginine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Amino Acid Supplementation",
                     "2.Nitric Oxide Production",
@@ -237,15 +237,15 @@
     },
     {
         "pid": "l-arginine_hydrochloride",
-        "title": "L-Arginine hydrochloride",
+        "title": "L-Arginine Hydrochloride",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Amino Acid Supplementation",
                     "2.Nitric Oxide Production",
@@ -270,16 +270,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "l-histidine",
-        "title": "L-histidine",
+        "pid": "l-_histidine",
+        "title": "L- Histidine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Protein Building Block",
                     "2.Precursor to Histamine",
@@ -304,16 +304,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "l-glutamine",
-        "title": "L-glutamine",
+        "pid": "l-_glutamine",
+        "title": "L- Glutamine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Muscle Support",
                     "2.Immune System Support",
@@ -341,13 +341,13 @@
         "pid": "l-citrulline",
         "title": "L-Citrulline",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Nitric Oxide Production",
                     "2.Enhanced Exercise Performance",
@@ -375,13 +375,13 @@
         "pid": "l-citrulline_dl-malate",
         "title": "L-Citrulline DL-Malate",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Nitric Oxide Boost",
                     "2.Enhanced Exercise Performance",
@@ -409,13 +409,13 @@
         "pid": "l-alanine",
         "title": "L-Alanine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Energy Source",
                     "2.Muscle Support",
@@ -443,13 +443,13 @@
         "pid": "l-phenylalanine",
         "title": "L-Phenylalanine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Precursor to Neurotransmitters",
                     "2.Protein Synthesis",
@@ -477,15 +477,15 @@
         "pid": "l-tryptophan",
         "title": "L-Tryptophan",
         "categories": [
-            "Food Grade Amino acid",
+            "Food Grade Amino acids",
             "Feed grade amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid",
+            "food_grade_amino_acids",
             "feed_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Precursor to Serotonin",
                     "2.Sleep Support",
@@ -530,16 +530,72 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "branched-chain_amino_acid_(bcaa)",
-        "title": "Branched-chain amino acid (BCAA)",
+        "pid": "l-threonine",
+        "title": "L-Threonine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids",
+            "Feed grade amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids",
+            "feed_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
+                "Functionalities:": [
+                    "1.Protein Synthesis",
+                    "L-Threonine is an essential building block for protein synthesis, contributing to the formation of functional proteins in the body.",
+                    "2.Immune Function",
+                    "It plays a role in supporting immune function, helping the body resist infections and maintain overall health.",
+                    "3.Nitrogen Balance",
+                    "L-Threonine helps regulate nitrogen balance in the body, contributing to the efficient utilization of dietary nitrogen for various physiological processes."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "In the food industry, L-Threonine may be used as a nutritional supplement to fortify protein content in certain products, contributing to the overall amino acid profile.",
+                    "2.Dietary Supplements",
+                    "L-Threonine is included in dietary supplements to address specific nutritional needs and ensure a well-rounded amino acid intake for human consumption."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Food-grade L-Threonine is an essential amino acid crucial for protein synthesis and various physiological functions in humans. As a crystalline powder, it is commonly utilized as a dietary supplement in the food industries to ensure optimal nutrition. L-Threonine plays a vital role in supporting growth, immune function, and maintaining the balance of nitrogen in the body. The food-grade quality of L-Threonine ensures its purity and suitability for human consumption, making it a valuable additive in certain food formulations to fortify protein content and support nutritional needs."
+                ]
+            },
+            "feed_grade_amino_acids": {
+                "Functionalities:": [
+                    "1.Protein Synthesis Support",
+                    "2.Gut Health",
+                    "3.Immune System Support",
+                    "4.Feather Quality in Poultry",
+                    "5.Optimal Performance"
+                ],
+                "Applicable Industries:": [
+                    "1.Poultry Farming",
+                    "2.Livestock Farming",
+                    "3.Aquaculture",
+                    "4.Animal Nutrition",
+                    "5.Pet Food Industry"
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Feed grade L-Threonine is a crucial amino acid supplement extensively utilized in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Threonine plays a vital role in protein synthesis, promoting optimal growth, maintaining tissue integrity, and supporting various metabolic functions in livestock and poultry. Its significance lies in being a building block for proteins essential for muscle development and overall health. By supplementing animal feeds with L-Threonine, nutritional imbalances are addressed, leading to improved feed efficiency, enhanced weight gain, and better utilization of dietary protein. Additionally, L-Threonine contributes to immune function, disease resistance, and, in the case of poultry, positively impacts feather quality, making it an indispensable component for ensuring the well-being and productivity of various animal species."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "branched_chain_amino_acid_(bcaa)",
+        "title": "Branched Chain Amino Acid (BCAA)",
+        "categories": [
+            "Food Grade Amino acids"
+        ],
+        "category_idx": [
+            "food_grade_amino_acids"
+        ],
+        "infos": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Muscle Protein Synthesis",
                     "2.Energy Source During Exercise",
@@ -567,15 +623,15 @@
         "pid": "l-valine",
         "title": "L-Valine",
         "categories": [
-            "Food Grade Amino acid",
+            "Food Grade Amino acids",
             "Feed grade amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid",
+            "food_grade_amino_acids",
             "feed_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Muscle Protein Synthesis",
                     "2.Energy Source During Exercise",
@@ -623,15 +679,15 @@
         "pid": "l-isoleucine",
         "title": "L-Isoleucine",
         "categories": [
-            "Food Grade Amino acid",
+            "Food Grade Amino acids",
             "Feed grade amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid",
+            "food_grade_amino_acids",
             "feed_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Muscle Protein Synthesis",
                     "2.Energy Source During Exercise",
@@ -677,15 +733,15 @@
     },
     {
         "pid": "creatine_monohydrate",
-        "title": "Creatine monohydrate",
+        "title": "Creatine Monohydrate",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.ATP Regeneration",
                     "2.Muscle Strength and Power",
@@ -711,15 +767,15 @@
     },
     {
         "pid": "l-malic_acid",
-        "title": "L-Malic acid",
+        "title": "L-Malic Acid",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Acidulant",
                     "2.Flavor Enhancer",
@@ -745,15 +801,15 @@
     },
     {
         "pid": "n-acetyl-l-cysteine(nac)",
-        "title": "N-Acetyl-L-cysteine(NAC)",
+        "title": "N-Acetyl-L-Cysteine(NAC)",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Antioxidant Support",
                     "2.Glutathione Precursor",
@@ -779,15 +835,15 @@
     },
     {
         "pid": "l-arginine_nitrate",
-        "title": "L-Arginine nitrate",
+        "title": "L-Arginine Nitrate",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Nitric Oxide Production",
                     "2.Vasodilation",
@@ -815,13 +871,13 @@
         "pid": "taurine",
         "title": "Taurine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Flavor Enhancement",
                     "2.Energy Boost",
@@ -848,13 +904,13 @@
         "pid": "inositol",
         "title": "Inositol",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "1.Cellular Signaling",
                     "2.Mood and Mental Well-Being",
@@ -881,13 +937,13 @@
         "pid": "glucosamine",
         "title": "Glucosamine",
         "categories": [
-            "Food Grade Amino acid"
+            "Food Grade Amino acids"
         ],
         "category_idx": [
-            "food_grade_amino_acid"
+            "food_grade_amino_acids"
         ],
         "infos": {
-            "food_grade_amino_acid": {
+            "food_grade_amino_acids": {
                 "Functionalities:": [
                     "Glucosamine plays a crucial role in the synthesis of proteoglycans and hyaluronic acid, which contribute to the structure and lubrication of joints. It is believed to promote the regeneration of damaged cartilage and inhibit the progression of joint-related disorders. Additionally, glucosamine possesses anti-inflammatory properties that can help alleviate joint pain and discomfort."
                 ],
@@ -940,8 +996,8 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "l-threonine",
-        "title": "L-Threonine",
+        "pid": "l-lysine_hydrochloride",
+        "title": "L-Lysine Hydrochloride",
         "categories": [
             "Feed grade amino acids"
         ],
@@ -951,22 +1007,26 @@
         "infos": {
             "feed_grade_amino_acids": {
                 "Functionalities:": [
-                    "1.Protein Synthesis Support",
-                    "2.Gut Health",
-                    "3.Immune System Support",
-                    "4.Feather Quality in Poultry",
-                    "5.Optimal Performance"
+                    "1.Protein Synthesis",
+                    "L-Lysine is an essential amino acid that plays a key role in protein synthesis, contributing to the formation of muscle tissues and overall body proteins in animals.",
+                    "2.Growth Promotion",
+                    "As a growth-promoting supplement, L-Lysine Hydrochloride supports optimal weight gain and development in livestock, particularly poultry and swine.",
+                    "3.Nutritional Balance",
+                    "L-Lysine is often used to balance the amino acid composition in feed formulations, ensuring a complete and well-rounded diet for animals.",
+                    "4.Improved Feed Efficiency",
+                    "Supplementing feed with L-Lysine Hydrochloride can enhance feed efficiency, allowing animals to convert nutrients more effectively and achieve better growth rates."
                 ],
                 "Applicable Industries:": [
-                    "1.Poultry Farming",
-                    "2.Livestock Farming",
-                    "3.Aquaculture",
-                    "4.Animal Nutrition",
-                    "5.Pet Food Industry"
+                    "1.Animal Nutrition",
+                    "Feed-grade L-Lysine Hydrochloride is extensively used in the animal nutrition industry, benefiting livestock such as poultry, swine, and cattle to promote growth and meet their nutritional requirements.",
+                    "2.Poultry Farming",
+                    "Poultry farmers commonly incorporate L-Lysine Hydrochloride into feed formulations to enhance the amino acid profile, supporting the growth and productivity of poultry birds.",
+                    "3.Swine Farming",
+                    "Swine producers utilize L-Lysine Hydrochloride to optimize the nutritional content of pig feed, ensuring efficient weight gain and overall health."
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Feed grade L-Threonine is a crucial amino acid supplement extensively utilized in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Threonine plays a vital role in protein synthesis, promoting optimal growth, maintaining tissue integrity, and supporting various metabolic functions in livestock and poultry. Its significance lies in being a building block for proteins essential for muscle development and overall health. By supplementing animal feeds with L-Threonine, nutritional imbalances are addressed, leading to improved feed efficiency, enhanced weight gain, and better utilization of dietary protein. Additionally, L-Threonine contributes to immune function, disease resistance, and, in the case of poultry, positively impacts feather quality, making it an indispensable component for ensuring the well-being and productivity of various animal species."
+                    "Feed-grade L-Lysine Hydrochloride is a vital amino acid supplement extensively employed in animal nutrition, particularly in the production of animal feed. Derived through fermentation processes, this crystalline powder serves as a fundamental component for supporting protein synthesis, muscle development, and overall growth in livestock, notably poultry and swine. Its addition to feed formulations ensures a balanced amino acid profile, promoting feed efficiency and optimizing weight gain. L-Lysine Hydrochloride is a key contributor to the enhancement of nutritional quality in animal diets, positively impacting the health and productivity of farm animals. This feed-grade supplement plays a crucial role in modern livestock farming practices, facilitating sustainable and efficient production processes."
                 ]
             }
         },
@@ -974,8 +1034,8 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "l-lysine",
-        "title": "L-Lysine",
+        "pid": "l-lysine_sulphate",
+        "title": "L-Lysine Sulphate",
         "categories": [
             "Feed grade amino acids"
         ],
@@ -985,22 +1045,26 @@
         "infos": {
             "feed_grade_amino_acids": {
                 "Functionalities:": [
-                    "1.Protein Synthesis Support",
-                    "2.Optimal Growth Rates",
-                    "3.Protein Quality Improvement",
-                    "4.Nutrient Utilization",
-                    "5.Immune System Support"
+                    "1.Protein Synthesis",
+                    "L-Lysine is an indispensable amino acid that plays a key role in protein synthesis, contributing to the formation of muscle tissues and overall body proteins in animals.",
+                    "2.Growth Promotion",
+                    "L-Lysine Sulfate is recognized for its growth-promoting effects, facilitating optimal weight gain and development in livestock, particularly poultry and swine.",
+                    "3.Amino Acid Balance",
+                    "Its inclusion in feed formulations helps balance the amino acid composition, ensuring a well-rounded diet that meets the specific nutritional needs of animals.",
+                    "4.Improved Feed Efficiency",
+                    "By enhancing the amino acid profile in animal diets, L-Lysine Sulfate contributes to improved feed efficiency, allowing animals to convert nutrients more effectively."
                 ],
                 "Applicable Industries:": [
-                    "1.Poultry Farming",
-                    "2.Livestock Farming",
-                    "3.Aquaculture",
-                    "4.Animal Nutrition",
-                    "5.Pet Food Industry"
+                    "1.Animal Nutrition",
+                    "L-Lysine Sulfate is a key component in the animal nutrition industry, utilized in feed formulations to enhance the amino acid profile and support the growth and health of livestock.",
+                    "2.Poultry Farming",
+                    "Poultry producers incorporate L-Lysine Sulfate into feed formulations to optimize the nutritional content, promoting growth and productivity in poultry.",
+                    "3.Swine Farming",
+                    "Swine producers utilize L-Lysine Sulfate to enhance the nutritional quality of pig feed, ensuring efficient weight gain and overall well-being."
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Feed grade L-Lysine is a vital amino acid supplement extensively utilized in animal nutrition, especially in the feed industry. As an essential amino acid, L-Lysine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being a limiting amino acid in many animal diets, and its supplementation is essential for addressing nutritional imbalances. L-Lysine is particularly valuable in diets based on plant proteins, where natural sources may be deficient in this essential amino acid. The inclusion of feed grade L-Lysine helps enhance the amino acid profile of feeds, improving feed efficiency, promoting weight gain, and supporting the overall health and productivity of various animal species."
+                    "Feed-grade L-Lysine Sulfate is a valuable amino acid supplement widely utilized in animal nutrition, specifically in the formulation of animal feeds. Obtained through the hydrolysis of proteinaceous materials and subsequent reaction with sulfuric acid, L-Lysine Sulfate presents a concentrated and stable source of L-Lysine, an essential amino acid crucial for optimal growth, protein synthesis, and overall health in livestock. With its exceptional bioavailability and digestibility, L-Lysine Sulfate is a preferred choice in feed formulations for poultry, swine, and other livestock, promoting improved feed efficiency and enhancing the nutritional profile of animal diets. Its incorporation in animal nutrition practices contributes to the development of robust and healthy livestock, ensuring sustainable and efficient production in the livestock industry."
                 ]
             }
         },
@@ -1009,7 +1073,7 @@
     },
     {
         "pid": "l-leucine",
-        "title": "L-leucine",
+        "title": "L-Leucine",
         "categories": [
             "Feed grade amino acids"
         ],
@@ -1043,15 +1107,15 @@
     },
     {
         "pid": "human_milk_oligosaccharides_(hmo)",
-        "title": "human milk oligosaccharides (HMO)",
+        "title": "Human Milk Oligosaccharides (HMO)",
         "categories": [
-            "Prebiotic"
+            "Prebiotics"
         ],
         "category_idx": [
-            "prebiotic"
+            "prebiotics"
         ],
         "infos": {
-            "prebiotic": {
+            "prebiotics": {
                 "Functionalities:": [
                     "1.Immune Support",
                     "2.Prebiotic Properties",
@@ -1075,16 +1139,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "iso-malto-oligosaccharide(imo)",
-        "title": "iso-malto-oligosaccharide(IMO)",
+        "pid": "isomalto-oligosaccharides(imo)",
+        "title": "Isomalto-Oligosaccharides(IMO)",
         "categories": [
-            "Prebiotic"
+            "Prebiotics"
         ],
         "category_idx": [
-            "prebiotic"
+            "prebiotics"
         ],
         "infos": {
-            "prebiotic": {
+            "prebiotics": {
                 "Functionalities:": [
                     "1.Low Glycemic Index Sweetener",
                     "2.Prebiotic Properties",
@@ -1101,7 +1165,7 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Iso-malto-oligosaccharides (IMO) are a group of prebiotic carbohydrates derived from starch through enzymatic hydrolysis and isomerization processes. With a molecular structure comprising glucose units linked by alpha-1,6 and alpha-1,4 glycosidic bonds, IMO is known for its resistance to digestion in the upper gastrointestinal tract. This resistance allows it to reach the colon intact, where it serves as a substrate for beneficial gut bacteria, promoting their growth and activity. IMO is recognized for its low-calorie content, mildly sweet taste, and prebiotic properties, making it a popular ingredient in functional foods, dietary supplements, and low-calorie products. It is often used to enhance the fiber content of food products while contributing to improved taste and texture. Additionally, IMO has gained attention for its potential to support digestive health and overall well-being by fostering a balanced gut microbiota."
+                    "Isomalto-oligosaccharides (IMO) are a group of prebiotic carbohydrates derived from starch through enzymatic hydrolysis and isomerization processes. With a molecular structure comprising glucose units linked by alpha-1,6 and alpha-1,4 glycosidic bonds, IMO is known for its resistance to digestion in the upper gastrointestinal tract. This resistance allows it to reach the colon intact, where it serves as a substrate for beneficial gut bacteria, promoting their growth and activity. IMO is recognized for its low-calorie content, mildly sweet taste, and prebiotic properties, making it a popular ingredient in functional foods, dietary supplements, and low-calorie products. It is often used to enhance the fiber content of food products while contributing to improved taste and texture. Additionally, IMO has gained attention for its potential to support digestive health and overall well-being by fostering a balanced gut microbiota."
                 ]
             }
         },
@@ -1109,16 +1173,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "fructooligosaccharides(fos)",
-        "title": "Fructooligosaccharides(FOS)",
+        "pid": "fructo-oligosaccharides(fos)",
+        "title": "Fructo-Oligosaccharides(FOS)",
         "categories": [
-            "Prebiotic"
+            "Prebiotics"
         ],
         "category_idx": [
-            "prebiotic"
+            "prebiotics"
         ],
         "infos": {
-            "prebiotic": {
+            "prebiotics": {
                 "Functionalities:": [
                     "1.Prebiotic Powerhouse",
                     "2.Low-Calorie Sweetener",
@@ -1135,7 +1199,7 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Fructooligosaccharides (FOS) are naturally occurring, plant-derived carbohydrates known for their prebiotic properties and potential health benefits. Comprising short chains of fructose molecules, FOS serves as a selectively fermentable substrate for beneficial gut bacteria, promoting their growth and activity in the colon. Found in various fruits and vegetables such as bananas, onions, and asparagus, FOS is recognized for its ability to stimulate the growth of probiotics, particularly bifidobacteria. As a prebiotic, FOS contributes to the maintenance of a healthy gut microbiota, supporting digestive health and potentially enhancing the absorption of certain minerals. FOS is commonly used as an ingredient in functional foods, dietary supplements, and health-promoting products due to its sweet taste, low-calorie content, and positive impact on gut flora."
+                    "Fructo-oligosaccharides (FOS) are naturally occurring, plant-derived carbohydrates known for their prebiotic properties and potential health benefits. Comprising short chains of fructose molecules, FOS serves as a selectively fermentable substrate for beneficial gut bacteria, promoting their growth and activity in the colon. Found in various fruits and vegetables such as bananas, onions, and asparagus, FOS is recognized for its ability to stimulate the growth of probiotics, particularly bifidobacteria. As a prebiotic, FOS contributes to the maintenance of a healthy gut microbiota, supporting digestive health and potentially enhancing the absorption of certain minerals. FOS is commonly used as an ingredient in functional foods, dietary supplements, and health-promoting products due to its sweet taste, low-calorie content, and positive impact on gut flora."
                 ]
             }
         },
@@ -1143,16 +1207,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "galactooligosaccharides(gos)",
-        "title": "Galactooligosaccharides(GOS)",
+        "pid": "galacto-oligosaccharides(gos)",
+        "title": "Galacto-Oligosaccharides(GOS)",
         "categories": [
-            "Prebiotic"
+            "Prebiotics"
         ],
         "category_idx": [
-            "prebiotic"
+            "prebiotics"
         ],
         "infos": {
-            "prebiotic": {
+            "prebiotics": {
                 "Functionalities:": [
                     "1.Prebiotic Support",
                     "2.Immune System Boost",
@@ -1169,7 +1233,7 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Galactooligosaccharides (GOS) are a group of naturally occurring carbohydrates composed of short chains of galactose molecules. Recognized for their prebiotic properties, GOS serves as a selectively fermentable substrate for beneficial gut bacteria, particularly bifidobacteria, promoting their growth and activity in the colon. GOS is naturally present in certain foods like legumes and human breast milk. As a prebiotic, GOS contributes to the development of a healthy gut microbiota, supporting digestive health and potentially enhancing the body's natural defenses. Due to their positive impact on gut flora and the potential health benefits associated with prebiotics, GOS is often used as an ingredient in functional foods, dietary supplements, and infant formulas. It is valued for its ability to provide health-promoting effects while also serving as a mild sweetener in various applications."
+                    "Galacto-oligosaccharides (GOS) are a group of naturally occurring carbohydrates composed of short chains of galactose molecules. Recognized for their prebiotic properties, GOS serves as a selectively fermentable substrate for beneficial gut bacteria, particularly bifidobacteria, promoting their growth and activity in the colon. GOS is naturally present in certain foods like legumes and human breast milk. As a prebiotic, GOS contributes to the development of a healthy gut microbiota, supporting digestive health and potentially enhancing the body's natural defenses. Due to their positive impact on gut flora and the potential health benefits associated with prebiotics, GOS is often used as an ingredient in functional foods, dietary supplements, and infant formulas. It is valued for its ability to provide health-promoting effects while also serving as a mild sweetener in various applications."
                 ]
             }
         },
@@ -1178,15 +1242,15 @@
     },
     {
         "pid": "xylo-oligosaccharides(xos)",
-        "title": "xylo-oligosaccharides(XOS)",
+        "title": "Xylo-Oligosaccharides(XOS)",
         "categories": [
-            "Prebiotic"
+            "Prebiotics"
         ],
         "category_idx": [
-            "prebiotic"
+            "prebiotics"
         ],
         "infos": {
-            "prebiotic": {
+            "prebiotics": {
                 "Functionalities:": [
                     "1.Prebiotic Powerhouse",
                     "2.Low-Calorie Sweetener",
@@ -1214,13 +1278,13 @@
         "pid": "erythritol",
         "title": "Erythritol",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Zero-Calorie Sweetener",
                     "2.Dental Health Support",
@@ -1248,13 +1312,13 @@
         "pid": "allulose",
         "title": "Allulose",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Low-Calorie Sweetener",
                     "2.Low Glycemic Index",
@@ -1282,13 +1346,13 @@
         "pid": "xylitol",
         "title": "Xylitol",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Low-Calorie Sweetener",
                     "2.Dental Health Support",
@@ -1316,13 +1380,13 @@
         "pid": "d-xylose",
         "title": "D-Xylose",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Low-Calorie Sweetener",
                     "2.Blood Sugar Management",
@@ -1350,13 +1414,13 @@
         "pid": "aspartame",
         "title": "Aspartame",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Low-Calorie Sweetener",
                     "2.Sugar Replacement",
@@ -1384,13 +1448,13 @@
         "pid": "dextrose_monohydrate",
         "title": "Dextrose Monohydrate",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Quick Energy Source",
                     "2.Sweetening Agent",
@@ -1418,13 +1482,13 @@
         "pid": "anhydrous_glucose",
         "title": "Anhydrous Glucose",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Quick and Sustained Energy",
                     "2.Sweetening Agent",
@@ -1452,13 +1516,13 @@
         "pid": "mannose",
         "title": "Mannose",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Natural Sweetness",
                     "2.Urinary Tract Health",
@@ -1486,13 +1550,13 @@
         "pid": "mannitol",
         "title": "Mannitol",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Low-Calorie Sweetener",
                     "2.Sugar Replacement",
@@ -1520,13 +1584,13 @@
         "pid": "pure_crystalline_fructose_(pcf)",
         "title": "Pure Crystalline Fructose (PCF)",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Intense Sweetness",
                     "2.Texture Enhancement",
@@ -1554,13 +1618,13 @@
         "pid": "trehalose",
         "title": "Trehalose",
         "categories": [
-            "Sweetener"
+            "Sweeteners"
         ],
         "category_idx": [
-            "sweetener"
+            "sweeteners"
         ],
         "infos": {
-            "sweetener": {
+            "sweeteners": {
                 "Functionalities:": [
                     "1.Multi-Functional Sweetener",
                     "2.Texture Preservation",
@@ -1585,16 +1649,224 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
+        "pid": "isomaltose",
+        "title": "Isomaltose",
+        "categories": [
+            "Sweeteners"
+        ],
+        "category_idx": [
+            "sweeteners"
+        ],
+        "infos": {
+            "sweeteners": {
+                "Functionalities:": [
+                    "1.Sweetening Agent",
+                    "Isomaltose imparts a sweet taste and is used as a sweetening agent in various food products. It provides sweetness with a different flavor profile compared to sucrose.",
+                    "2.Reduced Caloric Content",
+                    "Isomaltose contributes sweetness to foods with a reduced caloric impact, making it a suitable option for products aimed at reducing overall caloric intake.",
+                    "3.Low Glycemic Index",
+                    "With a low glycemic index, Isomaltose has a minimal impact on blood sugar levels, making it a favorable choice for individuals who need to manage their blood glucose.",
+                    "4.Browning and Flavor Enhancement",
+                    "Isomaltose plays a role in the Maillard reaction, contributing to the browning and flavor development in certain baked and cooked foods."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Isomaltose finds application in the food and beverage industry as a sweetening agent in various products, including candies, baked goods, and beverages.",
+                    "2.Sugar-Free and Low-Calorie Products",
+                    "Isomaltose is used in the formulation of sugar-free and low-calorie food products, catering to consumers looking for alternatives to traditional sugars.",
+                    "3.Confectionery",
+                    "Confectionery products, such as sugar-free candies and chocolates, often incorporate Isomaltose to provide sweetness without the high caloric content associated with sucrose.",
+                    "4.Baked Goods",
+                    "In baking, Isomaltose contributes to browning and flavor development, making it a suitable option for certain baked goods.",
+                    "5.Dietary Products",
+                    "Isomaltose is utilized in the production of dietary and low-calorie products, contributing to sweetness without compromising nutritional goals."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Isomaltose, a disaccharide composed of two glucose molecules linked by an α-(1,6)-glycosidic bond, stands out as a sweetening agent with distinctive properties in the world of food and beverage. Naturally occurring and also produced through enzymatic processes, Isomaltose is recognized for its sweet taste, offering an alternative to traditional sucrose. Its application extends to various industries, including confectionery, baked goods, and beverages, where it serves as a low-calorie sweetener with a reduced impact on blood sugar levels. Isomaltose's unique contribution to the Maillard reaction enhances browning and flavor development in cooked and baked products. As a key component in sugar-free and low-calorie formulations, Isomaltose caters to consumers seeking sweetness without compromising on their dietary goals, making it a valuable ingredient in the realm of modern food choices."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "maltodextrin",
+        "title": "Maltodextrin",
+        "categories": [
+            "Sweeteners"
+        ],
+        "category_idx": [
+            "sweeteners"
+        ],
+        "infos": {
+            "sweeteners": {
+                "Functionalities:": [
+                    "1.Thickening Agent",
+                    "Maltodextrin is prized for its ability to thicken and add body to a variety of food and beverage products, including sauces, soups, and dressings.",
+                    "2.Texture Modifier",
+                    "Its unique molecular structure enhances the texture of food products, providing a smooth and creamy mouthfeel in applications like dairy alternatives and desserts.",
+                    "3.Bulking Agent",
+                    "As a bulking agent, Maltodextrin adds volume and substance to powdered mixes, helping to achieve the desired consistency in instant beverages, dry soups, and powdered drink formulations.",
+                    "4.Flavor Carrier",
+                    "Maltodextrin is an effective carrier for flavors, encapsulating and protecting sensitive flavor compounds in applications such as powdered beverages and seasonings.",
+                    "5.Energy Source",
+                    "With its rapid digestion and absorption, Maltodextrin serves as a quick and accessible source of energy, making it a popular component in sports drinks, energy bars, and nutritional supplements."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Maltodextrin is widely employed in the food and beverage industry for its diverse functionalities, contributing to the texture, viscosity, and overall sensory experience of various products.",
+                    "2.Sports Nutrition",
+                    "Due to its rapid energy release, Maltodextrin is a key ingredient in sports drinks, gels, and supplements designed to provide quick energy during physical activity.",
+                    "3.Pharmaceuticals",
+                    "In pharmaceuticals, Maltodextrin may be used as an excipient in tablet formulations and oral medications, aiding in the disintegration and absorption of the active ingredients.",
+                    "4.Personal Care Products",
+                    "Maltodextrin finds application in personal care items, such as creams and lotions, where it contributes to the texture and consistency of these formulations.",
+                    "5.Processed Foods",
+                    "Maltodextrin is utilized in a variety of processed foods, including snacks, instant meals, and bakery products, for its role in enhancing texture and mouthfeel."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Maltodextrin is a carbohydrate derivative widely utilized in the food and beverage industry for its versatile applications. Derived from starch, typically corn, rice, or potato, through hydrolysis, it is a white powder with a neutral taste. Maltodextrin serves various functions, acting as a thickener, filler, and binding agent. Its ability to quickly dissolve in liquids without imparting significant sweetness makes it a common ingredient in a range of products, including beverages, snacks, and processed foods. Maltodextrin is valued for its role in enhancing texture, stabilizing flavors, and providing a readily available source of energy. Its popularity extends to sports nutrition and culinary applications, where it finds use in thickening sauces, soups, and providing a source of easily digestible carbohydrates."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "sorbitol",
+        "title": "Sorbitol",
+        "categories": [
+            "Sweeteners"
+        ],
+        "category_idx": [
+            "sweeteners"
+        ],
+        "infos": {
+            "sweeteners": {
+                "Functionalities:": [
+                    "1.Sweetening Agent",
+                    "Sorbitol serves as a low-calorie sweetener, providing sweetness in food and beverage products without contributing to dental issues or a significant increase in caloric intake.",
+                    "2.Humectant",
+                    "With its humectant properties, sorbitol attracts and retains moisture, preventing the drying out of products such as confectionery, baked goods, and cosmetics.",
+                    "3.Bulking Agent",
+                    "As a bulking agent, sorbitol contributes volume and texture to various products, including sugar-free and reduced-calorie foods.",
+                    "4.Stabilizer",
+                    "Sorbitol helps stabilize and preserve certain food products by preventing crystallization and maintaining their freshness over time.",
+                    "5.Excipient in Pharmaceuticals",
+                    "In pharmaceutical formulations, sorbitol may be used as an excipient in liquid medications, providing sweetness, viscosity, and aiding in the solubility of certain active ingredients."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Sorbitol is extensively used in the food and beverage industry, particularly in sugar-free and reduced-calorie products, confectionery, and beverages.",
+                    "2.Pharmaceuticals",
+                    "Sorbitol finds application in pharmaceuticals as an excipient in liquid formulations, providing sweetness and improving the palatability of medications.",
+                    "3.Cosmetics and Personal Care",
+                    "In the cosmetic and personal care industry, sorbitol is used in various formulations, including lotions, creams, and toothpaste, for its humectant properties.",
+                    "4.Chemical and Industrial",
+                    "Sorbitol is employed in various industrial applications, such as the production of adhesives, plastics, and as a component in the synthesis of certain chemicals."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Sorbitol, also known as glucitol, is a versatile sugar alcohol derived from the hydrogenation of glucose. Exhibiting a sweet taste and sugar-like appearance, sorbitol is widely embraced as a low-calorie sweetener and functional ingredient in the food, pharmaceutical, and personal care industries. Renowned for its unique properties, sorbitol acts as a humectant, attracting and retaining moisture in various products, while also serving as a bulking agent to enhance volume and texture. With its low impact on blood sugar levels, sorbitol is a favored sugar substitute, particularly in sugar-free and reduced-calorie foods, confectionery, and beverages. Furthermore, its application extends to pharmaceutical formulations, where it functions as an excipient, contributing sweetness and aiding in the solubility of medications. Sorbitol's diverse functionalities make it an invaluable component across a spectrum of consumer goods, from cosmetics to industrial applications."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "stevia",
+        "title": "Stevia",
+        "categories": [
+            "Sweeteners"
+        ],
+        "category_idx": [
+            "sweeteners"
+        ],
+        "infos": {
+            "sweeteners": {
+                "Functionalities:": [
+                    "1.Zero-Calorie Sweetener",
+                    "Stevia is a non-nutritive sweetener, providing sweetness without the added calories, making it an ideal option for those seeking to manage their calorie intake or maintain a healthier lifestyle.",
+                    "2.Natural Sweetening Agent",
+                    "As a natural sweetener, stevia imparts a sweet taste to food and beverages without the use of artificial additives, aligning with the increasing consumer preference for natural and plant-based products.",
+                    "3.Blood Sugar Management",
+                    "Stevia doesn't cause a spike in blood sugar levels, making it a suitable choice for individuals with diabetes or those aiming to regulate their blood glucose.",
+                    "4.Tooth-Friendly",
+                    "Unlike traditional sugars, stevia does not contribute to tooth decay, offering a tooth-friendly alternative for sweetening various products."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Stevia finds widespread use in the food and beverage industry, featuring in products such as beverages, dairy, baked goods, and snacks as a natural sweetening solution.",
+                    "2.Health and Wellness Products",
+                    "Stevia is a common ingredient in health-oriented and wellness products, including dietary supplements, protein bars, and other nutritionally focused items.",
+                    "3.Pharmaceuticals",
+                    "Stevia may be used in pharmaceutical formulations, particularly in formulations where a sugar substitute is desirable, such as in certain liquid medications.",
+                    "4.Cosmetics and Personal Care",
+                    "Stevia's sweetening properties extend to the cosmetics and personal care industry, where it can be found in oral care products and skincare items."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Stevia, a natural sweetener derived from the leaves of the Stevia rebaudiana plant, has gained global recognition as a healthy alternative to traditional sweeteners. Known for its intense sweetness without the added calories or impact on blood sugar levels, stevia has become a popular choice for health-conscious consumers and individuals managing sugar intake. The key compounds responsible for its sweetness, steviol glycosides, are extracted and purified to create various stevia-based sweeteners. With its non-nutritive nature and the ability to provide a sweet taste without contributing to calories, stevia finds widespread use in the food and beverage industry, ranging from beverages and snacks to desserts. Stevia's appeal lies not only in its sweetening power but also in being a plant-based, zero-calorie option, aligning with the growing demand for natural and healthier sweetening alternatives."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "maltitol",
+        "title": "Maltitol",
+        "categories": [
+            "Sweeteners"
+        ],
+        "category_idx": [
+            "sweeteners"
+        ],
+        "infos": {
+            "sweeteners": {
+                "Functionalities:": [
+                    "1.Sweetening Agent",
+                    "Maltitol functions as a sweetener, offering a sugar-like taste without the calories, making it suitable for the formulation of reduced-calorie and sugar-free products.",
+                    "2.Bulking Agent",
+                    "As a bulking agent, maltitol contributes volume and texture to various food products, ensuring a satisfying mouthfeel in sugar-free confectionery, chocolates, and baked goods.",
+                    "3.Moisture Retention",
+                    "Maltitol's ability to retain moisture makes it valuable in food formulations, preventing the drying out of products and contributing to their overall freshness.",
+                    "4.Low Glycemic Impact",
+                    "Maltitol has a lower glycemic index compared to sucrose, meaning it has a milder impact on blood sugar levels, making it a suitable choice for individuals managing their glucose intake."
+                ],
+                "Applicable Industries:": [
+                    "1.Confectionery",
+                    "Maltitol is extensively used in the confectionery industry for producing sugar-free candies, chocolates, and other sweet treats, providing a sugar-like sweetness without the calories.",
+                    "2.Bakery",
+                    "In bakery applications, maltitol contributes to the texture and sweetness of sugar-free or reduced-calorie baked goods, such as cookies, pastries, and cakes.",
+                    "3.Dairy",
+                    "Maltitol may be utilized in the production of sugar-free or low-calorie dairy products, including ice creams and yogurts, offering sweetness and texture enhancement.",
+                    "4.Functional Foods",
+                    "Maltitol finds application in various functional foods, including protein bars and energy snacks, providing sweetness and texture while supporting reduced-calorie formulations."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Maltitol, a sugar alcohol derived from maltose, is a versatile sweetener renowned for its ability to provide sweetness without the caloric impact associated with traditional sugars. With a taste and appearance similar to sucrose, maltitol is widely used as a sugar substitute in various food products, especially those catering to individuals seeking reduced-calorie options or managing sugar intake. This polyol, known for its low glycemic index, is slowly metabolized, resulting in a lesser impact on blood sugar levels. Maltitol's functional attributes include its ability to retain moisture, making it valuable in the production of sugar-free confectionery, baked goods, and other low-calorie treats. Its widespread use in the food industry stems from its versatility as a bulking agent, sweetener, and texturizing agent, offering a sweet solution for those embracing healthier dietary choices."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
         "pid": "polydextrose",
         "title": "Polydextrose",
         "categories": [
-            "Dietary fiber"
+            "Dietary Fibers"
         ],
         "category_idx": [
-            "dietary_fiber"
+            "dietary_fibers"
         ],
         "infos": {
-            "dietary_fiber": {
+            "dietary_fibers": {
                 "Functionalities:": [
                     "1.Fiber Enrichment",
                     "2.Low-Calorie Sweetener",
@@ -1621,15 +1893,15 @@
     },
     {
         "pid": "resistant_dextrin",
-        "title": "resistant dextrin",
+        "title": "Resistant Dextrin",
         "categories": [
-            "Dietary fiber"
+            "Dietary Fibers"
         ],
         "category_idx": [
-            "dietary_fiber"
+            "dietary_fibers"
         ],
         "infos": {
-            "dietary_fiber": {
+            "dietary_fibers": {
                 "Functionalities:": [
                     "1.Dietary Fiber Enrichment",
                     "2.Blood Sugar Management",
@@ -1656,15 +1928,15 @@
     },
     {
         "pid": "monosodium_glutamate",
-        "title": "Monosodium glutamate",
+        "title": "Monosodium Glutamate",
         "categories": [
-            "Flavor enhancer"
+            "Flavor Enhancers"
         ],
         "category_idx": [
-            "flavor_enhancer"
+            "flavor_enhancers"
         ],
         "infos": {
-            "flavor_enhancer": {
+            "flavor_enhancers": {
                 "Functionalities:": [
                     "1.Flavor Enhancer",
                     "2.Taste Amplification",
@@ -1692,13 +1964,13 @@
         "pid": "acidulants",
         "title": "Acidulants",
         "categories": [
-            "Flavor enhancer"
+            "Flavor Enhancers"
         ],
         "category_idx": [
-            "flavor_enhancer"
+            "flavor_enhancers"
         ],
         "infos": {
-            "flavor_enhancer": {
+            "flavor_enhancers": {
                 "pdfUrl": "#",
                 "desc": []
             }
@@ -1708,15 +1980,15 @@
     },
     {
         "pid": "citric_acid_monohydrate",
-        "title": "citric acid monohydrate",
+        "title": "Citric Acid Monohydrate",
         "categories": [
-            "Flavor enhancer"
+            "Flavor Enhancers"
         ],
         "category_idx": [
-            "flavor_enhancer"
+            "flavor_enhancers"
         ],
         "infos": {
-            "flavor_enhancer": {
+            "flavor_enhancers": {
                 "Functionalities:": [
                     "1.Acidulant",
                     "2.pH Regulator",
@@ -1745,13 +2017,13 @@
         "pid": "citric_acid_anhydrous",
         "title": "Citric Acid Anhydrous",
         "categories": [
-            "Flavor enhancer"
+            "Flavor Enhancers"
         ],
         "category_idx": [
-            "flavor_enhancer"
+            "flavor_enhancers"
         ],
         "infos": {
-            "flavor_enhancer": {
+            "flavor_enhancers": {
                 "Functionalities:": [
                     "1.Natural Acidulant",
                     "Citric Acid Anhydrous imparts a tangy flavor to food and beverages, making it a popular choice as a natural acidulant in the food industry.",
@@ -1784,16 +2056,58 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "monoethanolamine（mea）",
-        "title": "monoethanolamine（MEA）",
+        "pid": "sodium_citrate",
+        "title": "Sodium citrate",
         "categories": [
-            "Industrial chemicals"
+            "Flavor Enhancers"
         ],
         "category_idx": [
-            "industrial_chemicals"
+            "flavor_enhancers"
         ],
         "infos": {
-            "industrial_chemicals": {
+            "flavor_enhancers": {
+                "Functionalities:": [
+                    "1.Buffering Agent",
+                    "Sodium citrate acts as a buffering agent, helping to control and stabilize the pH levels in various products, especially in the food and beverage industry.",
+                    "2.Acidity Regulator",
+                    "As an acidity regulator, sodium citrate adjusts the acidity of food and beverage products, enhancing flavor stability and providing a tart taste when required.",
+                    "3.Emulsifying Salt",
+                    "Sodium citrate is used as an emulsifying salt in processed cheese, aiding in the stabilization of emulsions and preventing separation of fats and water.",
+                    "4.Antioxidant Synergy",
+                    "In certain applications, sodium citrate works synergistically with antioxidants to improve their effectiveness in preventing oxidation, extending the shelf life of food products."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Sodium citrate is widely utilized in the food and beverage industry for its role in regulating acidity, enhancing flavor stability, and serving as an emulsifying agent, particularly in processed cheese.",
+                    "2.Pharmaceuticals",
+                    "In pharmaceuticals, sodium citrate may be used as a buffering agent in medications and as an anticoagulant in blood collection tubes.",
+                    "3.Cosmetics and Personal Care",
+                    "Sodium citrate finds application in cosmetics and personal care products, where it may be used to control pH levels and stabilize formulations.",
+                    "4.Cleaning Products",
+                    "Sodium citrate is employed in certain cleaning products as a chelating agent, helping to bind to metal ions and improve the effectiveness of detergents.",
+                    "5.Textile Industry",
+                    "In the textile industry, sodium citrate may be used in dyeing processes to control the pH levels and enhance color fixation."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Sodium citrate, derived from citric acid found in citrus fruits, is a versatile compound widely employed across diverse industries. In its crystalline powder form, it serves as a crucial ingredient with multifunctional applications. Acting as a buffering agent, sodium citrate stabilizes and controls pH levels, making it a pivotal component in the food and beverage industry for enhancing flavor stability and acidity regulation. Furthermore, sodium citrate serves as an emulsifying salt, preventing the separation of fats and water in processed cheese. Its utility extends to pharmaceuticals, where it functions as a buffering agent and anticoagulant, while also finding use in cosmetics, personal care products, and cleaning formulations for its pH-controlling and chelating properties. The textile industry also embraces sodium citrate in dyeing processes for pH control and color enhancement. The compound's diverse functionalities make it an indispensable ingredient, contributing to the stability and quality of a wide range of products."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "monoethanolamine（mea）",
+        "title": "Monoethanolamine（MEA）",
+        "categories": [
+            "Chemicals"
+        ],
+        "category_idx": [
+            "chemicals"
+        ],
+        "infos": {
+            "chemicals": {
                 "Functionalities:": [
                     "1.Alkanolamine",
                     "2.Absorption of Gases",
@@ -1826,16 +2140,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "industrial_xanthan_gum",
-        "title": "Industrial Xanthan Gum",
+        "pid": "industrial_grade_xanthan_gum",
+        "title": "Industrial Grade Xanthan Gum",
         "categories": [
-            "Industrial chemicals"
+            "Chemicals"
         ],
         "category_idx": [
-            "industrial_chemicals"
+            "chemicals"
         ],
         "infos": {
-            "industrial_chemicals": {
+            "chemicals": {
                 "Functionalities:": [
                     "1.Thickening Agent",
                     "2.Stabilizer",
@@ -1862,16 +2176,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "industrial_citric_acid",
-        "title": "Industrial Citric acid",
+        "pid": "industrial_grade_citric_acid",
+        "title": "Industrial Grade Citric Acid",
         "categories": [
-            "Industrial chemicals"
+            "Chemicals"
         ],
         "category_idx": [
-            "industrial_chemicals"
+            "chemicals"
         ],
         "infos": {
-            "industrial_chemicals": {
+            "chemicals": {
                 "Functionalities:": [
                     "1.Chelating Agent",
                     "2.pH Regulator"
@@ -1895,15 +2209,15 @@
     },
     {
         "pid": "sodium_tartrate",
-        "title": "sodium tartrate",
+        "title": "Sodium Tartrate",
         "categories": [
-            "Industrial chemicals"
+            "Chemicals"
         ],
         "category_idx": [
-            "industrial_chemicals"
+            "chemicals"
         ],
         "infos": {
-            "industrial_chemicals": {
+            "chemicals": {
                 "Functionalities:": [
                     "1.Sequestrant",
                     "2.Buffering Agent",
@@ -1930,16 +2244,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "tetrakis(hydroxymethyl)phosphonium_sulfate(thps)",
-        "title": "Tetrakis(hydroxymethyl)phosphonium sulfate(THPS)",
+        "pid": "tetrakis_hydroxymethyl_phosphonium_sulfate(thps)",
+        "title": "Tetrakis Hydroxymethyl Phosphonium Sulfate(THPS)",
         "categories": [
-            "Industrial chemicals"
+            "Chemicals"
         ],
         "category_idx": [
-            "industrial_chemicals"
+            "chemicals"
         ],
         "infos": {
-            "industrial_chemicals": {
+            "chemicals": {
                 "Functionalities:": [
                     "1.Biocide",
                     "2.Flame Retardant",
@@ -1957,7 +2271,7 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Tetrakis(hydroxymethyl)phosphonium sulfate, commonly known as THPS, is a versatile chemical compound recognized for its effectiveness as a biocide and flame retardant. Derived from phosphorus chemistry, THPS is widely used in various industrial applications. In microbial control, particularly in industries like oil and gas, water treatment, and pulp and paper processing, THPS serves as a potent biocide, effectively inhibiting the growth of bacteria, fungi, and algae. Additionally, THPS exhibits flame-retardant properties, making it valuable in enhancing fire resistance in textiles, wood products, and other materials. THPS plays a crucial role in industries where both microbial control and fire safety are critical considerations."
+                    "Tetrakis hydroxymethyl phosphonium sulfate, commonly known as THPS, is a versatile chemical compound recognized for its effectiveness as a biocide and flame retardant. Derived from phosphorus chemistry, THPS is widely used in various industrial applications. In microbial control, particularly in industries like oil and gas, water treatment, and pulp and paper processing, THPS serves as a potent biocide, effectively inhibiting the growth of bacteria, fungi, and algae. Additionally, THPS exhibits flame-retardant properties, making it valuable in enhancing fire resistance in textiles, wood products, and other materials. THPS plays a crucial role in industries where both microbial control and fire safety are critical considerations."
                 ]
             }
         },
@@ -1965,16 +2279,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "tetrakis(hydroxymethyl)phosphonium_chloride(thpc)",
-        "title": "Tetrakis(hydroxymethyl)phosphonium chloride(thpc)",
+        "pid": "tetrakis_hydroxymethyl_phosphonium_chloride(thpc)",
+        "title": "Tetrakis Hydroxymethyl Phosphonium Chloride(THPC)",
         "categories": [
-            "Industrial chemicals"
+            "Chemicals"
         ],
         "category_idx": [
-            "industrial_chemicals"
+            "chemicals"
         ],
         "infos": {
-            "industrial_chemicals": {
+            "chemicals": {
                 "Functionalities:": [
                     "1.Flame Retardant",
                     "2.Textile Finishing",
@@ -1990,7 +2304,237 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Tetrakis(hydroxymethyl)phosphonium chloride, commonly known as THPC, is a chemical compound recognized for its flame-retardant properties and diverse industrial applications. Produced through a synthesis process, THPC has found prominence as an effective additive in textiles, wood treatments, and various materials where enhancing fire resistance is crucial. It imparts flame-retardant characteristics without significantly altering the physical properties of the treated materials. THPC is a valuable solution in industries prioritizing fire safety, making it an essential component in the production of flame-resistant textiles, wood products, and other materials where reducing the risk of fire is a paramount concern."
+                    "Tetrakis hydroxymethyl phosphonium chloride, commonly known as THPC, is a chemical compound recognized for its flame-retardant properties and diverse industrial applications. Produced through a synthesis process, THPC has found prominence as an effective additive in textiles, wood treatments, and various materials where enhancing fire resistance is crucial. It imparts flame-retardant characteristics without significantly altering the physical properties of the treated materials. THPC is a valuable solution in industries prioritizing fire safety, making it an essential component in the production of flame-resistant textiles, wood products, and other materials where reducing the risk of fire is a paramount concern."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "calcium_propionate",
+        "title": "Calcium Propionate",
+        "categories": [
+            "Preservatives"
+        ],
+        "category_idx": [
+            "preservatives"
+        ],
+        "infos": {
+            "preservatives": {
+                "Functionalities:": [
+                    "1.Preservative",
+                    "Calcium propionate functions primarily as a preservative, preventing the development of molds and certain bacteria in food products, particularly baked goods.",
+                    "2.Antimicrobial Agent",
+                    "Its antimicrobial properties contribute to the control of spoilage organisms, enhancing the overall freshness and quality of food items.",
+                    "3.Mold Inhibitor",
+                    "In bakery applications, calcium propionate acts as a mold inhibitor, helping to extend the shelf life of bread, pastries, and other baked goods.",
+                    "4.pH Regulator",
+                    "Calcium propionate also acts as a pH regulator, contributing to the control of acidity in certain food formulations."
+                ],
+                "Applicable Industries:": [
+                    "1.Bakery",
+                    "Calcium propionate is extensively used in the bakery industry, incorporated into bread, rolls, and pastries to prevent mold growth and maintain freshness.",
+                    "2.Dairy",
+                    "In the dairy industry, calcium propionate may be used in some cheese varieties to control the growth of undesirable microorganisms.",
+                    "3.Processed Foods",
+                    "Various processed foods, including ready-to-eat meals and snacks, may utilize calcium propionate to enhance shelf life and preserve product quality.",
+                    "4.Animal Feed",
+                    "Calcium propionate finds application in the animal feed industry to safeguard the nutritional integrity of feed ingredients and prevent the growth of molds in stored feed."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Calcium propionate, a calcium salt of propionic acid, stands as a vital preservative in the food industry, known for its ability to inhibit the growth of molds and certain bacteria in various food products. This white crystalline solid is highly soluble in water and serves as an effective antimicrobial agent. Calcium propionate is widely used in bakery products, such as bread and pastries, where it helps extend shelf life by preventing the development of mold, thus ensuring freshness. Beyond its role in the bakery sector, calcium propionate finds applications in animal feed to safeguard the quality of feed ingredients. Its versatility as a preservative, coupled with its minimal impact on taste and texture, makes calcium propionate a valued ingredient in the quest for prolonged shelf life and microbial control in food products."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "sodium_dehydroacetate",
+        "title": "Sodium Dehydroacetate",
+        "categories": [
+            "Preservatives"
+        ],
+        "category_idx": [
+            "preservatives"
+        ],
+        "infos": {
+            "preservatives": {
+                "Functionalities:": [
+                    "1.Preservative",
+                    "Sodium dehydroacetate acts as a preservative by inhibiting the growth of bacteria and fungi. It is particularly effective in preventing spoilage and maintaining the microbiological stability of cosmetic and food products.",
+                    "2.Antimicrobial Agent",
+                    "Its antimicrobial properties make it suitable for use in a wide range of formulations, helping to control the proliferation of microorganisms and ensuring product safety.",
+                    "3.pH Stabilizer",
+                    "Sodium dehydroacetate can function as a pH stabilizer in cosmetic formulations, contributing to the overall stability and performance of the product."
+                ],
+                "Applicable Industries:": [
+                    "1.Cosmetics and Personal Care",
+                    "Sodium dehydroacetate is commonly used in cosmetics, skincare products, and personal care items as a preservative to prevent microbial contamination and maintain product integrity.",
+                    "2.Food and Beverage",
+                    "While not as common as in the cosmetic industry, sodium dehydroacetate may be used in certain food and beverage applications for its preservative properties.",
+                    "3.Pharmaceuticals",
+                    "In pharmaceutical formulations, sodium dehydroacetate may be employed to enhance the shelf life and stability of certain products, contributing to their safety and efficacy."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Sodium dehydroacetate, commonly known as DHA sodium salt, is a white crystalline powder widely employed as a potent preservative and antimicrobial agent in the cosmetic, personal care, and, to a lesser extent, food industries. Derived from dehydroacetic acid, this compound effectively inhibits the growth of bacteria and fungi, serving as a reliable solution for extending the shelf life of various formulations. Its antimicrobial properties make it particularly valuable in cosmetics and skincare products, ensuring microbiological stability and product safety. Sodium dehydroacetate also functions as a pH stabilizer, contributing to the overall stability of formulations. While primarily recognized for its role in the cosmetic industry, it finds applications in select food and pharmaceutical formulations, emphasizing its versatility as a preservative with broad-spectrum efficacy."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "natamycin",
+        "title": "Natamycin",
+        "categories": [
+            "Preservatives"
+        ],
+        "category_idx": [
+            "preservatives"
+        ],
+        "infos": {
+            "preservatives": {
+                "Functionalities:": [
+                    "1.Antifungal Agent",
+                    "Natamycin acts as a potent antifungal agent, specifically targeting molds and yeast. It inhibits their growth and prevents spoilage in food products.",
+                    "2.Food Preservative",
+                    "Its primary functionality lies in food preservation, where it helps extend the shelf life of a wide range of dairy products, baked goods, meats, and other perishable items.",
+                    "3.Surface Treatment",
+                    "Natamycin can be used as a surface treatment for certain cheeses to protect against mold growth on the rind, contributing to the preservation and quality of the cheese."
+                ],
+                "Applicable Industries:": [
+                    "1.Dairy",
+                    "Natamycin is commonly used in the dairy industry, where it helps preserve the quality of cheeses and yogurt by preventing the growth of undesirable molds and yeasts.",
+                    "2.Bakery",
+                    "In the bakery industry, natamycin serves as a valuable tool for extending the shelf life of baked goods, particularly those susceptible to mold contamination.",
+                    "3.Meat and Poultry",
+                    "Natamycin finds application in the preservation of meat and poultry products, preventing fungal spoilage and maintaining product freshness.",
+                    "4.Beverages",
+                    "Some beverage products, such as fruit juices and wines, may use natamycin to prevent the growth of yeast and molds, ensuring product stability.",
+                    "5.Processed Foods",
+                    "Processed foods that are prone to fungal contamination, such as sauces and dressings, may benefit from the use of natamycin as a preservative."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Natamycin, also known as pimaricin, is a natural antifungal agent derived from the bacterium Streptomyces natalensis. Widely recognized for its effectiveness in inhibiting the growth of molds and yeast, natamycin serves as a crucial preservative in the food industry. Approved for its safety and lack of taste or odor, it finds prominent use in preserving the quality and extending the shelf life of various food products. Commonly employed in the dairy industry to safeguard cheeses and yogurt, natamycin is also utilized in bakery items, meat, poultry, and certain beverages, acting as a reliable defense against fungal contamination. Its versatility, coupled with its natural origin, positions natamycin as a valuable solution for ensuring the longevity and freshness of a diverse range of perishable foods."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "streptococcus_lactis",
+        "title": "Streptococcus Lactis",
+        "categories": [
+            "Preservatives"
+        ],
+        "category_idx": [
+            "preservatives"
+        ],
+        "infos": {
+            "preservatives": {
+                "Functionalities:": [
+                    "1.Lactic Acid Fermentation",
+                    "Streptococcus lactis is proficient in lactose fermentation, producing lactic acid as a metabolic byproduct. This process contributes to the acidity and tanginess in fermented dairy products.",
+                    "2.Texture and Flavor Development",
+                    "Its metabolic activities contribute to the development of desirable textures and flavors in fermented dairy items, imparting unique characteristics to cheeses and yogurts."
+                ],
+                "Applicable Industries:": [
+                    "1.Dairy",
+                    "Streptococcus lactis is a fundamental component in the dairy industry, finding application in the production of various cheeses, including cheddar and Swiss, as well as yogurt and other fermented dairy products.",
+                    "2/Food Fermentation",
+                    "Apart from dairy, Streptococcus lactis may be employed in food fermentation processes where lactic acid production is desired, contributing to the preservation and sensory attributes of fermented foods.",
+                    "3.Probiotics and Nutraceuticals",
+                    "In the realm of probiotics and nutraceuticals, Streptococcus lactis may be harnessed for its potential health benefits, as certain strains have been studied for their probiotic properties."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Streptococcus lactis is a bacterial species integral to the fermentation processes in dairy production, particularly in the creation of various fermented dairy products such as cheese and yogurt. This lactic acid bacterium plays a pivotal role in converting lactose, the sugar present in milk, into lactic acid through the process of fermentation. As a key component of starter cultures, Streptococcus lactis contributes to the development of flavor, texture, and acidity in dairy products. Its ability to metabolize lactose not only aids in the preservation of dairy items but also enhances their nutritional value by making lactose more digestible. Streptococcus lactis exemplifies its significance in the dairy industry, serving as a beneficial microorganism crucial for the production of a diverse array of fermented dairy delights."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "potassium_sorbate",
+        "title": "Potassium Sorbate",
+        "categories": [
+            "Preservatives"
+        ],
+        "category_idx": [
+            "preservatives"
+        ],
+        "infos": {
+            "preservatives": {
+                "Functionalities:": [
+                    "1.Preservative",
+                    "Potassium sorbate serves as a powerful preservative, preventing the growth of various microorganisms in food and beverage products. It inhibits the development of molds, yeasts, and fungi, thus extending the shelf life of the items.",
+                    "2.Anti-Microbial Agent",
+                    "Its antimicrobial properties make potassium sorbate effective in preventing spoilage and maintaining the microbiological stability of a wide range of products.",
+                    "3.Anti-Fungal Agent",
+                    "Particularly effective against molds and yeasts, potassium sorbate is commonly used to preserve bakery items, dairy products, beverages, and other perishable goods.",
+                    "4.Flavor and Odor Preservation",
+                    "Potassium sorbate does not impart a significant taste or odor to the products it preserves, allowing the original flavors and aromas of food and beverages to remain largely unchanged."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Potassium sorbate finds extensive use in the food and beverage industry, preserving a variety of products such as baked goods, cheeses, fruit juices, and soft drinks.",
+                    "2.Cosmetics and Personal Care",
+                    "In cosmetics and personal care products, potassium sorbate is utilized as a preservative to prevent the growth of microorganisms, ensuring the stability and safety of these formulations.",
+                    "3.Pharmaceuticals",
+                    "Some pharmaceutical formulations, especially liquid medications and topical products, may incorporate potassium sorbate to enhance their shelf life and prevent microbial contamination.",
+                    "4.Wine and Brewing",
+                    "Potassium sorbate is commonly used in winemaking and brewing to stabilize the products by inhibiting the re-fermentation of residual sugars."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Potassium sorbate is a crucial preservative widely employed in the food, beverage, cosmetic, and pharmaceutical industries. Derived from sorbic acid, a naturally occurring compound found in berries, potassium sorbate appears as a white crystalline powder with remarkable water solubility. Its primary functionality lies in inhibiting the growth of molds, yeasts, and fungi, thereby extending the shelf life of a variety of perishable products. As an antimicrobial agent, potassium sorbate is particularly effective in preventing spoilage without significantly altering the taste or aroma of the preserved items. This preservative plays a key role in preserving the quality and ensuring the safety of numerous food and beverage products, as well as cosmetics, personal care items, and pharmaceutical formulations."
+                ]
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "sodium_erythorbate",
+        "title": "Sodium Erythorbate",
+        "categories": [
+            "Antioxidants"
+        ],
+        "category_idx": [
+            "antioxidants"
+        ],
+        "infos": {
+            "antioxidants": {
+                "Functionalities:": [
+                    "1.Antioxidant",
+                    "Sodium erythorbate acts as a powerful antioxidant, effectively inhibiting the oxidation of fats and pigments in food, which helps maintain the color, flavor, and overall quality of the products.",
+                    "2.Reducing Agent",
+                    "As a reducing agent, sodium erythorbate prevents the formation of nitrosamines in cured meats, such as sausages and bacon, contributing to food safety by reducing the risk of harmful compound formation.",
+                    "3.Color Stabilizer",
+                    "Its ability to stabilize and enhance the color of fruits and vegetables, particularly in canned and processed products, makes sodium erythorbate valuable for maintaining visual appeal.",
+                    "4.Dough Improver",
+                    "In the baking industry, sodium erythorbate may be used as a dough improver to enhance dough stability and improve the quality of baked goods."
+                ],
+                "Applicable Industries:": [
+                    "1.Food and Beverage",
+                    "Sodium erythorbate is extensively used in the food and beverage industry, especially in processed meats, canned fruits and vegetables, beverages, and baked goods.",
+                    "2.Meat Processing",
+                    "It is a key ingredient in meat processing, particularly in the curing and preservation of meats, where it contributes to both color retention and the prevention of nitrosamine formation.",
+                    "3.Bakery",
+                    "The baking industry incorporates sodium erythorbate to improve dough characteristics and enhance the overall quality of baked products.",
+                    "4.Canned Foods",
+                    "Canned fruits and vegetables benefit from the color stabilization properties of sodium erythorbate, ensuring a visually appealing and long-lasting product."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Sodium erythorbate, a sodium salt of erythorbic acid, is a key ingredient widely utilized as a food preservative and antioxidant. It is structurally similar to vitamin C but exhibits enhanced stability, making it an effective additive in the food and beverage industry. Sodium erythorbate primarily functions as a reducing agent, effectively preventing the browning of fruits and vegetables and inhibiting the formation of nitrosamines in processed meats. It is particularly valuable in the preservation of cured meats, sausages, and various processed foods, where it not only enhances color retention but also extends shelf life by inhibiting oxidative reactions. Its versatile applications make sodium erythorbate an essential component in the food industry's efforts to maintain product quality, appearance, and freshness."
                 ]
             }
         },
