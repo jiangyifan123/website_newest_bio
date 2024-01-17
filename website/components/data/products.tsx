@@ -22,5 +22,5 @@ export function getUniqueCategories() {
 }
 
 export function getProductByPid(pid) {
-    return getData().find(product => product.pid === pid);
+    return getData().find(product => product.pid === decodeURI(pid));
 }
