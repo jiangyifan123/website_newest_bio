@@ -62,6 +62,21 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                             })
                                         }
                                     </div>
+                                    {
+                                        product_detail['Functionalities'] && <>
+                                        <h4>Functionalities</h4>
+                                        <div className="text">
+                                        {
+                                            product_detail['Functionalities'].map(content => {
+                                                return <>
+                                                    <p>{content}</p>
+                                                    <br></br>
+                                                </>
+                                            })
+                                        }
+                                        </div>
+                                        </>
+                                    }
                                     <div>
 
                                         <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to get a FREE quote</span></Link></div>
