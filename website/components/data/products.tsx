@@ -54,3 +54,7 @@ export function getProductsOrderedByCategories() {
 export function getProductByPid(pid) {
     return getData().find(product => product.pid === decodeURI(pid));
 }
+
+export function searchProductsByName(name) {
+    return getData().filter(product => product.title.toLowerCase().indexOf(name.toLowerCase()) >= 0);
+}

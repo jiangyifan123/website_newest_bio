@@ -1,6 +1,13 @@
 import Link from "next/link"
+import { searchProductsByName } from "../data/products"
+import { useState } from "react"
 
 export default function SearchPopup({ isPopup, handlePopup }) {
+    const [searchText, setSearchText] = useState("");
+    const [relatedSearchList, setRelatedSearchList] = useState([]);
+    const HandlerSearchButton = () => {
+        setRelatedSearchList(searchProductsByName(searchText));
+    }
     return (
         <>
             <div id="search-popup" className={`search-popup ${isPopup ? "popup-visible" : ""}`}>
@@ -11,19 +18,26 @@ export default function SearchPopup({ isPopup, handlePopup }) {
                         <form method="post" action="">
                             <div className="form-group">
                                 <fieldset>
-                                    <input type="search" className="form-control" name="search-input" placeholder="Search Here" required />
-                                    <input type="submit" className="theme-btn" />
+                                    <input type="search" className="form-control" name="search-input" placeholder="Search Here" onChange={(e) => setSearchText(e.target.value)} required />
+                                    <input type="submit" className="theme-btn" onClick={HandlerSearchButton}/>
                                 </fieldset>
                             </div>
                         </form>
                         <br />
-                        <h3>Recent Search Keywords</h3>
+                        <h3>Related Search</h3>
                         <ul className="recent-searches">
-                            <li><Link href="#">Finance</Link></li>
-                            <li><Link href="#">Idea</Link></li>
-                            <li><Link href="#">Service</Link></li>
-                            <li><Link href="#">Growth</Link></li>
-                            <li><Link href="#">Plan</Link></li>
+                            {
+                                !relatedSearchList && searchText === '' && <li>no related data</li>
+                            }
+                            {
+                                relatedSearchList && relatedSearchList.map(product => {
+                                    return Object.entries(product.infos).map(([category, product_info]) => {
+                                        return <li>
+                                            <Link href={product_info.url}>{product.title}&nbsp;({category})</Link>
+                                        </li>
+                                    })
+                                })
+                            }
                         </ul>
                     </div>
                 </div>
