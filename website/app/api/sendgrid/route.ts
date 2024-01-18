@@ -20,6 +20,7 @@ export async function POST(request: NextRequest) {
     `;
         await sendgrid.send({
             to: "info@newestbio.com",
+            bcc: "info@nimbus-nova.com",
             from: "info@nimbus-nova.com",
             subject: data.subject,
             html: htmlContent,
