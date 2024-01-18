@@ -10,6 +10,9 @@
         ],
         "infos": {
             "gums": {
+                "Common Name": [
+                    "Agar"
+                ],
                 "Functionalities": [
                     "1.Gelling Agent: Agar is renowned for its exceptional ability to form strong and resilient gels, even at relatively low concentrations. This functionality makes it a key ingredient in the creation of various gel-based food products, such as desserts, jellies, and confectionery.",
                     "2.Thickening Agent: As a hydrocolloid, agar acts as an effective thickening agent, contributing to the viscosity and texture of liquid formulations. Its thickening properties enhance the mouthfeel and overall sensory experience in a variety of food applications.",
@@ -28,7 +31,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/agaragar.png",
+        "image": "/assets/newestBiotech/images/products/products_display/agar-agar.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -42,6 +45,9 @@
         ],
         "infos": {
             "gums": {
+                "Common Name": [
+                    "Goma Xantana, Xanthan"
+                ],
                 "Functionalities": [
                     "1.Thickening Agent: Xanthan Gum excels as a thickener, enhancing the viscosity of liquids in a wide variety of food and non-food applications.",
                     "2.Stabilizer: Acting as a stabilizer, Xanthan Gum helps maintain the uniformity and prevent the separation of ingredients in various products, such as salad dressings and sauces.",
@@ -60,7 +66,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/xanathan_gum.png",
+        "image": "/assets/newestBiotech/images/products/products_display/xanthan_gum.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -74,6 +80,7 @@
         ],
         "infos": {
             "gums": {
+                "Common Name": [],
                 "Functionalities": [
                     "1.Gelling Agent:Gellan Gum excels as a gelling agent, forming clear and firm gels with a unique texture. It's widely used in the creation of intricate desserts, confectionery, and savory dishes.",
                     "2.Thickening Agent: Acting as a thickening agent, Gellan Gum enhances the viscosity of liquids, contributing to the smooth and appealing texture of products like sauces, dressings, and beverages.",
@@ -108,6 +115,9 @@
         ],
         "infos": {
             "gums": {
+                "Common Name": [
+                    "Carrageenin, Carageenan gum"
+                ],
                 "Functionalities": [
                     "1.Thickening Agent:Carrageenan excels as a natural thickening agent, enhancing the viscosity of liquids and providing a rich, smooth texture to products such as dairy items, sauces, and desserts.",
                     "2.Gelling Agent:Known for its exceptional gelling properties, Carrageenan is widely used to create stable and firm gels in products like gummy candies, jelly desserts, and even pet foods.",
@@ -128,7 +138,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Carrageenan.png",
+        "image": "/assets/newestBiotech/images/products/products_display/carrageenan.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -142,6 +152,9 @@
         ],
         "infos": {
             "gums": {
+                "Common Name": [
+                    "Citrus Pectin"
+                ],
                 "Functionalities": [
                     "1.Gelling Agent:Pectin is renowned for its gelling properties, forming a gel when combined with sugars and acids. This makes it a crucial ingredient in the production of jams, jellies, and fruit preserves.",
                     "2.Thickener:As a thickening agent, Pectin enhances the viscosity of liquids, providing a luscious and smooth consistency in a variety of culinary applications, including sauces and fillings.",
@@ -176,6 +189,10 @@
         ],
         "infos": {
             "gums": {
+                "Common Name": [
+                    "CMC",
+                    "Cellulose gum"
+                ],
                 "Functionalities": [
                     "1.Thickening Agent: Carboxymethyl Cellulose is widely recognized for its excellent thickening properties, making it an ideal additive for sauces, dressings, and other liquid-based formulations.",
                     "2.Stabilizer: CMC acts as a stabilizer in a variety of products, including dairy products, preventing phase separation and maintaining uniform consistency over time.",
@@ -197,7 +214,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/CMC.png",
+        "image": "/assets/newestBiotech/images/products/products_display/carboxymethyl_cellulose_(cmc).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -211,6 +228,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Arginine"
+                ],
                 "Functionalities": [
                     "1.Amino Acid Supplementation: L-arginine is a crucial amino acid that plays a vital role in the synthesis of proteins. As a building block of proteins, it supports muscle growth, tissue repair, and overall cellular function.",
                     "2.Nitric Oxide Production: L-arginine is a precursor to nitric oxide, a molecule that helps relax blood vessels and improve blood flow. This functionality makes L-arginine valuable for cardiovascular health and athletic performance.",
@@ -245,6 +265,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "L-Arginine HCl"
+                ],
                 "Functionalities": [
                     "1.Amino Acid Supplementation:L-Arginine hydrochloride is a vital amino acid that serves as a fundamental building block for proteins. It supports muscle growth, tissue repair, and overall cellular function.",
                     "2.Nitric Oxide Production:As a precursor to nitric oxide, L-Arginine hydrochloride promotes improved blood flow, contributing to cardiovascular health and athletic performance.",
@@ -265,7 +288,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/L-Arginine Hydrochloride.png",
+        "image": "/assets/newestBiotech/images/products/products_display/l-arginine_hydrochloride.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -279,6 +302,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "L-His"
+                ],
                 "Functionalities": [
                     "1.Protein Building Block: L-histidine serves as a fundamental building block for proteins, contributing to the synthesis of enzymes, antibodies, and other essential proteins in the body.",
                     "2.Precursor to Histamine: L-histidine is a precursor to histamine, a neurotransmitter involved in various physiological processes, including immune response and the regulation of stomach acid.",
@@ -313,6 +339,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Glutamine"
+                ],
                 "Functionalities": [
                     "1.Muscle Support:L-glutamine is a vital component in muscle tissue and plays a key role in muscle protein synthesis. It is often used to support muscle recovery and maintenance.",
                     "2.Immune System Support:L-glutamine is essential for the proper functioning of the immune system. It supports the production and function of immune cells, aiding in the body's defense against infections.",
@@ -347,6 +376,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Citrulline"
+                ],
                 "Functionalities": [
                     "1.Nitric Oxide Production: L-citrulline is a precursor to L-arginine, which is then converted to nitric oxide in the body. Nitric oxide plays a crucial role in vasodilation, supporting healthy blood flow and cardiovascular function.",
                     "2.Enhanced Exercise Performance:L-citrulline has been studied for its potential to reduce fatigue and improve exercise performance. It aids in the elimination of ammonia, a byproduct of exercise, supporting endurance and recovery.",
@@ -381,6 +413,10 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Citrulline Malate",
+                    "Citrulline DL-Malate"
+                ],
                 "Functionalities": [
                     "1.Nitric Oxide Boost: L-Citrulline DL-Malate is a potent precursor to L-arginine, supporting the production of nitric oxide. Nitric oxide helps relax blood vessels, promoting healthy blood flow and cardiovascular function.",
                     "2.Enhanced Exercise Performance:The combination of L-Citrulline and DL-Malate has been studied for its potential to reduce muscle fatigue, improve exercise performance, and support endurance during physical activity.",
@@ -401,7 +437,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/l-citrulline dl-mallate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/l-citrulline_dl-malate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -415,6 +451,11 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "2-Aminopropanoic acid",
+                    "Ala",
+                    "Alanine"
+                ],
                 "Functionalities": [
                     "1.Energy Source: L-Alanine is a key player in the glucose-alanine cycle, acting as a carrier of amino groups and contributing to the production of glucose. This functionality makes it crucial for supporting energy levels.",
                     "2.Muscle Support: As a building block of proteins, L-Alanine is essential for maintaining muscle health and promoting muscle protein synthesis. It plays a role in supporting endurance during physical activities.",
@@ -449,6 +490,10 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Phe",
+                    "L-Phenylalanine"
+                ],
                 "Functionalities": [
                     "1.Precursor to Neurotransmitters: L-Phenylalanine is a crucial precursor to neurotransmitters such as dopamine, norepinephrine, and epinephrine. These neurotransmitters play a vital role in mood regulation, cognitive function, and stress response.",
                     "2.Protein Synthesis: As an essential amino acid, L-Phenylalanine is integral to protein synthesis, contributing to the formation of proteins that are essential for the structure and function of tissues in the body.",
@@ -485,6 +530,10 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Trp",
+                    "Tryptophan"
+                ],
                 "Functionalities": [
                     "1.Precursor to Serotonin: L-Tryptophan is a vital precursor to serotonin, a neurotransmitter that plays a key role in mood regulation, emotional well-being, and relaxation.",
                     "2.Sleep Support: Due to its role in serotonin synthesis, L-Tryptophan is associated with sleep support. It is a precursor to melatonin, a hormone that regulates the sleep-wake cycle.",
@@ -505,6 +554,9 @@
                 ]
             },
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Tryptophan"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Tryptophan is an indispensable amino acid that serves as a key building block for protein synthesis. It contributes to the formation of proteins essential for muscle development, tissue repair, and overall growth.",
                     "2.Serotonin Production: L-Tryptophan is a precursor to serotonin, a neurotransmitter that plays a crucial role in regulating mood, appetite, and sleep in animals. Supplementing with L-Tryptophan may positively influence behavior and stress responses.",
@@ -541,6 +593,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Threonine (abbreviated as Thr or T)"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis: L-Threonine is an essential building block for protein synthesis, contributing to the formation of functional proteins in the body.",
                     "2.Immune Function: It plays a role in supporting immune function, helping the body resist infections and maintain overall health.",
@@ -556,6 +611,10 @@
                 ]
             },
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Threonine",
+                    "L-Thr"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Threonine is an essential amino acid that serves as a crucial component in protein synthesis. It is involved in the formation of proteins vital for muscle development, tissue maintenance, and overall growth in animals.",
                     "2.Gut Health: L-Threonine is known for its positive impact on gut health. It helps maintain the integrity of the intestinal mucosa, supporting proper digestion and absorption of nutrients in animals.",
@@ -590,6 +649,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "branched chain amino acid"
+                ],
                 "Functionalities": [
                     "1.Muscle Protein Synthesis: BCAAs are essential for muscle protein synthesis, playing a crucial role in building and repairing muscle tissues. Leucine, in particular, is a potent stimulator of protein synthesis.",
                     "2.Energy Source During Exercise: BCAAs can serve as a source of energy during exercise. When glucose levels are depleted, muscles can utilize BCAAs for energy, helping to sustain endurance and reduce muscle fatigue.",
@@ -610,7 +672,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/branched chain amino acid.png",
+        "image": "/assets/newestBiotech/images/products/products_display/branched_chain_amino_acid_(bcaa).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -626,6 +688,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "2-Amino-3-methylbutanoic acid"
+                ],
                 "Functionalities": [
                     "1.Muscle Protein Synthesis: L-Valine is essential for muscle protein synthesis, contributing to the growth, repair, and maintenance of muscle tissues. It is particularly important for athletes and individuals engaged in physical activities.",
                     "2.Energy Source During Exercise: L-Valine, along with leucine and isoleucine, is a branched-chain amino acid (BCAA) that can be used as a source of energy during exercise. It helps sustain endurance and reduces muscle fatigue.",
@@ -646,6 +711,9 @@
                 ]
             },
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Valine"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Valine is a key contributor to protein synthesis, playing a crucial role in the formation of muscle proteins and supporting overall muscle development in animals.",
                     "2.Energy Metabolism: As a branched-chain amino acid, L-Valine participates in energy metabolism. It aids in glucose uptake and utilization, contributing to efficient energy production and utilization in animals.",
@@ -682,6 +750,10 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Isoleucine",
+                    "2-Amino-3-methylvaleric acid"
+                ],
                 "Functionalities": [
                     "1.Muscle Protein Synthesis: L-Isoleucine is a branched-chain amino acid (BCAA) crucial for muscle protein synthesis, playing a key role in the growth, repair, and maintenance of muscle tissues.",
                     "2.Energy Source During Exercise: As a BCAA, L-Isoleucine serves as a source of energy during prolonged exercise. It helps support endurance, reduce muscle fatigue, and contribute to overall athletic performance.",
@@ -702,6 +774,9 @@
                 ]
             },
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Isoleucine"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Isoleucine is a key component in protein synthesis, contributing to the formation of muscle proteins and supporting overall muscle development in animals.",
                     "2.Energy Metabolism: As a branched-chain amino acid, L-Isoleucine is involved in energy metabolism. It plays a role in glucose uptake and utilization, helping animals efficiently convert nutrients into energy.",
@@ -736,6 +811,11 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Creatine",
+                    "N-(Aminoiminomethyl)-N-methylglycine monohydrate",
+                    "Methylguanidoacetic Acid Monohydrate"
+                ],
                 "Functionalities": [
                     "1.ATP Regeneration: Creatine Monohydrate is a key player in the regeneration of adenosine triphosphate (ATP), the primary energy currency of cells. Increased ATP availability supports enhanced energy during short bursts of intense exercise.",
                     "2.Muscle Strength and Power: By replenishing phosphocreatine stores in muscles, Creatine Monohydrate contributes to increased strength and power during high-intensity activities, such as weightlifting and sprinting.",
@@ -756,7 +836,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/cretine monohydrate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/creatine_monohydrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -770,6 +850,11 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Malic Acid",
+                    "2-Hydroxybutanedioic Acid",
+                    "Hydroxybutanedioic Acid"
+                ],
                 "Functionalities": [
                     "1.Acidulant: L-Malic Acid serves as an effective acidulant, contributing a sour and tangy taste to food and beverage products. It enhances the overall flavor profile and provides a crisp acidity that is desirable in various applications.",
                     "2.Flavor Enhancer:As a flavor enhancer, L-Malic Acid can improve the overall taste and palatability of products. It is often used to balance sweetness and mask undesirable flavors.",
@@ -790,7 +875,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/l-malic acid.png",
+        "image": "/assets/newestBiotech/images/products/products_display/l-malic_acid.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -804,6 +889,12 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "NAC",
+                    "Acetylcysteine",
+                    "N-Acetyl Cysteine",
+                    "N-Acetylcysteine"
+                ],
                 "Functionalities": [
                     "1.Antioxidant Support: N-Acetyl-L-Cysteine is a powerful antioxidant that helps neutralize free radicals, protecting cells from oxidative stress. It supports overall cellular health and contributes to the body's natural defense mechanisms.",
                     "2.Glutathione Precursor: NAC is a precursor to glutathione, one of the body's most important antioxidants. By providing cysteine, a key component of glutathione, NAC supports the synthesis of this crucial antioxidant.",
@@ -824,7 +915,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/n-acetyl-l-cysteine.png",
+        "image": "/assets/newestBiotech/images/products/products_display/n-acetyl-l-cysteine(nac).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -838,6 +929,10 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "Arginine Nitrate",
+                    "Nitric Oxide Precursor"
+                ],
                 "Functionalities": [
                     "1.Nitric Oxide Production: L-Arginine Nitrate serves as a precursor to nitric oxide, a molecule known for its vasodilatory effects. Nitric oxide helps relax blood vessels, promoting improved blood flow and circulation.",
                     "2.Vasodilation: The nitrate component in L-Arginine Nitrate enhances vasodilation, contributing to the widening of blood vessels. This can result in increased oxygen and nutrient delivery to tissues and muscles.",
@@ -858,7 +953,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/l-arginine nitrate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/l-arginine_nitrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -872,6 +967,10 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "2-Aminoethanesulfonic acid",
+                    "Tauric acid"
+                ],
                 "Functionalities": [
                     "1.Flavor Enhancement: Taurine contributes to a savory and umami flavor profile, making it an ideal addition to various food and beverage applications.",
                     "2.Energy Boost: Known for its energizing properties, Taurine can be a key component in energy drinks and functional beverages, providing a natural and sustained boost without the need for stimulants.",
@@ -905,6 +1004,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    "myo-Inositol"
+                ],
                 "Functionalities": [
                     "1.Cellular Signaling: Inositol plays a crucial role in cellular signaling, contributing to various physiological processes and supporting overall cellular health.",
                     "2.Mood and Mental Well-Being: Known for its involvement in neurotransmitter function, Inositol may promote a positive mood and support mental well-being, making it a valuable addition to functional foods and supplements.",
@@ -938,6 +1040,9 @@
         ],
         "infos": {
             "food_grade_amino_acids": {
+                "Common Name": [
+                    ""
+                ],
                 "Functionalities": [
                     "Glucosamine plays a crucial role in the synthesis of proteoglycans and hyaluronic acid, which contribute to the structure and lubrication of joints. It is believed to promote the regeneration of damaged cartilage and inhibit the progression of joint-related disorders. Additionally, glucosamine possesses anti-inflammatory properties that can help alleviate joint pain and discomfort."
                 ],
@@ -966,6 +1071,10 @@
         ],
         "infos": {
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Methionine",
+                    "L-Met"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Methionine is an indispensable amino acid that serves as a building block for protein synthesis in animals. It plays a vital role in the formation of proteins necessary for growth, muscle development, and overall tissue maintenance.",
                     "2.Feather and Coat Health: In poultry and livestock, L-Methionine contributes to the development of healthy feathers and coats. It is particularly essential in supporting the growth of feathers and maintaining the quality of fur or wool in various animals.",
@@ -1000,6 +1109,10 @@
         ],
         "infos": {
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Lysine HCl",
+                    "(S)-2,6-Diaminohexanoic acid hydrochloride"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis: L-Lysine is an essential amino acid that plays a key role in protein synthesis, contributing to the formation of muscle tissues and overall body proteins in animals.",
                     "2.Growth Promotion: As a growth-promoting supplement, L-Lysine Hydrochloride supports optimal weight gain and development in livestock, particularly poultry and swine.",
@@ -1017,7 +1130,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/l-lysine-hydrochloride.png",
+        "image": "/assets/newestBiotech/images/products/products_display/l-lysine_hydrochloride.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1031,6 +1144,10 @@
         ],
         "infos": {
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "L-Lysine Sulfate Monohydrate",
+                    "Sulfate of Lysine"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis: L-Lysine is an indispensable amino acid that plays a key role in protein synthesis, contributing to the formation of muscle tissues and overall body proteins in animals.",
                     "2.Growth Promotion: L-Lysine Sulfate is recognized for its growth-promoting effects, facilitating optimal weight gain and development in livestock, particularly poultry and swine.",
@@ -1048,7 +1165,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/l-lysine-sulphate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/l-lysine_sulphate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1062,6 +1179,9 @@
         ],
         "infos": {
             "feed_grade_amino_acids": {
+                "Common Name": [
+                    "Leucine"
+                ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Leucine is a branched-chain amino acid (BCAA) that acts as a key stimulator of protein synthesis. It plays a critical role in the formation of muscle proteins, supporting muscle development and overall growth.",
                     "2.Muscle Maintenance: L-Leucine is crucial for maintaining muscle mass in animals. It helps preserve muscle tissue during periods of stress, growth, and metabolic changes, contributing to overall muscle health.",
@@ -1096,6 +1216,9 @@
         ],
         "infos": {
             "prebiotics": {
+                "Common Name": [
+                    "HMOs"
+                ],
                 "Functionalities": [
                     "1.Immune Support: Human Milk Oligosaccharides are renowned for their ability to support and modulate the immune system, contributing to overall health and wellness.",
                     "2.Prebiotic Properties: As prebiotics, HMOs nourish and promote the growth of beneficial bacteria in the gut, fostering a healthy and balanced gut microbiome.",
@@ -1115,7 +1238,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Human Milk Oligosaccharides (HMO).png",
+        "image": "/assets/newestBiotech/images/products/products_display/human_milk_oligosaccharides_(hmo).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1129,6 +1252,9 @@
         ],
         "infos": {
             "prebiotics": {
+                "Common Name": [
+                    "IMO (Isomalto-oligosaccharide)"
+                ],
                 "Functionalities": [
                     "1.Low Glycemic Index Sweetener: Iso-Malto-Oligosaccharide serves as a low glycemic index sweetener, making it an ideal choice for products catering to individuals seeking blood sugar control and a sustained energy release.",
                     "2.Prebiotic Properties: With its prebiotic characteristics, Iso-Malto-Oligosaccharide supports the growth of beneficial bacteria in the gut, contributing to a healthy and balanced digestive system.",
@@ -1149,7 +1275,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Isomalto-Oligosaccharides(IMO).png",
+        "image": "/assets/newestBiotech/images/products/products_display/isomalto-oligosaccharides(imo).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1163,6 +1289,10 @@
         ],
         "infos": {
             "prebiotics": {
+                "Common Name": [
+                    "FOS",
+                    "Oligofructose"
+                ],
                 "Functionalities": [
                     "1.Prebiotic Powerhouse: Fructooligosaccharides serve as potent prebiotics, nourishing and promoting the growth of beneficial gut bacteria. This contributes to a healthy and balanced digestive system.",
                     "2.Low-Calorie Sweetener: With a sweet taste and lower caloric content compared to traditional sugars, FOS is an excellent choice for those seeking sweetness without excess calories.",
@@ -1183,7 +1313,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Fructo-Oligosaccharides(FOS).png",
+        "image": "/assets/newestBiotech/images/products/products_display/fructo-oligosaccharides(fos).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1197,6 +1327,9 @@
         ],
         "infos": {
             "prebiotics": {
+                "Common Name": [
+                    "GOS"
+                ],
                 "Functionalities": [
                     "1.Prebiotic Support: Galactooligosaccharides serve as effective prebiotics, fostering the growth of beneficial gut bacteria and supporting a healthy digestive system.",
                     "2.Immune System Boost: GOS has been associated with immune system modulation, contributing to overall well-being and health.",
@@ -1217,7 +1350,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Galacto-Oligosaccharides(GOS).png",
+        "image": "/assets/newestBiotech/images/products/products_display/galacto-oligosaccharides(gos).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1231,6 +1364,9 @@
         ],
         "infos": {
             "prebiotics": {
+                "Common Name": [
+                    "XOS"
+                ],
                 "Functionalities": [
                     "1.Prebiotic Powerhouse: Xylo-Oligosaccharides act as potent prebiotics, promoting the growth of beneficial bacteria in the gut, supporting digestive health, and contributing to a balanced microbiome.",
                     "2.Low-Calorie Sweetener: With a naturally sweet taste and low caloric content, XOS provides an excellent alternative to traditional sugars, catering to health-conscious consumers seeking reduced-calorie options.",
@@ -1251,7 +1387,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Xylo-Oligosaccharides(XOS).png",
+        "image": "/assets/newestBiotech/images/products/products_display/xylo-oligosaccharides(xos).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1265,6 +1401,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    ""
+                ],
                 "Functionalities": [
                     "1.Zero-Calorie Sweetener: Erythritol offers the sweetness of sugar without the calories, making it an excellent choice for individuals looking to reduce calorie intake while enjoying sweetened products.",
                     "2.Dental Health Support: Erythritol does not contribute to tooth decay, making it tooth-friendly and suitable for dental health-conscious consumers.",
@@ -1285,7 +1424,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Erythritol.png",
+        "image": "/assets/newestBiotech/images/products/products_display/erythritol.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1299,6 +1438,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "D-psicose"
+                ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: Allulose provides the sweetness of traditional sugars with only a fraction of the calories, making it an excellent option for individuals aiming to reduce calorie intake.",
                     "2.Low Glycemic Index: With a low glycemic index, Allulose has minimal impact on blood sugar levels, making it suitable for those monitoring their blood sugar.",
@@ -1319,7 +1461,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Allulose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/allulose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1333,6 +1475,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Xylite"
+                ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: Xylitol offers a sweet taste with approximately 40% fewer calories than traditional sugars, making it a favorable choice for those watching their calorie intake.",
                     "2.Dental Health Support: Xylitol has been shown to promote dental health by inhibiting the growth of harmful bacteria in the mouth, reducing the risk of tooth decay and cavities.",
@@ -1353,7 +1498,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Xylitol.png",
+        "image": "/assets/newestBiotech/images/products/products_display/xylitol.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1367,6 +1512,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Xylopyranose"
+                ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: D-Xylose provides sweetness with lower caloric content compared to traditional sugars, making it an excellent choice for calorie-conscious consumers.",
                     "2.Blood Sugar Management: With a low glycemic index, D-Xylose has minimal impact on blood sugar levels, offering a suitable option for those monitoring their glucose intake.",
@@ -1387,7 +1535,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/D-Xylose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/d-xylose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1401,6 +1549,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "APM"
+                ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: Aspartame is approximately 200 times sweeter than sucrose (table sugar), allowing for a significant reduction in the caloric content of products while maintaining sweetness.",
                     "2.Sugar Replacement: Aspartame can be used as a sugar substitute in various recipes, enabling the creation of sugar-free or reduced-sugar versions of beverages, desserts, and other food products.",
@@ -1421,7 +1572,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Aspartame.png",
+        "image": "/assets/newestBiotech/images/products/products_display/aspartame.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1435,6 +1586,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Glucose",
+                    "D-Glucose monohydrate"
+                ],
                 "Functionalities": [
                     "1.Quick Energy Source: Dextrose Monohydrate is rapidly absorbed by the body, providing a quick and easily accessible source of energy. This makes it ideal for use in sports drinks and energy-boosting formulations.",
                     "2.Sweetening Agent: Dextrose adds a natural sweetness to a wide range of products, from beverages and candies to baked goods, contributing to an appealing taste profile.",
@@ -1455,7 +1610,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Dextrose Monohydrate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/dextrose_monohydrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1469,6 +1624,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "glucose anhydrous",
+                    "simply anhydrous dextrose"
+                ],
                 "Functionalities": [
                     "1.Quick and Sustained Energy: Anhydrous Glucose serves as a rapid and easily digestible source of energy, making it ideal for sports nutrition products, energy drinks, and supplements.",
                     "2.Sweetening Agent: With its natural sweetness, Anhydrous Glucose enhances the overall taste profile of a variety of food and beverage products, including confectionery, jams, and baked goods.",
@@ -1489,7 +1648,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Anhydrous Glucose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/anhydrous_glucose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1503,6 +1662,11 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "D-Mannose",
+                    "Seminose",
+                    "Carubinose"
+                ],
                 "Functionalities": [
                     "1.Natural Sweetness: Mannose is a naturally occurring sugar with a sweet taste, providing an alternative sweetening option for products aiming to reduce or eliminate the use of traditional sugars.",
                     "2.Urinary Tract Health: D-Mannose is known for its potential benefits in supporting urinary tract health. It is often used as a supplement to promote a healthy urinary environment.",
@@ -1523,7 +1687,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Mannose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/mannose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1537,6 +1701,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Mannite"
+                ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: Mannitol provides a sweet taste with approximately 60-70% the sweetness of sucrose (table sugar) and significantly fewer calories, making it a valuable option for those seeking reduced-calorie alternatives.",
                     "2.Sugar Replacement: As a sugar alcohol, Mannitol serves as a sugar substitute in various products, including confectionery, baked goods, and chewing gum. It imparts sweetness without causing spikes in blood sugar levels.",
@@ -1557,7 +1724,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Mannitol.png",
+        "image": "/assets/newestBiotech/images/products/products_display/mannitol.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1571,6 +1738,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "PCF"
+                ],
                 "Functionalities": [
                     "1.Intense Sweetness: Pure Crystalline Fructose is approximately 1.5 times sweeter than sucrose (table sugar), allowing for the achievement of desired sweetness levels with lower usage, which can be beneficial for calorie reduction in formulations.",
                     "2.Texture Enhancement: Crystalline Fructose is known for its ability to enhance the texture and mouthfeel of various food and beverage products. It is often used to create smooth and creamy textures in frozen desserts, dairy products, and beverages.",
@@ -1591,7 +1761,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Pure Crystalline Fructose (PCF).png",
+        "image": "/assets/newestBiotech/images/products/products_display/pure_crystalline_fructose_(pcf).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1605,6 +1775,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Mycose",
+                    "Tremalose"
+                ],
                 "Functionalities": [
                     "1.Multi-Functional Sweetener: Trehalose is a disaccharide composed of two glucose molecules, providing sweetness without the intense flavor of sucrose. This makes it a versatile sweetener suitable for various applications.",
                     "2.Texture Preservation: Trehalose has remarkable properties in preserving the texture and moisture of products, particularly in applications such as baked goods, chocolates, and certain confectionery items.",
@@ -1625,7 +1799,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Trehalose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/trehalose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1639,6 +1813,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "6-O-α-D-Glucopyranosyl-D-glucose",
+                    "α-D-Glucopyranosyl-(1→6)-D-glucose"
+                ],
                 "Functionalities": [
                     "1.Sweetening Agent:Isomaltose imparts a sweet taste and is used as a sweetening agent in various food products. It provides sweetness with a different flavor profile compared to sucrose.",
                     "2.Reduced Caloric Content:Isomaltose contributes sweetness to foods with a reduced caloric impact, making it a suitable option for products aimed at reducing overall caloric intake.",
@@ -1658,7 +1836,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Isomaltose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/isomaltose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1672,6 +1850,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Glucose polymer",
+                    "Maltose syrup"
+                ],
                 "Functionalities": [
                     "1.Thickening Agent:Maltodextrin is prized for its ability to thicken and add body to a variety of food and beverage products, including sauces, soups, and dressings.",
                     "2.Texture Modifier:Its unique molecular structure enhances the texture of food products, providing a smooth and creamy mouthfeel in applications like dairy alternatives and desserts.",
@@ -1692,7 +1874,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Maltodextrin.png",
+        "image": "/assets/newestBiotech/images/products/products_display/maltodextrin.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1706,6 +1888,9 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Glucitol"
+                ],
                 "Functionalities": [
                     "1.Sweetening Agent:Sorbitol serves as a low-calorie sweetener, providing sweetness in food and beverage products without contributing to dental issues or a significant increase in caloric intake.",
                     "2.Humectant:With its humectant properties, sorbitol attracts and retains moisture, preventing the drying out of products such as confectionery, baked goods, and cosmetics.",
@@ -1725,7 +1910,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Sorbitol.png",
+        "image": "/assets/newestBiotech/images/products/products_display/sorbitol.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1739,6 +1924,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Sweetleaf",
+                    "Sugarleaf"
+                ],
                 "Functionalities": [
                     "1.Zero-Calorie Sweetener:Stevia is a non-nutritive sweetener, providing sweetness without the added calories, making it an ideal option for those seeking to manage their calorie intake or maintain a healthier lifestyle.",
                     "2.Natural Sweetening Agent:As a natural sweetener, stevia imparts a sweet taste to food and beverages without the use of artificial additives, aligning with the increasing consumer preference for natural and plant-based products.",
@@ -1757,7 +1946,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Stevia.png",
+        "image": "/assets/newestBiotech/images/products/products_display/stevia.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1771,6 +1960,10 @@
         ],
         "infos": {
             "sweeteners": {
+                "Common Name": [
+                    "Maltitol syrup",
+                    "Hydrogenated glucose syrup"
+                ],
                 "Functionalities": [
                     "1.Sweetening Agent: Maltitol functions as a sweetener, offering a sugar-like taste without the calories, making it suitable for the formulation of reduced-calorie and sugar-free products.",
                     "2.Bulking Agent: As a bulking agent, maltitol contributes volume and texture to various food products, ensuring a satisfying mouthfeel in sugar-free confectionery, chocolates, and baked goods.",
@@ -1789,7 +1982,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Maltitol.png",
+        "image": "/assets/newestBiotech/images/products/products_display/maltitol.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1803,6 +1996,9 @@
         ],
         "infos": {
             "dietary_fibers": {
+                "Common Name": [
+                    "Polydextrose polymer"
+                ],
                 "Functionalities": [
                     "1.Fiber Enrichment: Polydextrose is a soluble fiber that supports digestive health by promoting regular bowel movements and providing prebiotic benefits to the gut microbiota.",
                     "2.Low-Calorie Sweetener: Polydextrose contributes minimal calories to products while providing a mild sweetness, making it an ideal choice for those seeking reduced-calorie and sugar-reduced alternatives.",
@@ -1824,7 +2020,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Polydextrose.png",
+        "image": "/assets/newestBiotech/images/products/products_display/polydextrose.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1838,6 +2034,9 @@
         ],
         "infos": {
             "dietary_fibers": {
+                "Common Name": [
+                    ""
+                ],
                 "Functionalities": [
                     "1.Dietary Fiber Enrichment: Resistant Dextrin is a soluble fiber that contributes to the daily recommended intake of dietary fiber, supporting digestive health and regular bowel movements.",
                     "2.Blood Sugar Management: With its low glycemic index, Resistant Dextrin helps manage blood sugar levels, making it a suitable choice for individuals focused on glycemic control.",
@@ -1859,7 +2058,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Resistant Dextrin.png",
+        "image": "/assets/newestBiotech/images/products/products_display/resistant_dextrin.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1873,6 +2072,10 @@
         ],
         "infos": {
             "flavor_enhancers": {
+                "Common Name": [
+                    "MSG",
+                    "Aginomoto"
+                ],
                 "Functionalities": [
                     "1.Flavor Enhancer: Monosodium Glutamate is renowned for its ability to enhance the savory and umami flavors in a wide range of dishes, intensifying and balancing the taste profile.",
                     "2.Taste Amplification: MSG does not impart its own distinct flavor but rather enhances the natural taste of food, allowing other flavors to be more pronounced and creating a more satisfying culinary experience.",
@@ -1893,7 +2096,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Monosodium Glutamate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/monosodium_glutamate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1911,7 +2114,7 @@
                 "desc": []
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Acidulants.png",
+        "image": "/assets/newestBiotech/images/products/products_display/acidulants.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1925,6 +2128,9 @@
         ],
         "infos": {
             "flavor_enhancers": {
+                "Common Name": [
+                    ""
+                ],
                 "Functionalities": [
                     "1.Acidulant: Citric Acid Monohydrate serves as a highly effective acidulant, adding a sour or tangy taste to various food and beverage products.",
                     "2.pH Regulator: Used to control the pH level in food and beverages, Citric Acid Monohydrate ensures proper acidity, stability, and preservation.",
@@ -1946,7 +2152,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Citric Acid Monohydrate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/citric_acid_monohydrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1960,6 +2166,9 @@
         ],
         "infos": {
             "flavor_enhancers": {
+                "Common Name": [
+                    ""
+                ],
                 "Functionalities": [
                     "1.Natural Acidulant: Citric Acid Anhydrous imparts a tangy flavor to food and beverages, making it a popular choice as a natural acidulant in the food industry.",
                     "2.pH Regulator: It acts as a pH regulator, helping to maintain the desired acidity levels in various formulations. This functionality is crucial in achieving the right balance and taste in many processed foods and beverages.",
@@ -1979,7 +2188,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Citric Acid Anhydrous.png",
+        "image": "/assets/newestBiotech/images/products/products_display/citric_acid_anhydrous.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -1993,6 +2202,10 @@
         ],
         "infos": {
             "flavor_enhancers": {
+                "Common Name": [
+                    "Sodium citrate dihydrate",
+                    "Trisodium citrate"
+                ],
                 "Functionalities": [
                     "1.Buffering Agent: Sodium citrate acts as a buffering agent, helping to control and stabilize the pH levels in various products, especially in the food and beverage industry.",
                     "2.Acidity Regulator: As an acidity regulator, sodium citrate adjusts the acidity of food and beverage products, enhancing flavor stability and providing a tart taste when required.",
@@ -2012,7 +2225,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Sodium citrate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/sodium_citrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2026,6 +2239,9 @@
         ],
         "infos": {
             "chemicals": {
+                "Common Name": [
+                    "MEA"
+                ],
                 "Functionalities": [
                     "1.Alkanolamine: Monoethanolamine belongs to the family of alkanolamines, which are characterized by the presence of both alcohol and amine functional groups. This unique structure imparts a range of functionalities.",
                     "2.Absorption of Gases: MEA is commonly used in gas treatment processes, particularly in the absorption of acidic gases such as carbon dioxide (CO2) and hydrogen sulfide (H2S) in various industries. This makes it valuable in natural gas purification and sweetening processes.",
@@ -2054,7 +2270,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Monoethanolamine（MEA）.png",
+        "image": "/assets/newestBiotech/images/products/products_display/monoethanolamine（mea）.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2068,6 +2284,9 @@
         ],
         "infos": {
             "chemicals": {
+                "Common Name": [
+                    "Goma Xantana, Xanthan"
+                ],
                 "Functionalities": [
                     "1.Thickening Agent: Industrial Xanthan Gum is renowned for its exceptional thickening properties. It can efficiently increase the viscosity of liquids, providing stability to suspensions and preventing settling of solid particles.",
                     "2.Stabilizer: As a stabilizing agent, Xanthan Gum helps maintain the uniform dispersion of ingredients in formulations, preventing phase separation and ensuring product integrity over time.",
@@ -2090,7 +2309,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Industrial Grade Xanthan Gum.png",
+        "image": "/assets/newestBiotech/images/products/products_display/industrial_grade_xanthan_gum.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2104,6 +2323,9 @@
         ],
         "infos": {
             "chemicals": {
+                "Common Name": [
+                    ""
+                ],
                 "Functionalities": [
                     "1.Chelating Agent: Citric Acid serves as an effective chelating agent, binding with metal ions and helping to prevent oxidation and discoloration in products. It is commonly used in the formulation of detergents and cleaning products.",
                     "2.pH Regulator: With its ability to adjust acidity, Citric Acid acts as a pH regulator in many industrial processes, ensuring optimal conditions for reactions and stability."
@@ -2122,7 +2344,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Citric Acid.png",
+        "image": "/assets/newestBiotech/images/products/products_display/industrial_grade_citric_acid.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2136,6 +2358,9 @@
         ],
         "infos": {
             "chemicals": {
+                "Common Name": [
+                    "Rochelle salt"
+                ],
                 "Functionalities": [
                     "1.Sequestrant: Sodium Tartrate acts as a sequestrant, effectively binding with metal ions. This property is particularly useful in preventing the discoloration of certain food products and in metal cleaning applications.",
                     "2.Buffering Agent: In some formulations, Sodium Tartrate is utilized as a buffering agent, helping to maintain a stable pH and preventing rapid changes in acidity.",
@@ -2158,7 +2383,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Sodium Tartrate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/sodium_tartrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2172,6 +2397,9 @@
         ],
         "infos": {
             "chemicals": {
+                "Common Name": [
+                    "THPS"
+                ],
                 "Functionalities": [
                     "1.Biocide: Tetrakis(hydroxymethyl)phosphonium sulfate serves as a potent biocide, effectively controlling the growth of bacteria, fungi, and algae in various industrial systems, including water treatment, oil and gas production, and pulp and paper processing.",
                     "2.Flame Retardant: THPS is recognized for its flame-retardant properties. It is used in certain applications to enhance the fire resistance of materials, making it valuable in industries where fire safety is a priority.",
@@ -2193,7 +2421,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Tetrakis Hydroxymethyl Phosphonium Sulfate(THPS).png",
+        "image": "/assets/newestBiotech/images/products/products_display/tetrakis_hydroxymethyl_phosphonium_sulfate(thps).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2207,6 +2435,9 @@
         ],
         "infos": {
             "chemicals": {
+                "Common Name": [
+                    "THPC"
+                ],
                 "Functionalities": [
                     "1.Flame Retardant: Tetrakis(hydroxymethyl)phosphonium chloride is primarily recognized for its flame-retardant properties. It is used as an additive in various materials and formulations to enhance fire resistance, making it valuable in industries where fire safety is a priority.",
                     "2.Textile Finishing: THPC is commonly used in the textile industry as a flame retardant for fabrics and garments. It imparts fire resistance to textiles without significantly affecting their physical properties.",
@@ -2226,7 +2457,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Tetrakis Hydroxymethyl Phosphonium Chloride(THPC).png",
+        "image": "/assets/newestBiotech/images/products/products_display/tetrakis_hydroxymethyl_phosphonium_chloride(thpc).png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2240,6 +2471,10 @@
         ],
         "infos": {
             "preservatives": {
+                "Common Name": [
+                    "E282 (when used as a food additive)",
+                    "Calcium propanoate"
+                ],
                 "Functionalities": [
                     "1.Preservative: Calcium propionate functions primarily as a preservative, preventing the development of molds and certain bacteria in food products, particularly baked goods.",
                     "2.Antimicrobial Agent: Its antimicrobial properties contribute to the control of spoilage organisms, enhancing the overall freshness and quality of food items.",
@@ -2258,7 +2493,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Calcium Propionate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/calcium_propionate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2272,6 +2507,10 @@
         ],
         "infos": {
             "preservatives": {
+                "Common Name": [
+                    "DHA sodium salt",
+                    "Dehydroacetic acid sodium salt"
+                ],
                 "Functionalities": [
                     "1.Preservative: Sodium dehydroacetate acts as a preservative by inhibiting the growth of bacteria and fungi. It is particularly effective in preventing spoilage and maintaining the microbiological stability of cosmetic and food products.",
                     "2.Antimicrobial Agent: Its antimicrobial properties make it suitable for use in a wide range of formulations, helping to control the proliferation of microorganisms and ensuring product safety.",
@@ -2288,7 +2527,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Sodium Dehydroacetate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/sodium_dehydroacetate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2302,6 +2541,10 @@
         ],
         "infos": {
             "preservatives": {
+                "Common Name": [
+                    "Pimaricin",
+                    "E235 (when used as a food additive)"
+                ],
                 "Functionalities": [
                     "1.Antifungal Agent: Natamycin acts as a potent antifungal agent, specifically targeting molds and yeast. It inhibits their growth and prevents spoilage in food products.",
                     "2.Food Preservative: Its primary functionality lies in food preservation, where it helps extend the shelf life of a wide range of dairy products, baked goods, meats, and other perishable items.",
@@ -2320,7 +2563,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Natamycin.png",
+        "image": "/assets/newestBiotech/images/products/products_display/natamycin.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2334,6 +2577,10 @@
         ],
         "infos": {
             "preservatives": {
+                "Common Name": [
+                    "Streptococcus cremoris (historical classification)",
+                    "Lactic streptococci"
+                ],
                 "Functionalities": [
                     "1.Lactic Acid Fermentation: Streptococcus lactis is proficient in lactose fermentation, producing lactic acid as a metabolic byproduct. This process contributes to the acidity and tanginess in fermented dairy products.",
                     "2.Texture and Flavor Development: Its metabolic activities contribute to the development of desirable textures and flavors in fermented dairy items, imparting unique characteristics to cheeses and yogurts."
@@ -2349,7 +2596,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Streptococcus Lactis.png",
+        "image": "/assets/newestBiotech/images/products/products_display/streptococcus_lactis.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2363,6 +2610,10 @@
         ],
         "infos": {
             "preservatives": {
+                "Common Name": [
+                    "E202 (when used as a food additive)",
+                    "Sorbistat K"
+                ],
                 "Functionalities": [
                     "1.Preservative: Potassium sorbate serves as a powerful preservative, preventing the growth of various microorganisms in food and beverage products. It inhibits the development of molds, yeasts, and fungi, thus extending the shelf life of the items.",
                     "2.Anti-Microbial Agent: Its antimicrobial properties make potassium sorbate effective in preventing spoilage and maintaining the microbiological stability of a wide range of products.",
@@ -2381,7 +2632,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Potassium Sorbate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/potassium_sorbate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2395,6 +2646,10 @@
         ],
         "infos": {
             "antioxidants": {
+                "Common Name": [
+                    "Sodium isoascorbate",
+                    "E316 (when used as a food additive)"
+                ],
                 "Functionalities": [
                     "1.Antioxidant: Sodium erythorbate acts as a powerful antioxidant, effectively inhibiting the oxidation of fats and pigments in food, which helps maintain the color, flavor, and overall quality of the products.",
                     "2.Reducing Agent: As a reducing agent, sodium erythorbate prevents the formation of nitrosamines in cured meats, such as sausages and bacon, contributing to food safety by reducing the risk of harmful compound formation.",
@@ -2413,7 +2668,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Sodium Erythorbate.png",
+        "image": "/assets/newestBiotech/images/products/products_display/sodium_erythorbate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2444,7 +2699,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/Milk Powder.png",
+        "image": "/assets/newestBiotech/images/products/products_display/milk_powder.png",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2476,7 +2731,7 @@
                 ]
             }
         },
-        "image": "/assets/newestBiotech/images/products/products_display/prune juice concentration.png",
+        "image": "/assets/newestBiotech/images/products/products_display/prune_juice_concentrate.png",
         "overlay": "/assets/images/icons/icon-8.png"
     }
 ]
