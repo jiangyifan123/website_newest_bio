@@ -1,8 +1,12 @@
 import productJson from '@/components/data/product.json';
 
+function deepCopy(obj: any) {
+    return JSON.parse(JSON.stringify(obj));
+}
+
 export function getData() {
-    return [...productJson];
-} 
+    return deepCopy(productJson)
+}
 
 export function getUniqueCategories() {
     const categoriesSet = new Set();
