@@ -1020,7 +1020,7 @@ body .btn-style-one:hover {
 .main-menu .navigation>li>ul>li {
     position: relative;
     width: 100%;
-    padding: 0 40px;
+    padding: 0 20px;
 }
 
 .main-menu .navigation>li>ul>li:last-child {

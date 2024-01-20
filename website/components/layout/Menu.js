@@ -1,6 +1,8 @@
 import Link from "next/link"
+import { getProductsOrderedByCategories } from "@/components/data/products"
 
 export default function Menu() {
+    const categoriesMap = getProductsOrderedByCategories();
     return (
         <>
             <ul className="navigation clearfix">
@@ -8,21 +10,21 @@ export default function Menu() {
                 <li><Link href="/about">About</Link></li>
                 <li className="dropdown"><Link href="/products">Products</Link>
                     <ul>
-                        <li className="dropdown"><Link href="#">Amino Acids</Link>
-                            <ul>
-                                <li><Link href="/products/food_grade_amino_acids">Food Grade</Link></li>
-                                <li><Link href="/products/feed_grade_amino_acids">Feed grade</Link></li>
-                            </ul>
-                        </li>
-                        <li><Link href="/products/antioxidants">Antioxidants</Link></li>
-                        <li><Link href="/products/chemicals">Chemicals</Link></li>
-                        <li><Link href="/products/dietary_fibers">Dietary Fibers</Link></li>
-                        <li><Link href="/products/flavor_enhancers">Flavor Enhancers</Link></li>
-                        <li><Link href="/products/gums">Gums</Link></li>
-                        <li><Link href="/products/prebiotics">Prebiotics</Link></li>
-                        <li><Link href="/products/preservatives">Preservatives</Link></li>
-                        <li><Link href="/products/sweeteners">Sweeteners</Link></li>
-                        <li><Link href="/products/others">Others</Link></li>
+                        {
+                            Object.values(categoriesMap).map((categoryObj) => {
+                                return <>
+                                <li className="dropdown"><Link href={categoryObj.url}>{categoryObj.category}</Link>
+                                    <ul>
+                                        {
+                                            categoryObj.list.map(product => {
+                                                return <li><Link href={product.infos[categoryObj.idx].url}>{product.title}</Link></li>
+                                            })
+                                        }
+                                    </ul>
+                                </li>
+                                </>                               
+                            })
+                        }
                     </ul>
                 </li>
                 {/* <li><Link href="/services">Services</Link></li> */}
