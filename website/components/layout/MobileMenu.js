@@ -1,7 +1,11 @@
 'use client'
 import Link from "next/link"
 import { useState } from "react"
+// import { getProductsOrderedByCategories } from "@/components/data/products"
+
 export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar }) {
+    // const categoriesMap = getProductsOrderedByCategories();
+
     const [isActive, setIsActive] = useState({
         status: false,
         key: "",
@@ -31,7 +35,10 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                             <ul className="navigation clearfix">
                                 <li><Link href="/">Home</Link> </li>
                                 <li><Link href="/about">About</Link></li>
-                                <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}><Link href="/products">Products</Link>
+                                <li><Link href="/products">Products</Link></li>
+
+                                {/* <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}><Link href="/products">Products</Link>
+
                                     <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>
                                         <li><Link href="/products/agar">Agar</Link></li>
                                         <li><Link href="/products/resistant-dextrin">Resistant Dextrin</Link></li>
@@ -42,7 +49,7 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                                         <li><Link href="/products/allulose">Allulose</Link></li>
                                     </ul>
                                     <div className={isActive.key == 3 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(3)}><span className="fa fa-angle-right" /></div>
-                                </li>
+                                </li> */}
                                 {/* <li><Link href="/services">Services</Link></li> */}
                                 <li><Link href="/contact">Contact</Link></li>
                                 <li><Link href="/blogs">Blogs & News</Link></li>
