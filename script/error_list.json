@@ -1,10 +1,5 @@
 {
-    "missImage": [
-        "iron(iii)_chloride",
-        "silicon_dioxide",
-        "sodium_chlorite",
-        "sodium_thiocyanate"
-    ],
+    "missImage": [],
     "missIcon": [
         "acidulants",
         "agar-agar",
