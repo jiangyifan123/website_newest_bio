@@ -8,6 +8,10 @@ export function getData() {
     return deepCopy(productJson)
 }
 
+function getCategoryIdx(category: string) {
+    return category.toLowerCase().replace(/\s+/g, '_');
+}
+
 export function getUniqueCategories() {
     const categoriesSet = new Set();
 
@@ -20,9 +24,31 @@ export function getUniqueCategories() {
 
     // Convert Set into the desired array format
     return Array.from(categoriesSet).map((category: string) => ({
-        idx: category.toLowerCase().replace(/\s+/g, '_'),
+        idx: getCategoryIdx(category),
         name: category
     }));
+}
+
+export function getProductsOrderedByCategories() {
+    const categoriesList = {};
+
+    getData().forEach(product => {
+        product.categories.forEach(category => {
+            // Add only the category name to the Set to ensure uniqueness
+            if (categoriesList[category] === undefined) {
+                categoriesList[category] = {
+                    category,
+                    idx: getCategoryIdx(category),
+                    list: [],
+                    url: `/products/${getCategoryIdx(category)}`
+                };
+            }
+            categoriesList[category].list.push(product);
+        });
+    });
+
+    // Convert Set into the desired array format
+    return categoriesList;
 }
 
 export function getProductByPid(pid) {
