@@ -1,5 +1,10 @@
 {
-    "missImage": [],
+    "missImage": [
+        "iron(iii)_chloride",
+        "silicon_dioxide",
+        "sodium_chlorite",
+        "sodium_thiocyanate"
+    ],
     "missIcon": [
         "acidulants",
         "agar-agar",
@@ -24,6 +29,7 @@
         "industrial_grade_citric_acid",
         "industrial_grade_xanthan_gum",
         "inositol",
+        "iron(iii)_chloride",
         "isomalto-oligosaccharides(imo)",
         "isomaltose",
         "l-alanine",
@@ -63,10 +69,13 @@
         "prune_juice_concentrate",
         "pure_crystalline_fructose_(pcf)",
         "resistant_dextrin",
+        "silicon_dioxide",
+        "sodium_chlorite",
         "sodium_citrate",
         "sodium_dehydroacetate",
         "sodium_erythorbate",
         "sodium_tartrate",
+        "sodium_thiocyanate",
         "sorbitol",
         "stevia",
         "streptococcus_lactis",

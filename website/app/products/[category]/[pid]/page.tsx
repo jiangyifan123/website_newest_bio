@@ -35,7 +35,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                             <div className="project-info-wrapper">
                                                 {
                                                     Object.entries(product_detail).map(([infoTitle, infoTextList]) => {
-                                                        if (['desc', 'pdfUrl'].indexOf(infoTitle) > -1) {
+                                                        if (['desc', 'pdfUrl', 'url'].indexOf(infoTitle) > -1) {
                                                             return <></>
                                                         }
                                                         return <div className="project-info">

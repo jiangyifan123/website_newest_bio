@@ -11,14 +11,14 @@
         "infos": {
             "gums": {
                 "Common Name": [
-                    "Agar"
+                    "Agar",
+                    "Agarose"
                 ],
                 "Functionalities": [
                     "1.Gelling Agent: Agar is renowned for its exceptional ability to form strong and resilient gels, even at relatively low concentrations. This functionality makes it a key ingredient in the creation of various gel-based food products, such as desserts, jellies, and confectionery.",
                     "2.Thickening Agent: As a hydrocolloid, agar acts as an effective thickening agent, contributing to the viscosity and texture of liquid formulations. Its thickening properties enhance the mouthfeel and overall sensory experience in a variety of food applications.",
                     "3.Stabilizer: Agar serves as a stabilizing agent in food formulations, preventing ingredient separation and maintaining the uniformity of products. This functionality is particularly valuable in the production of sauces, dressings, and certain dairy alternatives.",
-                    "4.Vegetarian and Vegan Alternative: Agar is a popular substitute for gelatin, especially in vegetarian and vegan formulations. Its natural origin from seaweed makes it suitable for those seeking plant-based alternatives in gelatinous foods.",
-                    "5.Heat Resistance: Agar exhibits excellent heat resistance, allowing gels to set at higher temperatures. This characteristic makes it suitable for applications where high temperatures are involved, such as in the preparation of hot desserts and bakery items."
+                    "4.Vegetarian and Vegan Alternative: Agar is a popular substitute for gelatin, especially in vegetarian and vegan formulations. Its natural origin from seaweed makes it suitable for those seeking plant-based alternatives in gelatinous foods."
                 ],
                 "Applicable Industries": [
                     "1.Food and Culinary: Agar is widely used in the production of desserts, jellies, confectionery, and other gel-based food items. It is a common ingredient in Asian cuisines for both sweet and savory dishes.",
@@ -28,7 +28,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Agar, derived from seaweed, is a food-grade hydrocolloid celebrated for its remarkable gelling and stabilizing properties. This natural substance has been a staple in Asian cuisines for centuries and has gained global popularity in the food industry. As a versatile ingredient, agar is prized for its ability to form strong, resilient gels at relatively low concentrations, making it an ideal vegetarian and vegan substitute for gelatin. Its neutral taste, odorless nature, and capacity to set gels at higher temperatures contribute to its widespread use in diverse culinary applications, ranging from desserts and confectionery to savory dishes. Beyond the kitchen, agar finds utility in microbiology laboratories as a solidifying agent for culture media, and in pharmaceuticals for encapsulation purposes. The widespread adoption of agar in various industries reflects its unique combination of natural origin, functionality, and adaptability in creating textures and structures in a myriad of products."
-                ]
+                ],
+                "url": "/products/gums/agar-agar"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/agar-agar.png",
@@ -46,7 +47,8 @@
         "infos": {
             "gums": {
                 "Common Name": [
-                    "Goma Xantana, Xanthan"
+                    "Goma Xantana",
+                    "Xanthan"
                 ],
                 "Functionalities": [
                     "1.Thickening Agent: Xanthan Gum excels as a thickener, enhancing the viscosity of liquids in a wide variety of food and non-food applications.",
@@ -63,7 +65,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade xanthan gum is a polysaccharide produced through the fermentation of specific bacteria, primarily Xanthomonas campestris. Known for its remarkable thickening, stabilizing, and emulsifying properties, xanthan gum is widely used in the food industry as a versatile additive. It undergoes careful processing to meet strict food-grade standards, ensuring its safety and suitability for consumption. Xanthan gum is appreciated for its ability to create desirable textures, prevent ingredient separation, and improve the shelf life of various food and beverage products. Its applications range from salad dressings and sauces to gluten-free baking, providing viscosity and enhancing overall product quality. As a natural ingredient derived from microbial fermentation, food-grade xanthan gum caters to diverse dietary preferences and has become a staple in the formulation of numerous processed foods, contributing to their stability, texture, and sensory appeal."
-                ]
+                ],
+                "url": "/products/gums/xanthan_gum"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/xanthan_gum.png",
@@ -80,7 +83,9 @@
         ],
         "infos": {
             "gums": {
-                "Common Name": [],
+                "Common Name": [
+                    "Gellan Gum"
+                ],
                 "Functionalities": [
                     "1.Gelling Agent:Gellan Gum excels as a gelling agent, forming clear and firm gels with a unique texture. It's widely used in the creation of intricate desserts, confectionery, and savory dishes.",
                     "2.Thickening Agent: Acting as a thickening agent, Gellan Gum enhances the viscosity of liquids, contributing to the smooth and appealing texture of products like sauces, dressings, and beverages.",
@@ -98,7 +103,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Gellan gum is a food-grade hydrocolloid produced through the fermentation of certain bacterial strains(Sphingomonas elodea). Widely used in the food and beverage industry for its versatile gelling, thickening, and stabilizing properties, gellan gum is particularly valued for its ability to create unique textures and maintain stability over a broad range of temperatures. As a natural additive, gellan gum is suitable for various dietary preferences, including vegetarian and vegan formulations. It undergoes stringent processing to meet food-grade standards, ensuring its safety and efficacy in diverse applications. Gellan gum is commonly found in a variety of products, including dairy alternatives, desserts, sauces, and confectionery, contributing to improved texture, suspension of particles, and enhanced overall product quality. Its adaptability and effectiveness in a range of formulations make gellan gum a popular choice in the food industry."
-                ]
+                ],
+                "url": "/products/gums/gellan_gum"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/gellan_gum.png",
@@ -116,7 +122,7 @@
         "infos": {
             "gums": {
                 "Common Name": [
-                    "Carrageenin, Carageenan gum"
+                    "Irish Moss"
                 ],
                 "Functionalities": [
                     "1.Thickening Agent:Carrageenan excels as a natural thickening agent, enhancing the viscosity of liquids and providing a rich, smooth texture to products such as dairy items, sauces, and desserts.",
@@ -135,7 +141,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Carrageenan is a food-grade additive derived from certain types of red seaweed. Widely used in the food industry for its gelling, thickening, and stabilizing properties, carrageenan is particularly known for its application in dairy and plant-based products. As a natural hydrocolloid, carrageenan undergoes careful processing to meet food-grade standards, ensuring its safety and efficacy. It is commonly employed in products like ice cream, yogurt, and plant-based milk alternatives to enhance texture, prevent ingredient separation, and create a smooth, appealing consistency. Despite its extensive use, carrageenan has been a subject of occasional debate regarding its safety, and various forms, such as degraded carrageenan, have been studied for their potential health implications. As research continues, the food industry remains attentive to consumer concerns, exploring alternative stabilizers while utilizing carrageenan within established safety guidelines."
-                ]
+                ],
+                "url": "/products/gums/carrageenan"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/carrageenan.png",
@@ -172,7 +179,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Pectin is a natural polysaccharide found in the cell walls of fruits, particularly apples and citrus fruits. Recognized for its gelling and thickening properties, pectin is widely used in the food industry, particularly in the production of jams, jellies, and fruit preserves. As a food-grade ingredient, it undergoes careful processing to ensure purity and adherence to quality standards. Pectin acts as a gelling agent when combined with sugar and acid, creating a gel-like consistency in fruit spreads. Apart from its role in food preservation, pectin is also valued for its dietary fiber content, contributing to digestive health. Its versatility makes it a common additive in a variety of food and beverage products, including juices, confectionery, and baked goods, enhancing texture and providing a desirable mouthfeel."
-                ]
+                ],
+                "url": "/products/gums/pectin"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/pectin.png",
@@ -211,7 +219,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Carboxymethyl cellulose (CMC) is a versatile cellulose derivative widely utilized in various industries for its exceptional thickening, stabilizing, and emulsifying properties. Derived from cellulose, a natural polymer found in plant cell walls, CMC is modified through a chemical reaction to introduce carboxymethyl groups. This modification enhances its water-solubility and makes it an effective additive in food products, pharmaceuticals, cosmetics, and industrial applications. In the food industry, CMC acts as a thickening agent in a variety of products such as sauces, dressings, and ice cream, contributing to improved texture and stability. Its role as a stabilizer and emulsifier extends to the pharmaceutical and cosmetic industries, where it is incorporated into formulations such as creams and lotions. CMC's ability to modify viscosity, improve suspension, and enhance texture makes it a valuable and versatile ingredient in a wide array of consumer and industrial products."
-                ]
+                ],
+                "url": "/products/gums/carboxymethyl_cellulose_(cmc)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/carboxymethyl_cellulose_(cmc).png",
@@ -229,7 +238,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Arginine"
+                    "L-Arginine"
                 ],
                 "Functionalities": [
                     "1.Amino Acid Supplementation: L-arginine is a crucial amino acid that plays a vital role in the synthesis of proteins. As a building block of proteins, it supports muscle growth, tissue repair, and overall cellular function.",
@@ -248,7 +257,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-arginine is a conditionally essential amino acid, meaning that while the body can synthesize it, there are instances where dietary intake becomes crucial. L-arginine plays a fundamental role in protein synthesis, immune function, and is a precursor to nitric oxide—a molecule that dilates blood vessels, promoting improved blood circulation. As a food-grade supplement, L-arginine undergoes strict quality control measures to ensure its safety and efficacy. Its popularity in the food and dietary supplement industry lies in its potential cardiovascular benefits, exercise performance support, and contributions to overall well-being. It is commonly found in various protein-rich foods and is frequently included in formulations like sports nutrition products, pre-workout supplements, and certain functional foods, appealing to those aiming to enhance cardiovascular health and optimize physical performance."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-arginine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-arginine.png",
@@ -285,7 +295,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-arginine hydrochloride is a form of the amino acid L-arginine that includes a hydrochloride salt. L-arginine is a semi-essential amino acid that plays a critical role in various physiological functions, including protein synthesis, immune function, and the production of nitric oxide—a vasodilator that supports improved blood circulation. L-arginine hydrochloride is commonly used in the food and dietary supplement industry for its potential cardiovascular benefits and exercise performance support. It undergoes rigorous quality control measures to ensure safety and efficacy. This compound is often included in pre-workout supplements, sports nutrition products, and certain functional foods, catering to individuals seeking cardiovascular health support and those aiming to optimize their physical performance."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-arginine_hydrochloride"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-arginine_hydrochloride.png",
@@ -303,7 +314,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "L-His"
+                    "L-Histidine"
                 ],
                 "Functionalities": [
                     "1.Protein Building Block: L-histidine serves as a fundamental building block for proteins, contributing to the synthesis of enzymes, antibodies, and other essential proteins in the body.",
@@ -322,7 +333,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-histidine is an essential amino acid that plays a crucial role in various physiological processes within the body. As a building block of proteins, L-histidine is involved in the formation of histamine, a neurotransmitter that regulates immune responses and contributes to the inflammatory process. L-histidine is found in protein-rich foods such as meat, fish, dairy, and certain grains. As a food-grade supplement, L-histidine undergoes strict quality control measures to ensure its safety and effectiveness. While the body can synthesize histidine to some extent, its dietary intake remains essential for maintaining optimal health. L-histidine is a less common amino acid to supplement individually but is often included in complete amino acid formulations or protein supplements, contributing to the overall amino acid profile necessary for various physiological functions."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-histidine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-histidine.png",
@@ -340,7 +352,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Glutamine"
+                    "L-Glutamine"
                 ],
                 "Functionalities": [
                     "1.Muscle Support:L-glutamine is a vital component in muscle tissue and plays a key role in muscle protein synthesis. It is often used to support muscle recovery and maintenance.",
@@ -359,7 +371,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-glutamine is a conditionally essential amino acid that holds significant importance in the realms of protein synthesis, immune function, and gut health. While the body can synthesize glutamine, during times of stress, illness, or intense physical activity, the demand may exceed the body's production. L-glutamine is found in various protein-rich foods and is often included as a supplement to support muscle recovery, reduce muscle soreness, and enhance overall exercise performance. Its ability to serve as a fuel source for rapidly dividing cells, such as those in the immune system and the cells lining the digestive tract, makes L-glutamine a valuable nutrient. As a food-grade supplement, L-glutamine undergoes quality control measures to ensure safety and efficacy. It is commonly utilized in protein powders, sports nutrition products, and certain functional foods, catering to individuals seeking to optimize their muscle health and overall well-being."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-glutamine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-glutamine.png",
@@ -377,7 +390,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Citrulline"
+                    "L-Citrulline"
                 ],
                 "Functionalities": [
                     "1.Nitric Oxide Production: L-citrulline is a precursor to L-arginine, which is then converted to nitric oxide in the body. Nitric oxide plays a crucial role in vasodilation, supporting healthy blood flow and cardiovascular function.",
@@ -396,7 +409,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-citrulline is a naturally occurring amino acid found in certain fruits like watermelon. Widely recognized for its potential benefits in promoting cardiovascular health and supporting exercise performance, L-citrulline is a popular ingredient in the food and dietary supplement industry. It acts as a precursor to L-arginine, which, in turn, contributes to the production of nitric oxide—a vasodilator that enhances blood flow. Improved blood circulation may lead to better nutrient delivery to muscles and reduced fatigue during exercise. As a food-grade supplement, L-citrulline undergoes stringent quality control measures to ensure its safety and efficacy. It is commonly included in pre-workout formulations, sports drinks, and nutritional supplements, catering to individuals looking to enhance their overall cardiovascular fitness and exercise endurance."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-citrulline"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-citrulline.png",
@@ -414,8 +428,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Citrulline Malate",
-                    "Citrulline DL-Malate"
+                    "L-Citrulline DL-Malate"
                 ],
                 "Functionalities": [
                     "1.Nitric Oxide Boost: L-Citrulline DL-Malate is a potent precursor to L-arginine, supporting the production of nitric oxide. Nitric oxide helps relax blood vessels, promoting healthy blood flow and cardiovascular function.",
@@ -434,7 +447,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-citrulline DL-malate is a compound composed of the amino acid L-citrulline and malic acid. It is widely utilized in the food and dietary supplement industry for its potential benefits in supporting athletic performance and overall cardiovascular health. L-citrulline is a precursor to nitric oxide, a vasodilator that enhances blood flow, while malic acid contributes to the Krebs cycle, a key process in cellular energy production. The combination of these two compounds is believed to improve endurance, reduce muscle soreness, and enhance recovery post-exercise. As a food-grade supplement, L-citrulline DL-malate undergoes rigorous quality control to meet safety standards. It is commonly found in pre-workout supplements, sports nutrition products, and certain functional foods, catering to individuals seeking to optimize their exercise routines and promote cardiovascular well-being."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-citrulline_dl-malate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-citrulline_dl-malate.png",
@@ -452,9 +466,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "2-Aminopropanoic acid",
-                    "Ala",
-                    "Alanine"
+                    "L-Alanine"
                 ],
                 "Functionalities": [
                     "1.Energy Source: L-Alanine is a key player in the glucose-alanine cycle, acting as a carrier of amino groups and contributing to the production of glucose. This functionality makes it crucial for supporting energy levels.",
@@ -473,7 +485,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-alanine is a non-essential amino acid, meaning the human body can synthesize it, and it is also obtained through dietary sources. It plays a significant role in protein synthesis, serving as a building block for various proteins in the body. L-alanine is involved in glucose metabolism, and its conversion to pyruvate contributes to energy production. As a food-grade ingredient, L-alanine undergoes quality control measures to ensure its safety and efficacy in various applications. It is found naturally in protein-rich foods such as meat, poultry, and dairy products. While not as commonly supplemented as essential amino acids, L-alanine's role in supporting overall protein function and energy metabolism makes it a relevant component in the formulation of certain food and dietary supplement products."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-alanine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-alanine.png",
@@ -491,7 +504,6 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Phe",
                     "L-Phenylalanine"
                 ],
                 "Functionalities": [
@@ -511,7 +523,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-phenylalanine is an essential amino acid that the human body cannot produce on its own and must be obtained through dietary sources. As a precursor to tyrosine, L-phenylalanine plays a vital role in the synthesis of neurotransmitters such as dopamine, norepinephrine, and epinephrine. Its impact on neurotransmitter production contributes to mood regulation, cognitive function, and overall mental well-being. Food-grade L-phenylalanine is carefully processed to meet quality standards, ensuring its safety and suitability for consumption. It is commonly found in protein-rich foods like meat, dairy, and certain plant-based sources. Given its role in neurotransmitter synthesis, L-phenylalanine is often included in formulations targeting cognitive support, mood enhancement, and overall brain health in various dietary supplement products."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-phenylalanine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-phenylalanine.png",
@@ -531,8 +544,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Trp",
-                    "Tryptophan"
+                    "L-Tryptophan"
                 ],
                 "Functionalities": [
                     "1.Precursor to Serotonin: L-Tryptophan is a vital precursor to serotonin, a neurotransmitter that plays a key role in mood regulation, emotional well-being, and relaxation.",
@@ -551,11 +563,12 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-tryptophan is an essential amino acid known for its role as a precursor to serotonin, a neurotransmitter that regulates mood and sleep. As the body cannot synthesize L-tryptophan, it must be obtained through the diet, making it a crucial component in various food and dietary supplement products. L-tryptophan is carefully processed to meet food-grade standards, ensuring its safety and effectiveness. Due to its involvement in serotonin production, L-tryptophan is often included in formulations targeting mood support and sleep enhancement. In addition to its impact on neurotransmitters, L-tryptophan is an essential building block for protein synthesis and contributes to overall protein nutrition. Its versatility and physiological importance make food-grade L-tryptophan a valuable ingredient in products aimed at promoting both mental well-being and nutritional balance."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-tryptophan"
             },
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Tryptophan"
+                    "L-Tryptophan"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Tryptophan is an indispensable amino acid that serves as a key building block for protein synthesis. It contributes to the formation of proteins essential for muscle development, tissue repair, and overall growth.",
@@ -574,7 +587,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed grade L-Tryptophan is a crucial amino acid supplement in animal nutrition, particularly in the feed industry. Recognized as an essential amino acid, L-Tryptophan plays a vital role in protein synthesis, supporting optimal growth, immunity, and overall metabolic functions in livestock and poultry. Its significance arises from being a precursor to serotonin and melatonin, neurotransmitters involved in regulating mood, sleep, and stress response. As animals cannot synthesize L-Tryptophan internally, its inclusion in their diets becomes essential. The supplementation of feed with L-Tryptophan is known to improve the overall amino acid profile, enhance feed efficiency, and positively impact animal behavior and stress management. This amino acid serves as a key component in ensuring balanced nutrition, contributing to the well-being and productivity of various animal species."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-tryptophan"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-tryptophan.png",
@@ -594,7 +608,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Threonine (abbreviated as Thr or T)"
+                    "L-Threonine"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis: L-Threonine is an essential building block for protein synthesis, contributing to the formation of functional proteins in the body.",
@@ -608,12 +622,12 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-Threonine is an essential amino acid crucial for protein synthesis and various physiological functions in humans. As a crystalline powder, it is commonly utilized as a dietary supplement in the food industries to ensure optimal nutrition. L-Threonine plays a vital role in supporting growth, immune function, and maintaining the balance of nitrogen in the body. The food-grade quality of L-Threonine ensures its purity and suitability for human consumption, making it a valuable additive in certain food formulations to fortify protein content and support nutritional needs."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-threonine"
             },
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Threonine",
-                    "L-Thr"
+                    "L-Threonine"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Threonine is an essential amino acid that serves as a crucial component in protein synthesis. It is involved in the formation of proteins vital for muscle development, tissue maintenance, and overall growth in animals.",
@@ -632,7 +646,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed grade L-Threonine is a crucial amino acid supplement extensively utilized in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Threonine plays a vital role in protein synthesis, promoting optimal growth, maintaining tissue integrity, and supporting various metabolic functions in livestock and poultry. Its significance lies in being a building block for proteins essential for muscle development and overall health. By supplementing animal feeds with L-Threonine, nutritional imbalances are addressed, leading to improved feed efficiency, enhanced weight gain, and better utilization of dietary protein. Additionally, L-Threonine contributes to immune function, disease resistance, and, in the case of poultry, positively impacts feather quality, making it an indispensable component for ensuring the well-being and productivity of various animal species."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-threonine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-threonine.png",
@@ -650,7 +665,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "branched chain amino acid"
+                    "BCAA"
                 ],
                 "Functionalities": [
                     "1.Muscle Protein Synthesis: BCAAs are essential for muscle protein synthesis, playing a crucial role in building and repairing muscle tissues. Leucine, in particular, is a potent stimulator of protein synthesis.",
@@ -669,7 +684,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "A branched-chain amino acid (BCAA) is an amino acid having an aliphatic side-chain with Branched-chain amino acids (BCAAs) refer to a group of essential amino acids that include leucine, isoleucine, and valine. Unlike other amino acids, BCAAs are metabolized in the muscles rather than the liver, making them crucial for protein synthesis, muscle growth, and overall energy production. As essential components of the human diet, BCAAs cannot be produced by the body and must be obtained through food or supplements. Their popularity in sports nutrition and fitness industries stems from their role in supporting muscle health, enhancing exercise performance, and aiding in post-exercise recovery. BCAAs are commonly found in protein-rich foods, and their isolated form is often included in dietary supplements, energy drinks, and protein powders to meet the needs of individuals seeking to optimize muscle function and maintain overall well-being."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/branched_chain_amino_acid_(bcaa)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/branched_chain_amino_acid_(bcaa).png",
@@ -689,7 +705,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "2-Amino-3-methylbutanoic acid"
+                    "L-Valine"
                 ],
                 "Functionalities": [
                     "1.Muscle Protein Synthesis: L-Valine is essential for muscle protein synthesis, contributing to the growth, repair, and maintenance of muscle tissues. It is particularly important for athletes and individuals engaged in physical activities.",
@@ -708,11 +724,12 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-valine is an essential branched-chain amino acid that the human body cannot produce and must be obtained through dietary sources. As a key component in protein synthesis and a contributor to muscle metabolism, L-valine plays a crucial role in supporting muscle growth, repair, and overall athletic performance. Often included alongside other essential amino acids, especially leucine and isoleucine, L-valine is a sought-after ingredient in food and dietary supplement formulations, particularly those designed for sports nutrition. Its food-grade quality ensures safety and compliance with regulatory standards. L-valine is commonly found in protein-rich foods like meat, dairy, and legumes, and its supplementation is valued by individuals looking to optimize their protein intake for muscle health and recovery."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-valine"
             },
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Valine"
+                    "L-Valine"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Valine is a key contributor to protein synthesis, playing a crucial role in the formation of muscle proteins and supporting overall muscle development in animals.",
@@ -731,7 +748,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed grade L-Valine is a crucial amino acid supplement in animal nutrition, especially in the feed industry. As an essential branched-chain amino acid (BCAA), L-Valine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being one of the building blocks for proteins essential for various physiological processes. Given that animals cannot synthesize L-Valine internally, its inclusion in their diets is essential. The supplementation of feed with L-Valine is known to enhance the overall amino acid profile, promote protein utilization, and contribute to the health and productivity of various animal species."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-valine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-valine.png",
@@ -751,8 +769,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Isoleucine",
-                    "2-Amino-3-methylvaleric acid"
+                    "L-Isoleucine"
                 ],
                 "Functionalities": [
                     "1.Muscle Protein Synthesis: L-Isoleucine is a branched-chain amino acid (BCAA) crucial for muscle protein synthesis, playing a key role in the growth, repair, and maintenance of muscle tissues.",
@@ -771,11 +788,12 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-isoleucine is an essential amino acid, meaning it cannot be synthesized by the human body and must be obtained through the diet. As a branched-chain amino acid (BCAA), L-isoleucine plays a crucial role in protein synthesis, muscle development, and energy production. It is a valuable component in various food and dietary supplement products, especially those designed for athletic and fitness purposes. Food-grade L-isoleucine undergoes stringent quality control measures to ensure its safety and effectiveness in various applications. Often found alongside other BCAAs like leucine and valine, L-isoleucine is incorporated into protein powders, energy bars, and sports nutrition formulations, contributing to the overall amino acid profile necessary for muscle health and performance optimization. Its inclusion in food-grade products caters to individuals looking to support their exercise routines and maintain a balanced amino acid intake."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-isoleucine"
             },
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Isoleucine"
+                    "L-Isoleucine"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Isoleucine is a key component in protein synthesis, contributing to the formation of muscle proteins and supporting overall muscle development in animals.",
@@ -794,7 +812,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed grade L-Isoleucine is a crucial amino acid supplement in animal nutrition, particularly in the feed industry. As an essential branched-chain amino acid (BCAA), L-Isoleucine plays a fundamental role in protein synthesis, supporting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance arises from being indispensable for various physiological processes that contribute to the well-being of animals. Since animals cannot synthesize L-Isoleucine internally, its inclusion in their diets becomes essential. The supplementation of feed with L-Isoleucine is known to enhance the overall amino acid profile, promote protein utilization, and support the health and productivity of various animal species."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-isoleucine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-isoleucine.png",
@@ -812,9 +831,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Creatine",
-                    "N-(Aminoiminomethyl)-N-methylglycine monohydrate",
-                    "Methylguanidoacetic Acid Monohydrate"
+                    "Creatine Monohydrate"
                 ],
                 "Functionalities": [
                     "1.ATP Regeneration: Creatine Monohydrate is a key player in the regeneration of adenosine triphosphate (ATP), the primary energy currency of cells. Increased ATP availability supports enhanced energy during short bursts of intense exercise.",
@@ -833,7 +850,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade creatine monohydrate is a naturally occurring compound that plays a crucial role in energy metabolism, particularly during short bursts of intense physical activity. Widely recognized and utilized in the sports and fitness industry, creatine monohydrate is a popular dietary supplement for individuals aiming to enhance their athletic performance and support muscle strength. As a food-grade supplement, it undergoes rigorous quality control measures to ensure purity and safety. Creatine monohydrate works by replenishing adenosine triphosphate (ATP), the primary energy currency in cells, leading to improved strength, power, and recovery. It is commonly incorporated into sports nutrition products, protein powders, and functional foods, contributing to the development of formulations geared towards fitness enthusiasts and athletes seeking to optimize their exercise performance."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/creatine_monohydrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/creatine_monohydrate.png",
@@ -851,9 +869,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Malic Acid",
-                    "2-Hydroxybutanedioic Acid",
-                    "Hydroxybutanedioic Acid"
+                    "Apple acid"
                 ],
                 "Functionalities": [
                     "1.Acidulant: L-Malic Acid serves as an effective acidulant, contributing a sour and tangy taste to food and beverage products. It enhances the overall flavor profile and provides a crisp acidity that is desirable in various applications.",
@@ -872,7 +888,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-malic acid is a naturally occurring organic acid found in various fruits, particularly apples. As a food additive, L-malic acid is widely used in the food and beverage industry for its multifunctional properties. It serves as a tart and sour flavor enhancer, providing a crisp and tangy taste in various products, including candies, beverages, and fruit-flavored items. L-malic acid is also utilized as an acidulant and pH regulator, contributing to the stability and preservation of certain food formulations. Its inclusion in food-grade products is carefully regulated to meet quality and safety standards, ensuring its suitability for consumption. The versatility of food-grade L-malic acid makes it a valuable ingredient, enhancing the overall sensory experience of a wide range of food and beverage applications."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-malic_acid"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-malic_acid.png",
@@ -890,10 +907,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "NAC",
-                    "Acetylcysteine",
-                    "N-Acetyl Cysteine",
-                    "N-Acetylcysteine"
+                    "NAC"
                 ],
                 "Functionalities": [
                     "1.Antioxidant Support: N-Acetyl-L-Cysteine is a powerful antioxidant that helps neutralize free radicals, protecting cells from oxidative stress. It supports overall cellular health and contributes to the body's natural defense mechanisms.",
@@ -912,7 +926,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade N-Acetyl-L-cysteine (NAC) is a derivative of the amino acid L-cysteine and is widely used in the food and dietary supplement industry for its potential health benefits. NAC is valued for its role as a precursor to glutathione, a powerful antioxidant in the body that plays a crucial role in cellular protection and detoxification. With its ability to replenish glutathione levels, food-grade NAC is incorporated into formulations aiming to support immune function and overall antioxidant defenses. Additionally, NAC has been studied for its mucolytic properties, making it beneficial for respiratory health. It is carefully processed to meet food-grade standards, ensuring its safety and efficacy when used in various food products and nutritional supplements. The versatility and potential health-promoting properties of food-grade N-Acetyl-L-cysteine make it a sought-after ingredient in the development of products aimed at enhancing overall well-being."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/n-acetyl-l-cysteine(nac)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/n-acetyl-l-cysteine(nac).png",
@@ -930,8 +945,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "Arginine Nitrate",
-                    "Nitric Oxide Precursor"
+                    "L-Arginine Nitrate"
                 ],
                 "Functionalities": [
                     "1.Nitric Oxide Production: L-Arginine Nitrate serves as a precursor to nitric oxide, a molecule known for its vasodilatory effects. Nitric oxide helps relax blood vessels, promoting improved blood flow and circulation.",
@@ -950,7 +964,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade L-arginine nitrate is a compound derived from the amino acid L-arginine and nitric acid. It is a common ingredient in various food and beverage products, particularly those within the sports and fitness industry, due to its potential to enhance nitric oxide production in the body. Nitric oxide is a vasodilator that may improve blood flow and nutrient delivery to muscles. In food-grade formulations, L-arginine nitrate is carefully processed to meet quality standards, ensuring its safety and suitability for consumption. It is often incorporated into pre-workout supplements, energy drinks, and certain functional foods as a way to support athletic performance and cardiovascular health. The combination of L-arginine and nitrate in this compound makes it a popular choice for individuals looking to boost exercise endurance and promote overall well-being through their dietary choices."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/l-arginine_nitrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-arginine_nitrate.png",
@@ -968,7 +983,6 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "2-Aminoethanesulfonic acid",
                     "Tauric acid"
                 ],
                 "Functionalities": [
@@ -987,7 +1001,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade taurine is a naturally occurring amino acid-like compound that is often included in various food and beverage products for its potential health benefits. While the human body can synthesize taurine, dietary sources contribute to its intake. Taurine is commonly found in foods like meat, fish, and dairy products. In the food industry, it is used as a functional ingredient in energy drinks, nutritional supplements, and certain functional foods. Taurine is recognized for its role in supporting cardiovascular health, bile salt formation, and antioxidative properties. As a food-grade supplement, taurine undergoes strict quality control measures to ensure its safety and efficacy. Its inclusion in food products reflects its versatility and the growing interest in promoting health and wellness through dietary choices."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/taurine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/taurine.png",
@@ -1005,7 +1020,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    "myo-Inositol"
+                    "Inositol"
                 ],
                 "Functionalities": [
                     "1.Cellular Signaling: Inositol plays a crucial role in cellular signaling, contributing to various physiological processes and supporting overall cellular health.",
@@ -1023,7 +1038,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade inositol is a carbohydrate and essential nutrient often classified as a B-vitamin, although the body can synthesize it naturally. Recognized for its integral role in various physiological processes, including cell membrane structure, signal transduction, and lipid metabolism, inositol is found in many food sources such as fruits, beans, and grains. In the food industry, inositol is used as a food supplement and ingredient in a variety of products, including beverages, cereals, and nutritional supplements. It is valued not only for its potential health benefits, such as supporting mental health and mood regulation, but also for its functional properties in promoting overall well-being. Food-grade inositol is carefully processed to meet quality standards and is widely incorporated into formulations to enhance nutritional profiles and contribute to the development of health-conscious food products."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/inositol"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/inositol.png",
@@ -1041,7 +1057,7 @@
         "infos": {
             "food_grade_amino_acids": {
                 "Common Name": [
-                    ""
+                    "Glucosamine"
                 ],
                 "Functionalities": [
                     "Glucosamine plays a crucial role in the synthesis of proteoglycans and hyaluronic acid, which contribute to the structure and lubrication of joints. It is believed to promote the regeneration of damaged cartilage and inhibit the progression of joint-related disorders. Additionally, glucosamine possesses anti-inflammatory properties that can help alleviate joint pain and discomfort."
@@ -1054,7 +1070,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Food-grade glucosamine is a naturally occurring compound found in the exoskeletons of shellfish, as well as in some fungi. Widely recognized for its potential benefits in joint health, glucosamine is often used as a dietary supplement. It serves as a building block for the synthesis of glycosaminoglycans, essential components of cartilage and connective tissues. As a food-grade ingredient, glucosamine undergoes rigorous quality control measures to ensure its safety and efficacy. It is commonly included in formulations targeting joint support, arthritis management, and overall musculoskeletal well-being. While some sources of glucosamine may not be suitable for individuals with shellfish allergies, there are vegetarian alternatives like glucosamine sulfate derived from fungi. The popularity of food-grade glucosamine stems from its potential role in promoting joint flexibility, reducing inflammation, and contributing to overall joint health."
-                ]
+                ],
+                "url": "/products/food_grade_amino_acids/glucosamine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/glucosamine.png",
@@ -1072,8 +1089,7 @@
         "infos": {
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Methionine",
-                    "L-Met"
+                    "L-Methionine"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Methionine is an indispensable amino acid that serves as a building block for protein synthesis in animals. It plays a vital role in the formation of proteins necessary for growth, muscle development, and overall tissue maintenance.",
@@ -1092,7 +1108,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed grade L-Methionine stands as a crucial amino acid supplement in animal nutrition, notably in the feed industry. As an essential amino acid, L-Methionine plays a pivotal role in protein synthesis, supporting optimal growth, promoting tissue development, and ensuring overall metabolic function in livestock and poultry. Its indispensability arises from the fact that animals cannot synthesize it internally, necessitating its inclusion in their diets. Beyond its role in protein formation, L-Methionine serves as a primary source of sulfur, contributing to the synthesis of other essential sulfur-containing amino acids. The supplementation of animal feeds with L-Methionine is known to enhance growth rates, improve feed efficiency, and bolster the animals' immune systems. This amino acid is particularly crucial in diets where natural feed ingredients may lack sufficient methionine levels, ensuring balanced nutrition and fostering the health and productivity of various animal species."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-methionine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-methionine.png",
@@ -1110,8 +1127,7 @@
         "infos": {
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Lysine HCl",
-                    "(S)-2,6-Diaminohexanoic acid hydrochloride"
+                    "L-Lysine HCl"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis: L-Lysine is an essential amino acid that plays a key role in protein synthesis, contributing to the formation of muscle tissues and overall body proteins in animals.",
@@ -1127,7 +1143,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed-grade L-Lysine Hydrochloride is a vital amino acid supplement extensively employed in animal nutrition, particularly in the production of animal feed. Derived through fermentation processes, this crystalline powder serves as a fundamental component for supporting protein synthesis, muscle development, and overall growth in livestock, notably poultry and swine. Its addition to feed formulations ensures a balanced amino acid profile, promoting feed efficiency and optimizing weight gain. L-Lysine Hydrochloride is a key contributor to the enhancement of nutritional quality in animal diets, positively impacting the health and productivity of farm animals. This feed-grade supplement plays a crucial role in modern livestock farming practices, facilitating sustainable and efficient production processes."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-lysine_hydrochloride"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-lysine_hydrochloride.png",
@@ -1145,7 +1162,6 @@
         "infos": {
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "L-Lysine Sulfate Monohydrate",
                     "Sulfate of Lysine"
                 ],
                 "Functionalities": [
@@ -1162,7 +1178,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed-grade L-Lysine Sulfate is a valuable amino acid supplement widely utilized in animal nutrition, specifically in the formulation of animal feeds. Obtained through the hydrolysis of proteinaceous materials and subsequent reaction with sulfuric acid, L-Lysine Sulfate presents a concentrated and stable source of L-Lysine, an essential amino acid crucial for optimal growth, protein synthesis, and overall health in livestock. With its exceptional bioavailability and digestibility, L-Lysine Sulfate is a preferred choice in feed formulations for poultry, swine, and other livestock, promoting improved feed efficiency and enhancing the nutritional profile of animal diets. Its incorporation in animal nutrition practices contributes to the development of robust and healthy livestock, ensuring sustainable and efficient production in the livestock industry."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-lysine_sulphate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-lysine_sulphate.png",
@@ -1180,7 +1197,7 @@
         "infos": {
             "feed_grade_amino_acids": {
                 "Common Name": [
-                    "Leucine"
+                    "L-Leucine"
                 ],
                 "Functionalities": [
                     "1.Protein Synthesis Support: L-Leucine is a branched-chain amino acid (BCAA) that acts as a key stimulator of protein synthesis. It plays a critical role in the formation of muscle proteins, supporting muscle development and overall growth.",
@@ -1199,7 +1216,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Feed grade L-Leucine is a pivotal amino acid supplement in animal nutrition, particularly in the feed industry. As an essential amino acid, L-Leucine plays a crucial role in protein synthesis, promoting optimal growth, muscle development, and overall metabolic functions in livestock and poultry. Its significance lies in being one of the branched-chain amino acids (BCAAs), essential for supporting various physiological processes. L-Leucine, which animals cannot synthesize internally, must be supplied through their diet. The inclusion of feed grade L-Leucine contributes to improving the overall amino acid profile, enhancing protein utilization, and supporting the overall health and productivity of various animal species."
-                ]
+                ],
+                "url": "/products/feed_grade_amino_acids/l-leucine"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/l-leucine.png",
@@ -1217,7 +1235,7 @@
         "infos": {
             "prebiotics": {
                 "Common Name": [
-                    "HMOs"
+                    "HMO"
                 ],
                 "Functionalities": [
                     "1.Immune Support: Human Milk Oligosaccharides are renowned for their ability to support and modulate the immune system, contributing to overall health and wellness.",
@@ -1235,7 +1253,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Human milk oligosaccharides (HMOs) are complex carbohydrates naturally found in human breast milk. Comprising a diverse and unique group of over 200 structures, HMOs play a crucial role in supporting the health and development of infants. While not directly digestible by the infant, HMOs serve as prebiotics, promoting the growth of beneficial bacteria in the infant's gut, which is vital for the development of a healthy microbiome. Additionally, HMOs have been associated with various health benefits, including immune system support and protection against pathogens. The composition of HMOs in breast milk is dynamic, adapting to the specific needs of the infant at different stages of development. Recognizing the importance of HMOs, there is ongoing research to replicate their structures in infant formula, aiming to provide non-breastfed infants with some of the unique benefits associated with breast milk consumption."
-                ]
+                ],
+                "url": "/products/prebiotics/human_milk_oligosaccharides_(hmo)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/human_milk_oligosaccharides_(hmo).png",
@@ -1253,7 +1272,7 @@
         "infos": {
             "prebiotics": {
                 "Common Name": [
-                    "IMO (Isomalto-oligosaccharide)"
+                    "IMO"
                 ],
                 "Functionalities": [
                     "1.Low Glycemic Index Sweetener: Iso-Malto-Oligosaccharide serves as a low glycemic index sweetener, making it an ideal choice for products catering to individuals seeking blood sugar control and a sustained energy release.",
@@ -1272,7 +1291,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Isomalto-oligosaccharides (IMO) are a group of prebiotic carbohydrates derived from starch through enzymatic hydrolysis and isomerization processes. With a molecular structure comprising glucose units linked by alpha-1,6 and alpha-1,4 glycosidic bonds, IMO is known for its resistance to digestion in the upper gastrointestinal tract. This resistance allows it to reach the colon intact, where it serves as a substrate for beneficial gut bacteria, promoting their growth and activity. IMO is recognized for its low-calorie content, mildly sweet taste, and prebiotic properties, making it a popular ingredient in functional foods, dietary supplements, and low-calorie products. It is often used to enhance the fiber content of food products while contributing to improved taste and texture. Additionally, IMO has gained attention for its potential to support digestive health and overall well-being by fostering a balanced gut microbiota."
-                ]
+                ],
+                "url": "/products/prebiotics/isomalto-oligosaccharides(imo)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/isomalto-oligosaccharides(imo).png",
@@ -1290,8 +1310,7 @@
         "infos": {
             "prebiotics": {
                 "Common Name": [
-                    "FOS",
-                    "Oligofructose"
+                    "FOS"
                 ],
                 "Functionalities": [
                     "1.Prebiotic Powerhouse: Fructooligosaccharides serve as potent prebiotics, nourishing and promoting the growth of beneficial gut bacteria. This contributes to a healthy and balanced digestive system.",
@@ -1310,7 +1329,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Fructo-oligosaccharides (FOS) are naturally occurring, plant-derived carbohydrates known for their prebiotic properties and potential health benefits. Comprising short chains of fructose molecules, FOS serves as a selectively fermentable substrate for beneficial gut bacteria, promoting their growth and activity in the colon. Found in various fruits and vegetables such as bananas, onions, and asparagus, FOS is recognized for its ability to stimulate the growth of probiotics, particularly bifidobacteria. As a prebiotic, FOS contributes to the maintenance of a healthy gut microbiota, supporting digestive health and potentially enhancing the absorption of certain minerals. FOS is commonly used as an ingredient in functional foods, dietary supplements, and health-promoting products due to its sweet taste, low-calorie content, and positive impact on gut flora."
-                ]
+                ],
+                "url": "/products/prebiotics/fructo-oligosaccharides(fos)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/fructo-oligosaccharides(fos).png",
@@ -1347,7 +1367,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Galacto-oligosaccharides (GOS) are a group of naturally occurring carbohydrates composed of short chains of galactose molecules. Recognized for their prebiotic properties, GOS serves as a selectively fermentable substrate for beneficial gut bacteria, particularly bifidobacteria, promoting their growth and activity in the colon. GOS is naturally present in certain foods like legumes and human breast milk. As a prebiotic, GOS contributes to the development of a healthy gut microbiota, supporting digestive health and potentially enhancing the body's natural defenses. Due to their positive impact on gut flora and the potential health benefits associated with prebiotics, GOS is often used as an ingredient in functional foods, dietary supplements, and infant formulas. It is valued for its ability to provide health-promoting effects while also serving as a mild sweetener in various applications."
-                ]
+                ],
+                "url": "/products/prebiotics/galacto-oligosaccharides(gos)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/galacto-oligosaccharides(gos).png",
@@ -1384,7 +1405,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Xylo-oligosaccharides (XOS) are a class of prebiotic fibers derived from the enzymatic hydrolysis of xylan, a hemicellulose present in plant cell walls. Comprising short chains of xylose molecules, XOS are resistant to digestion in the upper gastrointestinal tract and reach the colon intact, where they serve as a substrate for beneficial gut bacteria. Recognized for their prebiotic properties, XOS selectively stimulate the growth and activity of probiotics, particularly bifidobacteria. Found naturally in certain fruits, vegetables, and plant-based materials, XOS is increasingly utilized as an ingredient in functional foods and dietary supplements. Its prebiotic effects contribute to the maintenance of a balanced gut microbiota, supporting digestive health and potentially conferring additional health benefits. XOS is valued for its ability to enhance the fiber content of products while offering a mild sweetness, making it suitable for a variety of applications in the food and beverage industry."
-                ]
+                ],
+                "url": "/products/prebiotics/xylo-oligosaccharides(xos)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/xylo-oligosaccharides(xos).png",
@@ -1402,7 +1424,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    ""
+                    "Erythritol"
                 ],
                 "Functionalities": [
                     "1.Zero-Calorie Sweetener: Erythritol offers the sweetness of sugar without the calories, making it an excellent choice for individuals looking to reduce calorie intake while enjoying sweetened products.",
@@ -1421,7 +1443,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Erythritol is a natural sugar alcohol that has gained popularity as a low-calorie sweetener and sugar substitute. Produced through the fermentation of glucose by certain yeasts, erythritol possesses a sweetness similar to sugar but with virtually no calories and a minimal impact on blood sugar levels. As a polyol, it is well-tolerated by individuals with diabetes and does not contribute to tooth decay. Erythritol is commonly used in the food and beverage industry as a sugar alternative, providing a sweet taste without the caloric content. Its cooling effect, similar to mint, is an additional characteristic that makes it suitable for various applications, including sugar-free candies, beverages, and baked goods. Erythritol's growing popularity is attributed to its natural origin, low calorie count, and favorable taste profile, making it a prominent choice for those seeking reduced-calorie and sugar-free options."
-                ]
+                ],
+                "url": "/products/sweeteners/erythritol"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/erythritol.png",
@@ -1439,7 +1462,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "D-psicose"
+                    "Psicose"
                 ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: Allulose provides the sweetness of traditional sugars with only a fraction of the calories, making it an excellent option for individuals aiming to reduce calorie intake.",
@@ -1458,7 +1481,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Allulose, a low-calorie sweetener, has garnered attention for its ability to mimic the taste and texture of sugar while providing minimal calories. Classified as a rare sugar, it occurs naturally in small quantities in certain fruits and foods. Allulose is unique in that it is not metabolized by the body in the same way as traditional sugars, contributing negligible calories and having little to no impact on blood glucose levels. Known for its clean, sugar-like taste without the associated caloric load, allulose is increasingly used in the food industry as a sugar substitute in various products, including beverages, baked goods, and confectionery. Its properties make it suitable for individuals managing their calorie intake or those with diabetes, and its versatility as a sweetener continues to make it a popular choice in formulating reduced-sugar and low-calorie food options."
-                ]
+                ],
+                "url": "/products/sweeteners/allulose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/allulose.png",
@@ -1495,7 +1519,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Xylitol is a sugar alcohol derived from birch wood, corn cobs, or other plant materials. Known for its natural sweetness and crystalline structure, xylitol has gained popularity as a sugar substitute due to its lower calorie content and oral health benefits. Unlike traditional sugars, xylitol does not metabolize into acids in the mouth, making it a tooth-friendly sweetener that helps prevent cavities and promotes dental health. It has a similar sweetness to sucrose but with fewer calories, making it a common ingredient in sugar-free and reduced-calorie products such as chewing gum, candies, and baked goods. Additionally, xylitol has a low glycemic index, making it suitable for individuals managing their blood sugar levels. With its versatility, pleasant taste, and dental benefits, xylitol continues to be a popular choice for those seeking healthier sugar alternatives."
-                ]
+                ],
+                "url": "/products/sweeteners/xylitol"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/xylitol.png",
@@ -1513,7 +1538,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "Xylopyranose"
+                    "D-Xylose"
                 ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: D-Xylose provides sweetness with lower caloric content compared to traditional sugars, making it an excellent choice for calorie-conscious consumers.",
@@ -1532,7 +1557,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "D-Xylose is a naturally occurring sugar, classified as a pentose, and is commonly found in plant fibers such as those from wood and corncobs. Unlike other sugars, D-xylose is not as sweet and is not readily absorbed in the human digestive system, which makes it a valuable component in various applications. It is often used in the food industry, particularly in sugar-free and low-calorie products, providing sweetness without the caloric impact of traditional sugars. Additionally, D-xylose has applications in the pharmaceutical and research fields, serving as a substrate for fermentation processes and being a precursor in the synthesis of certain medications. Its unique properties and versatility make D-xylose a valuable ingredient in diverse industries and contribute to its role in various scientific and industrial processes."
-                ]
+                ],
+                "url": "/products/sweeteners/d-xylose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/d-xylose.png",
@@ -1550,7 +1576,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "APM"
+                    "Aspartame"
                 ],
                 "Functionalities": [
                     "1.Low-Calorie Sweetener: Aspartame is approximately 200 times sweeter than sucrose (table sugar), allowing for a significant reduction in the caloric content of products while maintaining sweetness.",
@@ -1569,7 +1595,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Aspartame is a low-calorie artificial sweetener widely used as a sugar substitute in various food and beverage products. Composed of aspartic acid and phenylalanine, both naturally occurring amino acids, aspartame provides sweetness without the calories associated with traditional sugars. It is approximately 200 times sweeter than sucrose, making it an efficient sweetening agent, and is commonly utilized in sugar-free or reduced-calorie products such as diet sodas, sugar-free gum, and light desserts. While aspartame has faced occasional scrutiny and controversy, extensive scientific research supports its safety for consumption by the general population, except for individuals with phenylketonuria (PKU), a rare genetic disorder. Aspartame's ability to deliver sweetness without contributing to caloric intake has positioned it as a popular choice for those seeking alternatives to sugar in their dietary preferences."
-                ]
+                ],
+                "url": "/products/sweeteners/aspartame"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/aspartame.png",
@@ -1607,7 +1634,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Dextrose monohydrate, a form of glucose derived from starches, is a common and versatile carbohydrate widely used in the food and pharmaceutical industries. Recognized for its quick and easily digestible energy source, dextrose monohydrate is often employed as a sweetener, a fermentable sugar in baking and brewing processes, and as a stabilizing and bulking agent in various food formulations. It is the crystalline form of dextrose, which is glucose produced through the hydrolysis of starch. In pharmaceutical applications, dextrose monohydrate serves as an excipient in the production of tablets and a source of energy in intravenous fluids. Its multifaceted properties and broad applicability make dextrose monohydrate a fundamental ingredient in the formulation of diverse products across several industries."
-                ]
+                ],
+                "url": "/products/sweeteners/dextrose_monohydrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/dextrose_monohydrate.png",
@@ -1625,8 +1653,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "glucose anhydrous",
-                    "simply anhydrous dextrose"
+                    "Glucose anhydrous"
                 ],
                 "Functionalities": [
                     "1.Quick and Sustained Energy: Anhydrous Glucose serves as a rapid and easily digestible source of energy, making it ideal for sports nutrition products, energy drinks, and supplements.",
@@ -1645,7 +1672,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Anhydrous glucose refers to glucose in its pure, crystalline form without water content. This crystalline glucose is derived from the hydrolysis of starch and is widely used in the food and pharmaceutical industries. Its versatility stems from its role as a sweetener, bulking agent, and fermentable sugar in various applications. Anhydrous glucose is a key ingredient in confectionery, baked goods, and beverages, contributing sweetness while enhancing texture and stability. In the pharmaceutical sector, it finds application as an excipient in the production of tablets and as a source of rapidly absorbable energy in medical formulations. Renowned for its high solubility and neutral taste, anhydrous glucose remains a crucial component in the formulation of diverse products where precise control of sugar content and functionality is essential."
-                ]
+                ],
+                "url": "/products/sweeteners/anhydrous_glucose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/anhydrous_glucose.png",
@@ -1663,7 +1691,6 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "D-Mannose",
                     "Seminose",
                     "Carubinose"
                 ],
@@ -1684,7 +1711,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Mannose is a naturally occurring monosaccharide, classified as a hexose, and is found in various fruits, especially cranberries, as well as some plants and human cells. It is a stereoisomer of glucose and exhibits unique properties that contribute to its significance in health and nutrition. Mannose has gained attention for its potential benefits, including its role in supporting urinary tract health, where it may interfere with the adhesion of certain bacteria to the urinary tract lining. As a nutritional supplement, mannose is available in different forms, such as D-mannose, and is commonly used to support urinary tract function. Its low glycemic index and potential health benefits make mannose a subject of ongoing research and a sought-after ingredient in dietary supplements aimed at promoting overall well-being."
-                ]
+                ],
+                "url": "/products/sweeteners/mannose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/mannose.png",
@@ -1721,7 +1749,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Mannitol is a sugar alcohol derived from mannose and is commonly used in the food and pharmaceutical industries for its unique properties. Recognized for its sweet taste and low calorie content, mannitol serves as a sugar substitute and a bulking agent in various sugar-free and reduced-calorie products, including candies, chewing gum, and dietary supplements. With its ability to provide sweetness without impacting blood sugar levels, mannitol is often favored by individuals managing their sugar intake or those with diabetes. Beyond its use in the food industry, mannitol has pharmaceutical applications, where it serves as an excipient in drug formulations, contributing to the stability and solubility of medications. Additionally, mannitol is known for its osmotic diuretic properties and is sometimes used in medical settings to induce diuresis. Its versatility and multiple applications make mannitol a valuable ingredient in a range of consumer and healthcare products."
-                ]
+                ],
+                "url": "/products/sweeteners/mannitol"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/mannitol.png",
@@ -1758,7 +1787,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Pure crystalline fructose is a natural sweetener and simple sugar found abundantly in fruits, vegetables, and honey. Extracted and refined into its crystalline form, pure crystalline fructose is prized for its intense sweetness, approximately 1.7 times sweeter than sucrose, the standard table sugar. This characteristic allows for its use in smaller quantities, contributing fewer calories while maintaining the desired level of sweetness in food and beverage products. Often utilized in the food industry as a sweetening agent, pure crystalline fructose is incorporated into a variety of products, including baked goods, cereals, and beverages. Its high solubility, clean taste, and ability to enhance flavors make it a popular choice for manufacturers aiming to reduce overall sugar content while maintaining product palatability. Additionally, its low glycemic index makes it an attractive option for individuals seeking alternatives to traditional sugars, particularly those with diabetes or those focused on managing their blood sugar levels."
-                ]
+                ],
+                "url": "/products/sweeteners/pure_crystalline_fructose_(pcf)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/pure_crystalline_fructose_(pcf).png",
@@ -1776,8 +1806,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "Mycose",
-                    "Tremalose"
+                    "Mycose"
                 ],
                 "Functionalities": [
                     "1.Multi-Functional Sweetener: Trehalose is a disaccharide composed of two glucose molecules, providing sweetness without the intense flavor of sucrose. This makes it a versatile sweetener suitable for various applications.",
@@ -1796,7 +1825,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Trehalose is a naturally occurring disaccharide composed of two glucose molecules linked together. Widely found in various organisms, including bacteria, yeast, fungi, and certain plants, trehalose has gained attention for its unique properties and applications in the food and pharmaceutical industries. Notable for its stability and resistance to high temperatures, trehalose serves as a valuable ingredient in food preservation, maintaining the quality of products by preventing deterioration and dehydration. In the pharmaceutical realm, trehalose is employed as a stabilizing agent for proteins, enzymes, and vaccines due to its ability to protect against denaturation and aggregation. With its mild sweetness and versatility, trehalose is used in a range of products, including baked goods, confectionery, and freeze-dried foods, contributing to improved texture, flavor, and overall product stability."
-                ]
+                ],
+                "url": "/products/sweeteners/trehalose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/trehalose.png",
@@ -1814,8 +1844,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "6-O-α-D-Glucopyranosyl-D-glucose",
-                    "α-D-Glucopyranosyl-(1→6)-D-glucose"
+                    "Isomaltose"
                 ],
                 "Functionalities": [
                     "1.Sweetening Agent:Isomaltose imparts a sweet taste and is used as a sweetening agent in various food products. It provides sweetness with a different flavor profile compared to sucrose.",
@@ -1833,7 +1862,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Isomaltose, a disaccharide composed of two glucose molecules linked by an α-(1,6)-glycosidic bond, stands out as a sweetening agent with distinctive properties in the world of food and beverage. Naturally occurring and also produced through enzymatic processes, Isomaltose is recognized for its sweet taste, offering an alternative to traditional sucrose. Its application extends to various industries, including confectionery, baked goods, and beverages, where it serves as a low-calorie sweetener with a reduced impact on blood sugar levels. Isomaltose's unique contribution to the Maillard reaction enhances browning and flavor development in cooked and baked products. As a key component in sugar-free and low-calorie formulations, Isomaltose caters to consumers seeking sweetness without compromising on their dietary goals, making it a valuable ingredient in the realm of modern food choices."
-                ]
+                ],
+                "url": "/products/sweeteners/isomaltose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/isomaltose.png",
@@ -1851,8 +1881,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "Glucose polymer",
-                    "Maltose syrup"
+                    "Maltodextrin"
                 ],
                 "Functionalities": [
                     "1.Thickening Agent:Maltodextrin is prized for its ability to thicken and add body to a variety of food and beverage products, including sauces, soups, and dressings.",
@@ -1871,7 +1900,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Maltodextrin is a carbohydrate derivative widely utilized in the food and beverage industry for its versatile applications. Derived from starch, typically corn, rice, or potato, through hydrolysis, it is a white powder with a neutral taste. Maltodextrin serves various functions, acting as a thickener, filler, and binding agent. Its ability to quickly dissolve in liquids without imparting significant sweetness makes it a common ingredient in a range of products, including beverages, snacks, and processed foods. Maltodextrin is valued for its role in enhancing texture, stabilizing flavors, and providing a readily available source of energy. Its popularity extends to sports nutrition and culinary applications, where it finds use in thickening sauces, soups, and providing a source of easily digestible carbohydrates."
-                ]
+                ],
+                "url": "/products/sweeteners/maltodextrin"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/maltodextrin.png",
@@ -1889,7 +1919,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "Glucitol"
+                    "Sorbitol"
                 ],
                 "Functionalities": [
                     "1.Sweetening Agent:Sorbitol serves as a low-calorie sweetener, providing sweetness in food and beverage products without contributing to dental issues or a significant increase in caloric intake.",
@@ -1907,7 +1937,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Sorbitol, also known as glucitol, is a versatile sugar alcohol derived from the hydrogenation of glucose. Exhibiting a sweet taste and sugar-like appearance, sorbitol is widely embraced as a low-calorie sweetener and functional ingredient in the food, pharmaceutical, and personal care industries. Renowned for its unique properties, sorbitol acts as a humectant, attracting and retaining moisture in various products, while also serving as a bulking agent to enhance volume and texture. With its low impact on blood sugar levels, sorbitol is a favored sugar substitute, particularly in sugar-free and reduced-calorie foods, confectionery, and beverages. Furthermore, its application extends to pharmaceutical formulations, where it functions as an excipient, contributing sweetness and aiding in the solubility of medications. Sorbitol's diverse functionalities make it an invaluable component across a spectrum of consumer goods, from cosmetics to industrial applications."
-                ]
+                ],
+                "url": "/products/sweeteners/sorbitol"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/sorbitol.png",
@@ -1925,8 +1956,8 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "Sweetleaf",
-                    "Sugarleaf"
+                    "Steviol glycoside",
+                    "Stevioside"
                 ],
                 "Functionalities": [
                     "1.Zero-Calorie Sweetener:Stevia is a non-nutritive sweetener, providing sweetness without the added calories, making it an ideal option for those seeking to manage their calorie intake or maintain a healthier lifestyle.",
@@ -1943,7 +1974,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Stevia, a natural sweetener derived from the leaves of the Stevia rebaudiana plant, has gained global recognition as a healthy alternative to traditional sweeteners. Known for its intense sweetness without the added calories or impact on blood sugar levels, stevia has become a popular choice for health-conscious consumers and individuals managing sugar intake. The key compounds responsible for its sweetness, steviol glycosides, are extracted and purified to create various stevia-based sweeteners. With its non-nutritive nature and the ability to provide a sweet taste without contributing to calories, stevia finds widespread use in the food and beverage industry, ranging from beverages and snacks to desserts. Stevia's appeal lies not only in its sweetening power but also in being a plant-based, zero-calorie option, aligning with the growing demand for natural and healthier sweetening alternatives."
-                ]
+                ],
+                "url": "/products/sweeteners/stevia"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/stevia.png",
@@ -1961,8 +1993,7 @@
         "infos": {
             "sweeteners": {
                 "Common Name": [
-                    "Maltitol syrup",
-                    "Hydrogenated glucose syrup"
+                    "Maltitol syrup"
                 ],
                 "Functionalities": [
                     "1.Sweetening Agent: Maltitol functions as a sweetener, offering a sugar-like taste without the calories, making it suitable for the formulation of reduced-calorie and sugar-free products.",
@@ -1979,7 +2010,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Maltitol, a sugar alcohol derived from maltose, is a versatile sweetener renowned for its ability to provide sweetness without the caloric impact associated with traditional sugars. With a taste and appearance similar to sucrose, maltitol is widely used as a sugar substitute in various food products, especially those catering to individuals seeking reduced-calorie options or managing sugar intake. This polyol, known for its low glycemic index, is slowly metabolized, resulting in a lesser impact on blood sugar levels. Maltitol's functional attributes include its ability to retain moisture, making it valuable in the production of sugar-free confectionery, baked goods, and other low-calorie treats. Its widespread use in the food industry stems from its versatility as a bulking agent, sweetener, and texturizing agent, offering a sweet solution for those embracing healthier dietary choices."
-                ]
+                ],
+                "url": "/products/sweeteners/maltitol"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/maltitol.png",
@@ -1997,7 +2029,7 @@
         "infos": {
             "dietary_fibers": {
                 "Common Name": [
-                    "Polydextrose polymer"
+                    "Litesse"
                 ],
                 "Functionalities": [
                     "1.Fiber Enrichment: Polydextrose is a soluble fiber that supports digestive health by promoting regular bowel movements and providing prebiotic benefits to the gut microbiota.",
@@ -2017,7 +2049,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Polydextrose is a versatile and low-calorie carbohydrate polymer commonly used in the food industry as a functional ingredient. Composed of randomly bonded glucose units and sorbitol, polydextrose has gained popularity for its ability to mimic the texture and mouthfeel of sugar while providing a minimal impact on blood sugar levels. It is frequently employed as a bulking agent, texturizer, and stabilizer in various food products, including baked goods, dairy items, and beverages. Notably, polydextrose functions as a soluble fiber, contributing to digestive health and offering potential benefits for weight management. Its versatility and favorable nutritional profile make polydextrose a valuable tool for food manufacturers seeking to enhance the health attributes of their products without compromising on taste and texture."
-                ]
+                ],
+                "url": "/products/dietary_fibers/polydextrose"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/polydextrose.png",
@@ -2035,7 +2068,7 @@
         "infos": {
             "dietary_fibers": {
                 "Common Name": [
-                    ""
+                    "Resistant Dextrin"
                 ],
                 "Functionalities": [
                     "1.Dietary Fiber Enrichment: Resistant Dextrin is a soluble fiber that contributes to the daily recommended intake of dietary fiber, supporting digestive health and regular bowel movements.",
@@ -2055,7 +2088,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Resistant dextrin, also known as digestion-resistant maltodextrin, is a soluble dietary fiber derived from starch. Produced through a controlled enzymatic process, resistant dextrin is characterized by its resistance to digestion in the small intestine, reaching the colon where it serves as a substrate for beneficial gut bacteria. With a neutral taste and excellent solubility, it is commonly used in the food industry as a functional ingredient. Resistant dextrin offers several health benefits, including supporting digestive health by promoting the growth of probiotic bacteria, aiding in weight management due to its low-calorie content, and contributing to blood sugar control. As a versatile dietary fiber, resistant dextrin has found applications in a variety of food products, including beverages, baked goods, and nutritional supplements, providing manufacturers with a tool to enhance the nutritional profile of their offerings."
-                ]
+                ],
+                "url": "/products/dietary_fibers/resistant_dextrin"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/resistant_dextrin.png",
@@ -2093,7 +2127,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Monosodium glutamate (MSG) is a widely used food additive known for its umami flavor-enhancing properties. Composed of sodium and the amino acid glutamic acid, MSG is a crystalline powder that imparts a savory taste to food, enhancing the overall flavor profile. Commonly utilized in Asian and international cuisines, MSG serves as a versatile seasoning to elevate the taste of various dishes. Despite misconceptions about its safety, numerous scientific studies have affirmed MSG's general recognition as safe (GRAS) status, emphasizing its role as a flavor enhancer without causing adverse health effects when consumed within recommended levels. MSG continues to be a staple in the culinary world, contributing to the rich and savory character of a diverse array of foods."
-                ]
+                ],
+                "url": "/products/flavor_enhancers/monosodium_glutamate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/monosodium_glutamate.png",
@@ -2111,7 +2146,8 @@
         "infos": {
             "flavor_enhancers": {
                 "pdfUrl": "#",
-                "desc": []
+                "desc": [],
+                "url": "/products/flavor_enhancers/acidulants"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/acidulants.png",
@@ -2129,7 +2165,7 @@
         "infos": {
             "flavor_enhancers": {
                 "Common Name": [
-                    ""
+                    "Citric Acid Monohydrate"
                 ],
                 "Functionalities": [
                     "1.Acidulant: Citric Acid Monohydrate serves as a highly effective acidulant, adding a sour or tangy taste to various food and beverage products.",
@@ -2149,7 +2185,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Citric acid monohydrate is a crystalline form of citric acid that contains one molecule of water. Widely used across various industries, citric acid monohydrate is prized for its acidity, chelating properties, and versatile applications. As a natural organic acid found in citrus fruits, it serves as a key ingredient in the food and beverage industry, contributing a sour or tangy taste to numerous products. Beyond its culinary uses, citric acid monohydrate finds applications in the pharmaceutical, cosmetic, and cleaning product industries, where it serves as a chelating agent, pH regulator, and stabilizing agent. With its multifunctional properties, citric acid monohydrate continues to be a valuable and ubiquitous component in a diverse range of consumer and industrial products."
-                ]
+                ],
+                "url": "/products/flavor_enhancers/citric_acid_monohydrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/citric_acid_monohydrate.png",
@@ -2167,7 +2204,7 @@
         "infos": {
             "flavor_enhancers": {
                 "Common Name": [
-                    ""
+                    "Citric Acid Anhydrous"
                 ],
                 "Functionalities": [
                     "1.Natural Acidulant: Citric Acid Anhydrous imparts a tangy flavor to food and beverages, making it a popular choice as a natural acidulant in the food industry.",
@@ -2185,7 +2222,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Citric acid anhydrous is a food-grade compound derived from citrus fruits, predominantly lemons and limes. Recognized for its versatile applications in the food and beverage industry, citric acid anhydrous is a crystalline powder with a sour taste. It serves as a natural acidulant, pH regulator, and preservative, contributing to the tartness and preservation of numerous food products. Beyond its use in the culinary world, citric acid anhydrous finds applications in various industries, including cosmetics, pharmaceuticals, and cleaning products, due to its chelating and antioxidant properties. Its wide-ranging functionality, natural origin, and safety make it a ubiquitous ingredient, enhancing flavors, extending shelf life, and serving diverse purposes in both consumable and non-consumable products."
-                ]
+                ],
+                "url": "/products/flavor_enhancers/citric_acid_anhydrous"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/citric_acid_anhydrous.png",
@@ -2203,8 +2241,7 @@
         "infos": {
             "flavor_enhancers": {
                 "Common Name": [
-                    "Sodium citrate dihydrate",
-                    "Trisodium citrate"
+                    "citrate sodium"
                 ],
                 "Functionalities": [
                     "1.Buffering Agent: Sodium citrate acts as a buffering agent, helping to control and stabilize the pH levels in various products, especially in the food and beverage industry.",
@@ -2222,7 +2259,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Sodium citrate, derived from citric acid found in citrus fruits, is a versatile compound widely employed across diverse industries. In its crystalline powder form, it serves as a crucial ingredient with multifunctional applications. Acting as a buffering agent, sodium citrate stabilizes and controls pH levels, making it a pivotal component in the food and beverage industry for enhancing flavor stability and acidity regulation. Furthermore, sodium citrate serves as an emulsifying salt, preventing the separation of fats and water in processed cheese. Its utility extends to pharmaceuticals, where it functions as a buffering agent and anticoagulant, while also finding use in cosmetics, personal care products, and cleaning formulations for its pH-controlling and chelating properties. The textile industry also embraces sodium citrate in dyeing processes for pH control and color enhancement. The compound's diverse functionalities make it an indispensable ingredient, contributing to the stability and quality of a wide range of products."
-                ]
+                ],
+                "url": "/products/flavor_enhancers/sodium_citrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/sodium_citrate.png",
@@ -2261,13 +2299,9 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Monoethanolamine (MEA) is a versatile chemical compound with a wide range of applications in various industries. It is a clear, viscous liquid with both amine and alcohol functional groups, making it a valuable ingredient in diverse industrial processes.",
-                    "In the gas and oil industry, MEA is extensively used for its unique properties. It serves as an effective absorbent for acidic gases like carbon dioxide (CO2) and hydrogen sulfide (H2S) in natural gas processing and refining. This property makes it valuable in the purification and sweetening of gases.",
-                    "MEA is also utilized as a corrosion inhibitor, helping to protect metal surfaces from degradation in certain applications. Its surfactant properties make it suitable for enhancing wetting and dispersing characteristics, making it useful in detergents and cleaning formulations.",
-                    "As a chemical intermediate, MEA plays a crucial role in the synthesis of various compounds, including herbicides, pharmaceuticals, and textile auxiliaries. Additionally, it serves as a pH regulator in different processes due to its amine nature.",
-                    "The applications of monoethanolamine extend to sectors such as personal care products, where it is used in certain cosmetics and shampoos, and in the textile industry for formulating textile auxiliaries.",
-                    "Overall, monoethanolamine's multifunctional properties contribute to its significance across diverse industries, making it a versatile and valuable compound in numerous industrial processes."
-                ]
+                    "Monoethanolamine (MEA) is a versatile compound with wide applications across various industries. Also known as ethanolamine, it is a colorless, viscous liquid that combines the properties of both an amine and an alcohol. MEA is commonly used in the production of detergents, cosmetics, and personal care products due to its surfactant and emulsifying properties. In the chemical industry, it serves as a key ingredient in the production of herbicides, fungicides, and corrosion inhibitors. Additionally, Monoethanolamine plays a crucial role in gas processing, where it is employed as a selective absorbent for removing carbon dioxide and hydrogen sulfide. Its unique combination of properties makes Monoethanolamine a valuable component in diverse applications, contributing to the efficiency and effectiveness of processes in several industrial sectors."
+                ],
+                "url": "/products/chemicals/monoethanolamine（mea）"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/monoethanolamine（mea）.png",
@@ -2285,7 +2319,8 @@
         "infos": {
             "chemicals": {
                 "Common Name": [
-                    "Goma Xantana, Xanthan"
+                    "Goma Xantana",
+                    "Xanthan"
                 ],
                 "Functionalities": [
                     "1.Thickening Agent: Industrial Xanthan Gum is renowned for its exceptional thickening properties. It can efficiently increase the viscosity of liquids, providing stability to suspensions and preventing settling of solid particles.",
@@ -2303,10 +2338,9 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Industrial Xanthan Gum is a polysaccharide with unique rheological properties, derived through the fermentation of sugars by the bacterium Xanthomonas campestris. This versatile ingredient has gained widespread usage across diverse industries due to its exceptional thickening, stabilizing, and gelling capabilities.",
-                    "In industrial processes, Xanthan Gum's versatility shines. It is used in sectors such as oil and gas, where it aids in viscosity control of drilling fluids, and in the production of household and industrial cleaners, where it contributes to the stability of formulations.",
-                    "The success of Industrial Xanthan Gum lies in its ability to function effectively across a spectrum of industries, offering solutions for texture, stability, and viscosity control. As a natural and efficient additive, Industrial Xanthan Gum continues to play a vital role in shaping the formulation landscape, contributing to the quality and performance of a wide array of consumer and industrial products."
-                ]
+                    "Industrial-grade Xanthan Gum is a high-performance polysaccharide widely utilized in various industrial applications. Derived through the fermentation of sugars by the bacterium Xanthomonas campestris, this versatile gum exhibits exceptional thickening, stabilizing, and gelling properties. In industries such as oil and gas, Xanthan Gum serves as an effective viscosifier in drilling fluids, enhancing their rheological characteristics and providing better control over fluid loss. Its water-soluble nature makes it invaluable in industries like food manufacturing, textiles, and cosmetics, where it acts as a stabilizer, emulsifier, and thickening agent. Known for its stability under a broad range of conditions, industrial-grade Xanthan Gum plays a pivotal role in improving the performance and quality of numerous products and processes across different sectors."
+                ],
+                "url": "/products/chemicals/industrial_grade_xanthan_gum"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/industrial_grade_xanthan_gum.png",
@@ -2324,7 +2358,7 @@
         "infos": {
             "chemicals": {
                 "Common Name": [
-                    ""
+                    "Citric Acid"
                 ],
                 "Functionalities": [
                     "1.Chelating Agent: Citric Acid serves as an effective chelating agent, binding with metal ions and helping to prevent oxidation and discoloration in products. It is commonly used in the formulation of detergents and cleaning products.",
@@ -2337,11 +2371,9 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Industrial citric acid is a versatile organic acid widely employed in numerous industries for its multifunctional properties. Derived from natural sources such as citrus fruits, industrial citric acid is recognized for its acidity, chelating abilities, and its applications as a pH regulator and preservative.",
-                    "Industrial citric acid plays a crucial role in the pharmaceutical industry, where it serves as a pH regulator in medications and enhances the taste of certain formulations. It is a common ingredient in cosmetic and personal care products, contributing to stability and pH balance.",
-                    "Moreover, industrial citric acid finds applications in cleaning products as a chelating agent, aiding in the removal of mineral deposits. In the textile industry, it is utilized in dyeing processes.",
-                    "With its diverse functionalities, industrial citric acid is an integral component in a wide range of industrial processes, contributing to the quality, stability of various products across different sectors."
-                ]
+                    "Industrial-grade citric acid, a natural and versatile acidulant, finds widespread use in various industrial applications. Sourced from citrus fruits or produced through fermentation processes, this acid is a key ingredient in industries such as food and beverage, pharmaceuticals, and cosmetics. Renowned for its chelating properties and ability to adjust pH levels, industrial-grade citric acid serves as a preservative, acidifier, and flavor enhancer in the food industry, contributing to the development of a diverse range of products. In pharmaceuticals, it is utilized for its antioxidant properties and as a buffering agent. The cosmetic industry also employs citric acid for its skin-friendly exfoliating and pH-regulating attributes. With its broad range of functionalities, industrial-grade citric acid plays a pivotal role in enhancing the quality, stability, and performance of various products in different manufacturing sectors."
+                ],
+                "url": "/products/chemicals/industrial_grade_citric_acid"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/industrial_grade_citric_acid.png",
@@ -2376,11 +2408,9 @@
                 ],
                 "pdfUrl": "#",
                 "desc": [
-                    "Sodium tartrate, also known as Rochelle salt, is a chemical compound with versatile applications across various industries. This salt is derived from tartaric acid and is recognized for its unique properties. Sodium tartrate is commonly used as a sequestrant, a buffering agent, and a stabilizing agent in different industrial processes.",
-                    "In the food and beverage industry, sodium tartrate is utilized for its ability to stabilize and control the acidity of certain products. It is also employed in the pharmaceutical industry as a buffering agent, contributing to the stability of medications. Sodium tartrate finds applications in the textile industry, where it is used as a complexing agent in dyeing processes.",
-                    "Furthermore, sodium tartrate plays a role in cleaning products, acting as a chelating agent to bind metal ions and prevent discoloration. In the laboratory and research settings, sodium tartrate may be used as a reference material.",
-                    "Overall, sodium tartrate's multifunctional properties make it an important ingredient in various industrial processes, contributing to the stability, quality, and performance of diverse products."
-                ]
+                    "Sodium tartrate is a versatile compound with applications across diverse industries. This crystalline salt is derived from tartaric acid and sodium carbonate, forming a soluble, white, and odorless powder. Sodium tartrate is commonly used in the food and beverage industry as a stabilizing and sequestering agent, particularly in cream of tartar baking powder formulations. In the field of electroplating, it is employed as a complexing agent for metal ions. Moreover, sodium tartrate finds applications in the medical field, where it is utilized in certain diagnostic reagents. Its unique properties make it valuable in various industrial processes, contributing to the stability, quality, and functionality of products in different sectors."
+                ],
+                "url": "/products/chemicals/sodium_tartrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/sodium_tartrate.png",
@@ -2418,7 +2448,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Tetrakis hydroxymethyl phosphonium sulfate, commonly known as THPS, is a versatile chemical compound recognized for its effectiveness as a biocide and flame retardant. Derived from phosphorus chemistry, THPS is widely used in various industrial applications. In microbial control, particularly in industries like oil and gas, water treatment, and pulp and paper processing, THPS serves as a potent biocide, effectively inhibiting the growth of bacteria, fungi, and algae. Additionally, THPS exhibits flame-retardant properties, making it valuable in enhancing fire resistance in textiles, wood products, and other materials. THPS plays a crucial role in industries where both microbial control and fire safety are critical considerations."
-                ]
+                ],
+                "url": "/products/chemicals/tetrakis_hydroxymethyl_phosphonium_sulfate(thps)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/tetrakis_hydroxymethyl_phosphonium_sulfate(thps).png",
@@ -2454,10 +2485,169 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Tetrakis hydroxymethyl phosphonium chloride, commonly known as THPC, is a chemical compound recognized for its flame-retardant properties and diverse industrial applications. Produced through a synthesis process, THPC has found prominence as an effective additive in textiles, wood treatments, and various materials where enhancing fire resistance is crucial. It imparts flame-retardant characteristics without significantly altering the physical properties of the treated materials. THPC is a valuable solution in industries prioritizing fire safety, making it an essential component in the production of flame-resistant textiles, wood products, and other materials where reducing the risk of fire is a paramount concern."
-                ]
+                ],
+                "url": "/products/chemicals/tetrakis_hydroxymethyl_phosphonium_chloride(thpc)"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/tetrakis_hydroxymethyl_phosphonium_chloride(thpc).png",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "iron(iii)_chloride",
+        "title": "Iron(III) chloride",
+        "categories": [
+            "Chemicals"
+        ],
+        "category_idx": [
+            "chemicals"
+        ],
+        "infos": {
+            "chemicals": {
+                "Common Name": [
+                    "Ferric chloride",
+                    "Iron trichloride",
+                    "FeCl₃"
+                ],
+                "Functionalities": [
+                    "1.Etching Agent:Iron(III) chloride is widely used as an etching agent in the electronics industry for the production of printed circuit boards (PCBs). It selectively removes copper from the board's surface during the manufacturing process.",
+                    "2.Water and Wastewater Treatment: It serves as a coagulant in water treatment processes, aiding in the removal of impurities and suspended particles. In wastewater treatment, ferric chloride is employed to precipitate phosphorus and other contaminants.",
+                    "3.Catalyst in Organic Synthesis: Ferric chloride acts as a catalyst in various organic synthesis reactions, including the synthesis of pharmaceuticals and perfumes.",
+                    "4.Flocculating Agent: In the treatment of sewage and industrial effluents, ferric chloride is utilized as a flocculating agent to assist in the precipitation and removal of suspended solids.",
+                    "5.Metal Surface Treatment: It is used for surface treatment of metals, providing corrosion resistance and improving adhesion for paints and coatings.",
+                    "6.Dye Manufacturing: Iron(III) chloride is involved in the production of various dyes, acting as a catalyst in the formation of color pigments."
+                ],
+                "Applicable Industries": [
+                    "1.Electronics: Ferric chloride is a crucial component in the production of printed circuit boards, playing a key role in the etching process.",
+                    "2.Water Treatment: Municipal water treatment plants and industries utilize ferric chloride for the purification of water and wastewater.",
+                    "3.Chemical Synthesis: It finds application in the chemical industry for catalyzing organic reactions and synthesizing various compounds.",
+                    "4.Metallurgy: Iron(III) chloride is used in metal surface treatment to enhance the properties of metals and alloys.",
+                    "5.Textile Industry: In the textile sector, ferric chloride is employed in dye manufacturing processes.",
+                    "6.Pharmaceuticals: It is utilized in the synthesis of pharmaceutical compounds."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Iron(III) chloride, commonly known as ferric chloride, is a chemical compound with the molecular formula FeCl₃. This dark brownish-orange solid exhibits a distinct hydrochloric acid-like odor and is highly soluble in water. A versatile chemical, iron(III) chloride finds widespread applications in various industries. In the electronics sector, it serves as a crucial etching agent for the production of printed circuit boards (PCBs), selectively removing copper during manufacturing. Additionally, ferric chloride plays a pivotal role in water and wastewater treatment, acting as a coagulant and aiding in the removal of impurities. Its catalytic properties make it valuable in organic synthesis, and it finds use in metal surface treatment, dye manufacturing, and as a flocculating agent in sewage treatment. The diverse functionalities of iron(III) chloride underscore its significance in processes ranging from chemical synthesis to industrial applications."
+                ],
+                "url": "/products/chemicals/iron(iii)_chloride"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "sodium_chlorite",
+        "title": "Sodium Chlorite",
+        "categories": [
+            "Chemicals"
+        ],
+        "category_idx": [
+            "chemicals"
+        ],
+        "infos": {
+            "chemicals": {
+                "Common Name": [],
+                "NaClO2": [],
+                "Functionalities": [
+                    "1.Bleaching Agent: Sodium chlorite is commonly used as a bleaching agent in the textile, paper, and pulp industries. It effectively removes color from raw materials and is employed in the production of bleached fibers and paper.",
+                    "2.Water Treatment: Its strong oxidizing properties make sodium chlorite useful in water treatment processes, where it acts as a disinfectant and helps control microbial growth in water systems.",
+                    "3.Chemical Synthesis: Sodium chlorite is a precursor in the synthesis of chlorine dioxide, a powerful oxidizing and bleaching agent used in various chemical processes, including the production of chlorine dioxide gas.",
+                    "4.Disinfectant and Biocide: It serves as a disinfectant in various applications, including water treatment, healthcare, and food processing, due to its ability to eliminate bacteria, fungi, and other microorganisms.",
+                    "5.Textile Industry: In the textile industry, sodium chlorite is employed for fabric bleaching, ensuring the removal of impurities and colorants from textile materials."
+                ],
+                "Applicable Industries": [
+                    "1.Textile and Pulp Industry: Sodium chlorite finds extensive use in bleaching processes for textiles, paper, and pulp, contributing to the production of white and colorless materials.",
+                    "2.Water Treatment: Municipal water treatment plants and industries utilize sodium chlorite for disinfection and microbial control in water distribution systems.",
+                    "3.Chemical Manufacturing: It is a key component in the synthesis of chlorine dioxide, an important chemical with applications in various chemical processes.",
+                    "4.Food and Beverage Industry: Sodium chlorite is employed in the food and beverage industry as a disinfectant and preservative, ensuring the microbiological safety of products.",
+                    "5.Healthcare and Biomedical Applications: In healthcare settings, sodium chlorite may be used for sterilization purposes and in certain biomedical applications."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Sodium chlorite, a white crystalline powder with the chemical formula NaClO₂, stands as a versatile compound with applications spanning various industries. Renowned for its potent oxidizing properties, sodium chlorite finds primary use as a bleaching agent in the textile, paper, and pulp industries, contributing to the production of colorless and purified materials. In water treatment processes, it acts as a disinfectant, effectively controlling microbial growth and ensuring the microbiological safety of water systems. Moreover, sodium chlorite serves as a precursor in the synthesis of chlorine dioxide, a powerful oxidizing and bleaching agent employed in chemical processes. Its broad functionalities extend to the healthcare and food industries, where it acts as a disinfectant and preservative, respectively. Sodium chlorite's significance lies in its ability to address diverse industrial needs, ranging from material bleaching to water purification and chemical synthesis."
+                ],
+                "url": "/products/chemicals/sodium_chlorite"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "sodium_thiocyanate",
+        "title": "Sodium Thiocyanate",
+        "categories": [
+            "Chemicals"
+        ],
+        "category_idx": [
+            "chemicals"
+        ],
+        "infos": {
+            "chemicals": {
+                "Common Name": [
+                    "Sodium rhodanide",
+                    "NaSCN"
+                ],
+                "Functionalities": [
+                    "1.Metal Complex Formation: Sodium thiocyanate is widely used in the formation of metal complexes, particularly with iron ions, where it serves as a ligand.",
+                    "2.Precipitating Agent: In analytical chemistry, sodium thiocyanate is employed as a precipitating agent to identify the presence of certain metal ions in solution.",
+                    "3.Dyeing and Printing: It is utilized in the textile industry for dyeing and printing applications, where it acts as a complexing agent for certain metal ions.",
+                    "4.Deicing Agent: Sodium thiocyanate is used in deicing solutions to lower the freezing point of water, making it effective in preventing ice formation on roads and airport runways.",
+                    "5.Photography: It finds application in photography as a fixing agent for certain types of photographic emulsions."
+                ],
+                "Applicable Industries": [
+                    "1.Chemical Manufacturing: Sodium thiocyanate is a key component in the production of various chemicals, including metal complexes and other derivatives.",
+                    "2.Textile Industry: In the textile sector, it is employed for dyeing and printing applications due to its ability to form stable complexes with metal ions.",
+                    "3.Analytical Chemistry: Sodium thiocyanate is widely used in analytical laboratories for precipitation reactions to identify and quantify certain metal ions.",
+                    "4.Deicing and Anti-Freezing Solutions: Its deicing properties make it valuable in the formulation of deicing solutions used in winter road maintenance and aviation.",
+                    "5.Photography: Sodium thiocyanate finds use in certain photographic processes, contributing to fixing and developing photographic emulsions."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Sodium thiocyanate, represented by the chemical formula NaSCN, is a white crystalline salt known for its water solubility and distinct odor reminiscent of thiocyanic acid. Produced through the reaction of sodium cyanide with elemental sulfur, this compound finds versatile applications across various industries. In analytical chemistry, sodium thiocyanate serves as a precipitating agent, aiding in the identification of specific metal ions in solution. Its role extends to the textile industry, where it acts as a complexing agent for metal ions in dyeing and printing processes. Additionally, sodium thiocyanate plays a pivotal role in chemical manufacturing, contributing to the production of metal complexes and other derivatives. Its deicing properties make it valuable in formulations for preventing ice formation on roads and airport runways, while in photography, it functions as a fixing agent in certain photographic emulsions. The multifaceted functionalities of sodium thiocyanate underscore its importance in diverse industrial applications."
+                ],
+                "url": "/products/chemicals/sodium_thiocyanate"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
+        "overlay": "/assets/images/icons/icon-8.png"
+    },
+    {
+        "pid": "silicon_dioxide",
+        "title": "Silicon Dioxide",
+        "categories": [
+            "Chemicals"
+        ],
+        "category_idx": [
+            "chemicals"
+        ],
+        "infos": {
+            "chemicals": {
+                "Common Name": [
+                    "Silica",
+                    "SiO₂"
+                ],
+                "Functionalities": [
+                    "1.Desiccant: Silicon dioxide's ability to absorb and retain moisture makes it an effective desiccant, commonly used in the packaging of food and pharmaceuticals to prevent moisture-related degradation.",
+                    "2.Abrasive: In industries such as manufacturing and construction, fine particles of silica are used as abrasives in products like toothpaste, metal polish, and sandpaper.",
+                    "3.Reinforcement in Rubber and Plastics: Silicon dioxide is incorporated into rubber and plastic materials to enhance their mechanical properties, providing reinforcement and improving durability.",
+                    "4.Catalyst Support: In the chemical industry, silica is employed as a support material for catalysts in various chemical processes.",
+                    "5.Filler in Pharmaceuticals: It is utilized as a filler in the pharmaceutical industry, often incorporated into tablets and capsules to ensure proper flow and compressibility of drug formulation."
+                ],
+                "Applicable Industries": [
+                    "1.Pharmaceuticals: Silicon dioxide is used in pharmaceuticals as a filler and flow agent in the manufacturing of tablets and capsules.",
+                    "2.Food and Beverage: In the food industry, silica is employed as an anti-caking agent and desiccant to prevent clumping and maintain the quality of powdered and granulated products.",
+                    "3.Construction: Silica is used as a component in the production of concrete, mortars, and ceramics, contributing to their strength and durability.",
+                    "4.Electronics and Semiconductor: High-purity silica is crucial in the electronics industry for the production of semiconductors and as an insulating material.",
+                    "5.Cosmetics: Silica is found in cosmetics, contributing to the texture and absorbent properties of products like powders and foundations.",
+                    "6.Chemical Manufacturing: In chemical processes, silica serves as a catalyst support, aiding in various catalytic reactions."
+                ],
+                "pdfUrl": "#",
+                "desc": [
+                    "Silicon dioxide, commonly referred to as silica, is a fundamental compound with the chemical formula SiO₂. Abundantly present in nature as quartz, sand, and glass, silica plays a pivotal role in various industries due to its versatile properties. Recognized for its moisture-absorbing capabilities, silica serves as an effective desiccant in food and pharmaceutical packaging, preventing moisture-related degradation. Beyond its desiccant function, fine particles of silica act as abrasives in products like toothpaste and sandpaper. Silica is also utilized as a reinforcement in rubber and plastics, enhancing mechanical properties and durability. In the pharmaceutical and construction industries, silica finds applications as a filler, while in electronics, it is crucial for semiconductor production. Its multifaceted roles span pharmaceuticals, food and beverage, construction, cosmetics, and chemical manufacturing, showcasing the indispensable nature of silicon dioxide across diverse industrial applications."
+                ],
+                "url": "/products/chemicals/silicon_dioxide"
+            }
+        },
+        "image": "/assets/images/gallery/gallery-1.jpg",
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
@@ -2472,7 +2662,6 @@
         "infos": {
             "preservatives": {
                 "Common Name": [
-                    "E282 (when used as a food additive)",
                     "Calcium propanoate"
                 ],
                 "Functionalities": [
@@ -2490,7 +2679,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Calcium propionate, a calcium salt of propionic acid, stands as a vital preservative in the food industry, known for its ability to inhibit the growth of molds and certain bacteria in various food products. This white crystalline solid is highly soluble in water and serves as an effective antimicrobial agent. Calcium propionate is widely used in bakery products, such as bread and pastries, where it helps extend shelf life by preventing the development of mold, thus ensuring freshness. Beyond its role in the bakery sector, calcium propionate finds applications in animal feed to safeguard the quality of feed ingredients. Its versatility as a preservative, coupled with its minimal impact on taste and texture, makes calcium propionate a valued ingredient in the quest for prolonged shelf life and microbial control in food products."
-                ]
+                ],
+                "url": "/products/preservatives/calcium_propionate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/calcium_propionate.png",
@@ -2508,7 +2698,6 @@
         "infos": {
             "preservatives": {
                 "Common Name": [
-                    "DHA sodium salt",
                     "Dehydroacetic acid sodium salt"
                 ],
                 "Functionalities": [
@@ -2524,7 +2713,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Sodium dehydroacetate, commonly known as DHA sodium salt, is a white crystalline powder widely employed as a potent preservative and antimicrobial agent in the cosmetic, personal care, and, to a lesser extent, food industries. Derived from dehydroacetic acid, this compound effectively inhibits the growth of bacteria and fungi, serving as a reliable solution for extending the shelf life of various formulations. Its antimicrobial properties make it particularly valuable in cosmetics and skincare products, ensuring microbiological stability and product safety. Sodium dehydroacetate also functions as a pH stabilizer, contributing to the overall stability of formulations. While primarily recognized for its role in the cosmetic industry, it finds applications in select food and pharmaceutical formulations, emphasizing its versatility as a preservative with broad-spectrum efficacy."
-                ]
+                ],
+                "url": "/products/preservatives/sodium_dehydroacetate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/sodium_dehydroacetate.png",
@@ -2542,8 +2732,7 @@
         "infos": {
             "preservatives": {
                 "Common Name": [
-                    "Pimaricin",
-                    "E235 (when used as a food additive)"
+                    "Pimaricin"
                 ],
                 "Functionalities": [
                     "1.Antifungal Agent: Natamycin acts as a potent antifungal agent, specifically targeting molds and yeast. It inhibits their growth and prevents spoilage in food products.",
@@ -2560,7 +2749,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Natamycin, also known as pimaricin, is a natural antifungal agent derived from the bacterium Streptomyces natalensis. Widely recognized for its effectiveness in inhibiting the growth of molds and yeast, natamycin serves as a crucial preservative in the food industry. Approved for its safety and lack of taste or odor, it finds prominent use in preserving the quality and extending the shelf life of various food products. Commonly employed in the dairy industry to safeguard cheeses and yogurt, natamycin is also utilized in bakery items, meat, poultry, and certain beverages, acting as a reliable defense against fungal contamination. Its versatility, coupled with its natural origin, positions natamycin as a valuable solution for ensuring the longevity and freshness of a diverse range of perishable foods."
-                ]
+                ],
+                "url": "/products/preservatives/natamycin"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/natamycin.png",
@@ -2578,7 +2768,6 @@
         "infos": {
             "preservatives": {
                 "Common Name": [
-                    "Streptococcus cremoris (historical classification)",
                     "Lactic streptococci"
                 ],
                 "Functionalities": [
@@ -2593,7 +2782,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Streptococcus lactis is a bacterial species integral to the fermentation processes in dairy production, particularly in the creation of various fermented dairy products such as cheese and yogurt. This lactic acid bacterium plays a pivotal role in converting lactose, the sugar present in milk, into lactic acid through the process of fermentation. As a key component of starter cultures, Streptococcus lactis contributes to the development of flavor, texture, and acidity in dairy products. Its ability to metabolize lactose not only aids in the preservation of dairy items but also enhances their nutritional value by making lactose more digestible. Streptococcus lactis exemplifies its significance in the dairy industry, serving as a beneficial microorganism crucial for the production of a diverse array of fermented dairy delights."
-                ]
+                ],
+                "url": "/products/preservatives/streptococcus_lactis"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/streptococcus_lactis.png",
@@ -2611,8 +2801,7 @@
         "infos": {
             "preservatives": {
                 "Common Name": [
-                    "E202 (when used as a food additive)",
-                    "Sorbistat K"
+                    "Potassium Sorbate"
                 ],
                 "Functionalities": [
                     "1.Preservative: Potassium sorbate serves as a powerful preservative, preventing the growth of various microorganisms in food and beverage products. It inhibits the development of molds, yeasts, and fungi, thus extending the shelf life of the items.",
@@ -2629,7 +2818,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Potassium sorbate is a crucial preservative widely employed in the food, beverage, cosmetic, and pharmaceutical industries. Derived from sorbic acid, a naturally occurring compound found in berries, potassium sorbate appears as a white crystalline powder with remarkable water solubility. Its primary functionality lies in inhibiting the growth of molds, yeasts, and fungi, thereby extending the shelf life of a variety of perishable products. As an antimicrobial agent, potassium sorbate is particularly effective in preventing spoilage without significantly altering the taste or aroma of the preserved items. This preservative plays a key role in preserving the quality and ensuring the safety of numerous food and beverage products, as well as cosmetics, personal care items, and pharmaceutical formulations."
-                ]
+                ],
+                "url": "/products/preservatives/potassium_sorbate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/potassium_sorbate.png",
@@ -2647,8 +2837,7 @@
         "infos": {
             "antioxidants": {
                 "Common Name": [
-                    "Sodium isoascorbate",
-                    "E316 (when used as a food additive)"
+                    "D-Sodium isoascorbiate"
                 ],
                 "Functionalities": [
                     "1.Antioxidant: Sodium erythorbate acts as a powerful antioxidant, effectively inhibiting the oxidation of fats and pigments in food, which helps maintain the color, flavor, and overall quality of the products.",
@@ -2665,7 +2854,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Sodium erythorbate, a sodium salt of erythorbic acid, is a key ingredient widely utilized as a food preservative and antioxidant. It is structurally similar to vitamin C but exhibits enhanced stability, making it an effective additive in the food and beverage industry. Sodium erythorbate primarily functions as a reducing agent, effectively preventing the browning of fruits and vegetables and inhibiting the formation of nitrosamines in processed meats. It is particularly valuable in the preservation of cured meats, sausages, and various processed foods, where it not only enhances color retention but also extends shelf life by inhibiting oxidative reactions. Its versatile applications make sodium erythorbate an essential component in the food industry's efforts to maintain product quality, appearance, and freshness."
-                ]
+                ],
+                "url": "/products/antioxidants/sodium_erythorbate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/sodium_erythorbate.png",
@@ -2696,7 +2886,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Milk powder, a versatile and shelf-stable dairy product, is obtained by removing the moisture content from liquid milk through evaporation and spray drying. This process transforms liquid milk into a fine powder with a longer shelf life, making it an ideal solution for convenient storage and transportation. Milk powder retains the essential nutritional elements found in fresh milk, including proteins, vitamins, and minerals, making it a valuable ingredient in various food and beverage applications. Widely used in the food industry, milk powder serves as a key component in the production of dairy-based products, baked goods, confectionery items, and nutritional supplements. Its ability to reconstitute easily with water makes it a practical and economical alternative to liquid milk in many culinary and manufacturing processes, catering to both domestic and industrial needs."
-                ]
+                ],
+                "url": "/products/others/milk_powder"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/milk_powder.png",
@@ -2728,7 +2919,8 @@
                 "pdfUrl": "#",
                 "desc": [
                     "Prune juice concentrate is a condensed form of juice derived from dried plums, or prunes. Known for its rich and robust flavor, prune juice concentrate is created by reducing the moisture content of prune juice, resulting in a concentrated liquid that retains the natural sweetness and nutritional benefits of prunes. This concentrated form is commonly used in the food and beverage industry to impart the distinct, fruity essence of prunes to a variety of products. Prune juice concentrate finds applications in the formulation of beverages, baked goods, sauces, and other culinary creations, offering a convenient way to infuse products with the unique taste and potential health benefits associated with prunes, such as digestive health support and a rich source of antioxidants."
-                ]
+                ],
+                "url": "/products/others/prune_juice_concentrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/prune_juice_concentrate.png",
