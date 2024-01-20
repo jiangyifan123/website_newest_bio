@@ -30,7 +30,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                         <div className="col-md-6">
                                             <h2>{product.title}</h2>
                                             {
-                                                product_detail.pdfUrl &&
+                                                (product_detail.pdfUrl && product_detail.pdfUrl != "#" && product_detail.pdfUrl != "") &&
                                                 <div className="link-btn">
                                                     <Link href={product_detail.pdfUrl} className="theme-btn btn-style-one">
                                                         <span className="btn-title">Download PDF</span>
