@@ -42,6 +42,7 @@ for idx, paragraph in enumerate(doc.paragraphs):
             if len(paragraph.text.strip()) == 0:
                 continue
             if len(stk[-1]) > 0 and startWithOrder(stk[-1][-1]) and not startWithOrder(paragraph.text.strip()):
+                print(stk[-1][-1])
                 raise Exception('Invalid paragraph')
             stk[-1].append(paragraph.text.strip().strip(r'/'))
     except Exception:
@@ -64,6 +65,7 @@ for category_name, products in productList.items():
                 info['desc'] = tmp
         pid = '_'.join(product_name.lower().split(' '))
         category_idx = '_'.join(category_name.lower().split(' '))
+        info['url'] = f'/products/{category_idx}/{pid}'
         if pid not in procceededProductList:
             procceededProductList[pid] = {"pid": pid, "title": product_name, "categories": [], "category_idx": [], "infos": {}}
         procceededProductList[pid]["categories"].append(category_name)
