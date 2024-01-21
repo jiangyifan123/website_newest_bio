@@ -2,23 +2,6 @@ import Link from "next/link"
 
 export function Product() {
     return <>
-        <section className="award-section style-two" style={{ backgroundImage: 'url(assets/newestBiotech/images/honey.jpg)' }}>
-            <div className="auto-container">
-                <div className="row">
-                    <div className="col-lg-8">
-                        <div className="sec-title light">
-                            <h2>GLUCOSE MONOHYDRATE</h2>
-                            <div className="text-decoration">
-                                <span className="left" />
-                                <span className="right" />
-                            </div>
-                            <div className="white-text">In the food industry and beverage industry, it is used as sweetener, nutrient and filler. In the pharmaceutical industry, it can be used as a nutrient solution to make oral liquid or intravenous injection. In the leather industry, sole leather and leather case leather are used as reducing agents.</div>
-                        </div>
-                        <div className="bottom-text"><Link href="/products/sweeteners">View more products<i className="flaticon-right" /></Link></div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section className="award-section style-two" style={{ backgroundImage: 'url(assets/newestBiotech/images/seaweed.png)' }}>
             <div className="auto-container">
                 <div className="row">
@@ -38,11 +21,28 @@ export function Product() {
                 </div>
             </div>
         </section>
+        <section className="award-section style-two" style={{ backgroundImage: 'url(assets/newestBiotech/images/honey.jpg)' }}>
+            <div className="auto-container">
+                <div className="row">
+                    <div className="col-lg-8">
+                        <div className="sec-title light">
+                            <h2>GLUCOSE MONOHYDRATE</h2>
+                            <div className="text-decoration">
+                                <span className="left" />
+                                <span className="right" />
+                            </div>
+                            <div className="white-text">In the food industry and beverage industry, it is used as sweetener, nutrient and filler. In the pharmaceutical industry, it can be used as a nutrient solution to make oral liquid or intravenous injection. In the leather industry, sole leather and leather case leather are used as reducing agents.</div>
+                        </div>
+                        <div className="bottom-text"><Link href="/products/sweeteners">View more products<i className="flaticon-right" /></Link></div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section className="team-section-seven">
             <div className="auto-container">
                 <div className="top-content row m-0 justify-content-between">
                     <div className="sec-title">
-                        <h2>Top3 Products</h2>
+                        <h2>Top 3 Products</h2>
                         <div className="text-decoration">
                             <span className="left" />
                             <span className="right" />
