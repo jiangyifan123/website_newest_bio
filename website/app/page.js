@@ -9,6 +9,7 @@ import Features from "@/components/sections/home/Features"
 // import MeetUp from "@/components/sections/home/MeetUp"
 // import News from "@/components/sections/home/News"
 import Services from "@/components/sections/home/Services"
+import { Product } from "@/components/sections/home/Product"
 // import Subscribe from "@/components/sections/home/Subscribe"
 // import Testimonial from "@/components/sections/home/Testimonial"
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
                 {/* <Experience /> */}
                 <Cases />
                 <Services />
+                <Product />
                 {/* <Testimonial /> */}
                 {/* <Award /> */}
                 {/* <News /> */}

@@ -2828,7 +2828,7 @@ body .btn-style-one:hover {
 
 .banner-section .owl-theme .owl-nav .owl-prev::after {
     font-family: customicon;
-    content: "\f102";
+    content: "\f101";
     position: absolute;
     top: 0px;
     width: 70px;
@@ -2873,7 +2873,7 @@ body .btn-style-one:hover {
 
 .banner-section .owl-theme .owl-nav .owl-next::after {
     font-family: customicon;
-    content: "\f102";
+    content: "\f101";
     position: absolute;
     top: 0px;
     width: 70px;
