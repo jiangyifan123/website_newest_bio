@@ -16,7 +16,6 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isSide
                                 </ul>
                             </div>
                             <div className="top-right">
-                               
                                 <ul className="social-links clearfix">
                                     <li><a href="https://www.linkedin.com/company/newest-biotech/about/"><span className="fab fa-linkedin" /></a></li>
                                     <li><a href="https://www.facebook.com/profile.php?id=61555626776648"><span className="fab fa-facebook-f" /></a></li>
