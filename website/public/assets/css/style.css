@@ -2828,7 +2828,7 @@ body .btn-style-one:hover {
 
 .banner-section .owl-theme .owl-nav .owl-prev::after {
     font-family: customicon;
-    content: "\f102";
+    content: "\f101";
     position: absolute;
     top: 0px;
     width: 70px;
@@ -2873,7 +2873,7 @@ body .btn-style-one:hover {
 
 .banner-section .owl-theme .owl-nav .owl-next::after {
     font-family: customicon;
-    content: "\f102";
+    content: "\f101";
     position: absolute;
     top: 0px;
     width: 70px;
@@ -15290,9 +15290,10 @@ body .btn-style-one:hover {
     overflow: hidden;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
+    padding-bottom: 15px;
 }
 
-.team-block-four .image:after {
+/* .team-block-four .image:after {
     position: absolute;
     content: '';
     left: 0;
@@ -15302,7 +15303,7 @@ body .btn-style-one:hover {
     background-color: #fff;
     z-index: 6;
     border-top-right-radius: 6px;
-}
+} */
 
 .team-block-four .image:before {
     position: absolute;
@@ -15313,7 +15314,7 @@ body .btn-style-one:hover {
     height: 100%;
     background-image: -moz-linear-gradient(90deg, rgb(253, 74, 54) 0%, rgb(32, 22, 48) 86%);
     background-image: -ms-linear-gradient(90deg, rgb(253, 74, 54) 0%, rgb(32, 22, 48) 86%);
-    background-image: -webkit-linear-gradient(90deg, rgb(253, 74, 54) 0%, rgb(32, 22, 48) 86%);
+    background-image: -webkit-linear-gradient(90deg, rgb(54 251 253) 0%, rgb(32, 22, 48) 86%);
     -webkit-transition: .5s;
     -o-transition: .5s;
     transition: .5s;
