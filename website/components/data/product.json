@@ -2135,35 +2135,16 @@
         "overlay": "/assets/images/icons/icon-8.png"
     },
     {
-        "pid": "acidulants",
-        "title": "Acidulants",
-        "categories": [
-            "Flavor Enhancers"
-        ],
-        "category_idx": [
-            "flavor_enhancers"
-        ],
-        "infos": {
-            "flavor_enhancers": {
-                "pdfUrl": "#",
-                "desc": [],
-                "url": "/products/flavor_enhancers/acidulants"
-            }
-        },
-        "image": "/assets/newestBiotech/images/products/products_display/acidulants.png",
-        "overlay": "/assets/images/icons/icon-8.png"
-    },
-    {
         "pid": "citric_acid_monohydrate",
         "title": "Citric Acid Monohydrate",
         "categories": [
-            "Flavor Enhancers"
+            "Acidulants"
         ],
         "category_idx": [
-            "flavor_enhancers"
+            "acidulants"
         ],
         "infos": {
-            "flavor_enhancers": {
+            "acidulants": {
                 "Common Name": [
                     "Citric Acid Monohydrate"
                 ],
@@ -2186,7 +2167,7 @@
                 "desc": [
                     "Citric acid monohydrate is a crystalline form of citric acid that contains one molecule of water. Widely used across various industries, citric acid monohydrate is prized for its acidity, chelating properties, and versatile applications. As a natural organic acid found in citrus fruits, it serves as a key ingredient in the food and beverage industry, contributing a sour or tangy taste to numerous products. Beyond its culinary uses, citric acid monohydrate finds applications in the pharmaceutical, cosmetic, and cleaning product industries, where it serves as a chelating agent, pH regulator, and stabilizing agent. With its multifunctional properties, citric acid monohydrate continues to be a valuable and ubiquitous component in a diverse range of consumer and industrial products."
                 ],
-                "url": "/products/flavor_enhancers/citric_acid_monohydrate"
+                "url": "/products/acidulants/citric_acid_monohydrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/citric_acid_monohydrate.png",
@@ -2196,13 +2177,13 @@
         "pid": "citric_acid_anhydrous",
         "title": "Citric Acid Anhydrous",
         "categories": [
-            "Flavor Enhancers"
+            "Acidulants"
         ],
         "category_idx": [
-            "flavor_enhancers"
+            "acidulants"
         ],
         "infos": {
-            "flavor_enhancers": {
+            "acidulants": {
                 "Common Name": [
                     "Citric Acid Anhydrous"
                 ],
@@ -2223,7 +2204,7 @@
                 "desc": [
                     "Citric acid anhydrous is a food-grade compound derived from citrus fruits, predominantly lemons and limes. Recognized for its versatile applications in the food and beverage industry, citric acid anhydrous is a crystalline powder with a sour taste. It serves as a natural acidulant, pH regulator, and preservative, contributing to the tartness and preservation of numerous food products. Beyond its use in the culinary world, citric acid anhydrous finds applications in various industries, including cosmetics, pharmaceuticals, and cleaning products, due to its chelating and antioxidant properties. Its wide-ranging functionality, natural origin, and safety make it a ubiquitous ingredient, enhancing flavors, extending shelf life, and serving diverse purposes in both consumable and non-consumable products."
                 ],
-                "url": "/products/flavor_enhancers/citric_acid_anhydrous"
+                "url": "/products/acidulants/citric_acid_anhydrous"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/citric_acid_anhydrous.png",
@@ -2233,13 +2214,13 @@
         "pid": "sodium_citrate",
         "title": "Sodium citrate",
         "categories": [
-            "Flavor Enhancers"
+            "Acidulants"
         ],
         "category_idx": [
-            "flavor_enhancers"
+            "acidulants"
         ],
         "infos": {
-            "flavor_enhancers": {
+            "acidulants": {
                 "Common Name": [
                     "citrate sodium"
                 ],
@@ -2260,7 +2241,7 @@
                 "desc": [
                     "Sodium citrate, derived from citric acid found in citrus fruits, is a versatile compound widely employed across diverse industries. In its crystalline powder form, it serves as a crucial ingredient with multifunctional applications. Acting as a buffering agent, sodium citrate stabilizes and controls pH levels, making it a pivotal component in the food and beverage industry for enhancing flavor stability and acidity regulation. Furthermore, sodium citrate serves as an emulsifying salt, preventing the separation of fats and water in processed cheese. Its utility extends to pharmaceuticals, where it functions as a buffering agent and anticoagulant, while also finding use in cosmetics, personal care products, and cleaning formulations for its pH-controlling and chelating properties. The textile industry also embraces sodium citrate in dyeing processes for pH control and color enhancement. The compound's diverse functionalities make it an indispensable ingredient, contributing to the stability and quality of a wide range of products."
                 ],
-                "url": "/products/flavor_enhancers/sodium_citrate"
+                "url": "/products/acidulants/sodium_citrate"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/sodium_citrate.png",
