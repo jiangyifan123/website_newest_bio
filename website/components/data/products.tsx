@@ -7,13 +7,10 @@ function deepCopy(obj: any) {
 export function getData() {
     return deepCopy(productJson)
 }
-<<<<<<< HEAD
 
 function getCategoryIdx(category: string) {
     return category.toLowerCase().replace(/\s+/g, '_');
 }
-=======
->>>>>>> 22ba033 (update)
 
 export function getUniqueCategories() {
     const categoriesSet = new Set();
