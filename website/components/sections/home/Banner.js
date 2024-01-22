@@ -51,14 +51,14 @@ export default function Banner() {
                     </SwiperSlide>
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">
-                        <div className="image-layer lazy-image" data-bg="/assets/newestBiotech/images/banner/aphanizomenon-flos-aquae.jpg" />
+                        <div className="image-layer lazy-image" data-bg="assets/newestBiotech/images/seaweed.png" />
                         <div className="auto-container">
                             <div className="content-box justify-content-end">
                                 <div>
-                                    <h2>Our Mission</h2>
-                                    <h3 style={{ color: 'white' }}>Cultivating Natural Sources for the Benefit of Human Health.</h3>
+                                    <h2>Agar</h2>
+                                    <h3 style={{ color: 'white' }}>Agar, derived from seaweed, is a food-grade hydrocolloid celebrated for its remarkable gelling and stabilizing properties</h3>
                                     <div className="btn-box">
-                                        <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
+                                        <Link href="/products/gums/agar-agar" className="theme-btn btn-style-one"><span className="btn-title">More About Agar <i className="flaticon-right" /></span></Link>
                                     </div>
                                 </div>
                             </div>
@@ -66,14 +66,14 @@ export default function Banner() {
                     </SwiperSlide>
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">
-                        <div className="image-layer lazy-image" data-bg="/assets/images/main-slider/9.jpg" />
+                        <div className="image-layer lazy-image" data-bg="assets/newestBiotech/images/hmo.jpg" />
                         <div className="auto-container">
                             <div className="content-box">
                                 <div>
-                                    <h2>Our Vision</h2>
-                                    <h3 style={{ color: 'grey' }}>Leading in Green Technology, and Natural Hydrocolloids.</h3>
+                                    <h2 style={{ color: 'white' }}>Human Milk Oligosaccharides (HMO)</h2>
+                                    <h3 style={{ color: 'grey' }}>Human milk oligosaccharides (HMOs) are complex carbohydrates naturally found in human breast milk</h3>
                                     <div className="btn-box">
-                                        <Link href="/about" className="theme-btn btn-style-one"><span className="btn-title">More About Newest BioTechnology <i className="flaticon-right" /></span></Link>
+                                        <Link href="/products/prebiotics/human_milk_oligosaccharides_(hmo)" className="theme-btn btn-style-one"><span className="btn-title">More About HMO <i className="flaticon-right" /></span></Link>
                                     </div>
                                 </div>
                             </div>
