@@ -1,8 +1,16 @@
 import Link from "next/link";
 import { getProductsOrderedByCategories } from "@/components/data/products";
 import React from "react";
+import { useState } from "react";
+import SearchPopup from "./SearchPopup";
+
 export default function Menu() {
     const categoriesMap = getProductsOrderedByCategories();
+
+    // Popup
+    const [isPopup, setPopup] = useState(false)
+    const handlePopup = () => setPopup(!isPopup)
+
     return (
         <>
             <ul className="navigation clearfix">
@@ -34,7 +42,9 @@ export default function Menu() {
                 {/* <li><Link href="/services">Services</Link></li> */}
                 <li><Link href="/contact">Contact</Link></li>
                 <li><Link href="/blogs">Blogs & News</Link></li>
-                
+                <li><i class="fas fa-search" onClick={handlePopup}/>
+                    {isPopup && <SearchPopup isPopup={isPopup} handlePopup={handlePopup}/>}
+                </li>
             </ul>
         </>
     )
