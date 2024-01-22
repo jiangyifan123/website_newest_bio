@@ -23,10 +23,12 @@ export function getUniqueCategories() {
     });
 
     // Convert Set into the desired array format
-    return Array.from(categoriesSet).map((category: string) => ({
+    const res = Array.from(categoriesSet).map((category: string) => ({
         idx: getCategoryIdx(category),
         name: category
     }));
+    res.sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+    return res;
 }
 
 export function getProductsOrderedByCategories() {
@@ -47,8 +49,14 @@ export function getProductsOrderedByCategories() {
         });
     });
 
+    const orderedResultList = {}
+    Object.keys(categoriesList).sort().forEach(category => {
+        categoriesList[category].list.sort((a, b) => a.title.toLowerCase().localeCompare(b.title.toLowerCase())); 
+        orderedResultList[category] = categoriesList[category];
+    });
+
     // Convert Set into the desired array format
-    return categoriesList;
+    return orderedResultList;
 }
 
 export function getProductByPid(pid) {
