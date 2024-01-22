@@ -27,7 +27,9 @@ export default function Home() {
                                             <span className="left" />
                                             <span className="right" />
                                         </div>
-                                        <div className="text">Newest Biotech is a high-tech enterprise in professional, scientific research and specializing in ingredients for the food and beverage industry, as well as dietary supplements. We manufacture and supply almost everything from dairy powders, proteins to fibers, oils, shortenings, thinkers, gums, starches, grains, fruit concentrates, savory sauces, and much more! </div>
+                                        <div className="text">
+                                            Newest Biotech, leading the high-tech revolution in the food industry! Specializing in cutting-edge scientific research, we craft top-tier ingredients for the food and beverage sector, as well as dietary supplements. From dairy powders, proteins to fibers, oils, shortenings, thickeners, gums, starches, grains, fruit concentrates, savory sauces, and more – we've got it all! Quality assured, indulge in healthy and delicious choices with Newest Biotech!
+                                        </div>
                                     </div>
                                 </div>
                             </div>
