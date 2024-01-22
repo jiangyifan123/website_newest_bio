@@ -15,7 +15,7 @@ function getCategoryIdx(category: string) {
 export function getUniqueCategories() {
     const categoriesSet = new Set();
 
-    getData().forEach(product => {
+    productJson.forEach(product => {
         product.categories.forEach(category => {
             // Add only the category name to the Set to ensure uniqueness
             categoriesSet.add(category);
@@ -32,7 +32,7 @@ export function getUniqueCategories() {
 export function getProductsOrderedByCategories() {
     const categoriesList = {};
 
-    getData().forEach(product => {
+    productJson.forEach(product => {
         product.categories.forEach(category => {
             // Add only the category name to the Set to ensure uniqueness
             if (categoriesList[category] === undefined) {
@@ -52,9 +52,9 @@ export function getProductsOrderedByCategories() {
 }
 
 export function getProductByPid(pid) {
-    return getData().find(product => product.pid === decodeURI(pid));
+    return productJson.find(product => product.pid === decodeURI(pid));
 }
 
 export function searchProductsByName(name) {
-    return getData().filter(product => product.title.toLowerCase().indexOf(name.toLowerCase()) >= 0);
+    return productJson.filter(product => product.title.toLowerCase().indexOf(name.toLowerCase()) >= 0).slice(0, 10);
 }
