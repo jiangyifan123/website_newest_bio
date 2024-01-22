@@ -22,12 +22,17 @@ export function getUniqueCategories() {
         });
     });
 
+    const orderList = Array.from(categoriesSet).sort();
+    const OtherIdx = orderList.indexOf('Others');
+    if (OtherIdx > -1) {
+        orderList.splice(OtherIdx, 1);
+        orderList.push('Others');
+    }
     // Convert Set into the desired array format
-    const res = Array.from(categoriesSet).map((category: string) => ({
+    const res = orderList.map((category: string) => ({
         idx: getCategoryIdx(category),
         name: category
     }));
-    res.sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
     return res;
 }
 
@@ -55,6 +60,11 @@ export function getProductsOrderedByCategories() {
         orderedResultList[category] = categoriesList[category];
     });
 
+    if ('Others' in orderedResultList) {
+        const other = orderedResultList['Others'];
+        delete orderedResultList['Others'];
+        orderedResultList['Others'] = other;
+    }
     // Convert Set into the desired array format
     return orderedResultList;
 }
