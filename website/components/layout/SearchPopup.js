@@ -8,6 +8,11 @@ export default function SearchPopup({ isPopup, handlePopup }) {
     const HandlerSearchButton = () => {
         setRelatedSearchList(searchProductsByName(searchText));
     }
+    const handlerKeywordDown = (e) => {
+        if (e && e.keyCode === 13) {
+            HandlerSearchButton();
+        }
+    }
     return (
         <>
             <div id="search-popup" className={`search-popup ${isPopup ? "popup-visible" : ""}`}>
@@ -15,14 +20,14 @@ export default function SearchPopup({ isPopup, handlePopup }) {
                 <div className="popup-inner">
                     <div className="overlay-layer" />
                     <div className="search-form">
-                        <form method="post" action="">
+                        {/* <form method="post" action=""> */}
                             <div className="form-group">
                                 <fieldset>
-                                    <input type="search" className="form-control" name="search-input" placeholder="Search Here" onChange={(e) => setSearchText(e.target.value)} required />
+                                    <input type="search" className="form-control" name="search-input" placeholder="Search Here" onChange={(e) => setSearchText(e.target.value)} onKeyDown={(e) => handlerKeywordDown(e)} required />
                                     <input type="submit" className="theme-btn" onClick={HandlerSearchButton}/>
                                 </fieldset>
                             </div>
-                        </form>
+                        {/* </form> */}
                         <br />
                         <h3>Related Search</h3>
                         <ul className="recent-searches">

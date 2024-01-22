@@ -56,5 +56,5 @@ export function getProductByPid(pid) {
 }
 
 export function searchProductsByName(name) {
-    return productJson.filter(product => product.title.toLowerCase().indexOf(name.toLowerCase()) >= 0).slice(0, 10);
+    return productJson.filter(product => product.title.toLowerCase().indexOf(name.toLowerCase()) >= 0).slice(0, 20);
 }
