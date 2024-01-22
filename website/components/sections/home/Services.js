@@ -15,7 +15,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/beverages.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/beverages.png" alt=''/></div>
                                         <h4>Beverage</h4>
                                     </div>
                                 </div>
@@ -23,7 +23,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/cupcake.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/cupcake.png" alt=''/></div>
                                         <h4>Bakery &amp; Confection</h4>
                                     </div>
                                 </div>
@@ -31,7 +31,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/cow-alt.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/cow-alt.png" alt=''/></div>
                                         <h4>Diary &amp; Non-Diary</h4>
                                     </div>
                                 </div>
@@ -39,7 +39,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/capsules.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/capsules.png" alt=''/></div>
                                         <h4>Capsule Production</h4>
                                     </div>
                                 </div>
@@ -47,7 +47,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/lipstick.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/lipstick.png" alt=''/></div>
                                         <h4>Cosmetic</h4>
                                     </div>
                                 </div>
@@ -55,7 +55,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/band-aid.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/band-aid.png" alt=''/></div>
                                         <h4>Wound Care Products</h4>
                                     </div>
                                 </div>
@@ -63,7 +63,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/medicine.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/medicine.png" alt=''/></div>
                                         <h4>Pharmaceutical gels</h4>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/bacterium.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/bacterium.png" alt=''/></div>
                                         <h4>Microbio Cultivation</h4>
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@ export default function Services() {
                             <div className="col-lg-4 col-md-6 service-block-five">
                                 <div className="inner-box">
                                     <div className="content-box">
-                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/mortar-pestle.png" /></div>
+                                        <div className="icon"><img src="/assets/newestBiotech/images/applications/mortar-pestle.png" alt=''/></div>
                                         <h4>Drug Delivery System</h4>
                                     </div>
                                 </div>

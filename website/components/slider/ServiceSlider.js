@@ -59,7 +59,7 @@ export default function ServiceSlider() {
                 <SwiperSlide className="service-block-two">
                     <div className="inner-box">
                         <div className="image"><img src="/assets/images/resource/image-17.jpg" alt="" /></div>
-                        <div className="icon"><img src="/assets/newestBiotech/images/applications/beverages.png" /></div>
+                        <div className="icon"><img src="/assets/newestBiotech/images/applications/beverages.png" alt=''/></div>
                         <h4>Beverage</h4>
                         <div className="link-btn"><Link href="/about" className="theme-btn btn-style-two"><span className="btn-title">Read More <i className="flaticon-right" /></span></Link></div>
                         <div className="overlay" style={{ backgroundImage: 'url(assets/images/resource/image-17.jpg)' }}>
