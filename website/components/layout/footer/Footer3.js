@@ -51,7 +51,7 @@ export default function Footer3() {
                                             <p>Email: <Link href="mailto:info@newestbio.com">info@newestbio.com</Link></p>
                                             <p>Phone: <Link href="tel:+16268183130">+1 (626) 818 3130</Link></p>
                                             <p>Website: <Link href="https://newestbio.com/">https://newestbio.com/</Link></p>
-                                            <p>Address: 12500 Slauson Ave, b1a, Santa Fe Springs, CA 90670</p>
+                                            <p>Address: 725 W Duarte Rd,  PO 2221, Arcadia, CA 91007</p>
                                         </div>
                                     </div>
                                 </div>

@@ -95,7 +95,7 @@ export default function ContactUs() {
                             <div className="icon"><img src="/assets/images/icons/icon-50.png" alt="" /></div>
                             <h4>California</h4>
                             <ul>
-                                <li>12500 Slauson Ave, b1a, Santa Fe Springs, CA 90670</li>
+                                <li>725 W Duarte Rd,  PO 2221, Arcadia, CA 91007</li>
                             </ul>
                         </div>
                     </div>
