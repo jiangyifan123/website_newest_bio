@@ -3,6 +3,10 @@ import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 import { getProductByPid } from '@/components/data/products'
 import { notFound } from 'next/navigation';
+import dynamic from 'next/dynamic'
+const PortfolioFilter3 = dynamic(() => import('@/components/elements/PortfolioFilter3'), {
+    ssr: false,
+})
 
 export default function Home({ params }: { params: { category: string, pid: string } }) {
     const product = getProductByPid(params.pid);
@@ -42,7 +46,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                             <div className="project-info-wrapper">
                                                 {
                                                     Object.entries(product_detail).map(([infoTitle, infoTextList]) => {
-                                                        if (['desc', 'pdfUrl', 'url'].indexOf(infoTitle) > -1) {
+                                                        if (['desc', 'pdfUrl', 'url', 'images'].indexOf(infoTitle) > -1) {
                                                             return <></>
                                                         }
                                                         return <div className="project-info">
@@ -76,12 +80,11 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                         }
                                     </div>
                                     <div>
-
                                         <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to get a FREE quote</span></Link></div>
                                     </div>
-
                                 </div>
                             </div>
+                            {product_detail.images && <PortfolioFilter3 images_list={product_detail.images}/>}
                         </div>
                     </div>
                 </section>

@@ -29,7 +29,13 @@
                 "desc": [
                     "Agar, derived from seaweed, is a food-grade hydrocolloid celebrated for its remarkable gelling and stabilizing properties. This natural substance has been a staple in Asian cuisines for centuries and has gained global popularity in the food industry. As a versatile ingredient, agar is prized for its ability to form strong, resilient gels at relatively low concentrations, making it an ideal vegetarian and vegan substitute for gelatin. Its neutral taste, odorless nature, and capacity to set gels at higher temperatures contribute to its widespread use in diverse culinary applications, ranging from desserts and confectionery to savory dishes. Beyond the kitchen, agar finds utility in microbiology laboratories as a solidifying agent for culture media, and in pharmaceuticals for encapsulation purposes. The widespread adoption of agar in various industries reflects its unique combination of natural origin, functionality, and adaptability in creating textures and structures in a myriad of products."
                 ],
-                "url": "/products/gums/agar-agar"
+                "url": "/products/gums/agar-agar",
+                "images": [
+                    {
+                        "url": "",
+                        "name": "agar strip"
+                    }
+                ]
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/agar-agar.png",
