@@ -12891,6 +12891,13 @@ body .btn-style-one:hover {
     margin-bottom: 70px;
 }
 
+.filters2 {
+    position: relative;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 70px;
+    margin-top: 20px;
+}
+
 .filter-tabs.filter-btns li span.count {
     position: absolute;
     left: 50%;
