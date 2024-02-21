@@ -1,4 +1,5 @@
 import "@/node_modules/react-modal-video/css/modal-video.css"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import "public/assets/css/bootstrap.css"
 import "public/assets/css/color.css"
@@ -65,6 +66,8 @@ export default function RootLayout({ children }) {
             </Script>
             <body>{children}</body>
             <Analytics />
+            <SpeedInsights />
+
         </html>
     )
 }
