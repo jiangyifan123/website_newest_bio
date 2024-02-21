@@ -31,33 +31,50 @@
                     "Agar agar stripes, derived from seaweed, particularly red algae, represent a versatile and natural gelling agent widely used in the food industry. Known for their unique texture and ability to set at room temperature, agar agar stripes have become a popular choice in various culinary applications. As a vegetarian alternative to gelatin, these strips are prized for their high gel strength and clarity, making them ideal for creating visually appealing desserts, confections, and savory dishes. With the capacity to form stable gels without the need for refrigeration, agar agar stripes offer convenience in culinary preparations, making them a valuable ingredient for those seeking plant-based and gelatin-free solutions in their recipes.",
                     "Instant Soluble Agar dissolves instantly in solutions at 55℃~65℃degrees Celsius where as regular Agar needs to be heated to 100 degrees Celsius and held at that temperature for duration of 5 to 10 minutes to dissolve. Instant soluble agar is specially suitable for application of yogurts, jello, diary, soft drinks, instant coffee, puddings and porridge"
                 ],
-                "url": "/products/gums/agar-agar",
-                "images": [
-                    {
-                        "url": "/assets/newestBiotech/images/agar_strip1.jpg",
-                        "name": ""
+                "multi_desc": {
+                    "Agar": {
+                        "desc": [
+                            "Agar, derived from seaweed, is a food-grade hydrocolloid celebrated for its remarkable gelling and stabilizing properties. This natural substance has been a staple in Asian cuisines for centuries and has gained global popularity in the food industry. As a versatile ingredient, agar is prized for its ability to form strong, resilient gels at relatively low concentrations, making it an ideal vegetarian and vegan substitute for gelatin. Its neutral taste, odorless nature, and capacity to set gels at higher temperatures contribute to its widespread use in diverse culinary applications, ranging from desserts and confectionery to savory dishes. Beyond the kitchen, agar finds utility in microbiology laboratories as a solidifying agent for culture media, and in pharmaceuticals for encapsulation purposes. The widespread adoption of agar in various industries reflects its unique combination of natural origin, functionality, and adaptability in creating textures and structures in a myriad of products."
+                        ]
                     },
-                    {
-                        "url": "/assets/newestBiotech/images/agar_strip2.jpg",
-                        "name": ""
+                    "Agar Stripes": {
+                        "desc": [
+                            "Agar agar stripes, derived from seaweed, particularly red algae, represent a versatile and natural gelling agent widely used in the food industry. Known for their unique texture and ability to set at room temperature, agar agar stripes have become a popular choice in various culinary applications. As a vegetarian alternative to gelatin, these strips are prized for their high gel strength and clarity, making them ideal for creating visually appealing desserts, confections, and savory dishes. With the capacity to form stable gels without the need for refrigeration, agar agar stripes offer convenience in culinary preparations, making them a valuable ingredient for those seeking plant-based and gelatin-free solutions in their recipes."
+                        ],
+                        "images": [
+                            {
+                                "url": "/assets/newestBiotech/images/agar_strip1.jpg",
+                                "name": ""
+                            },
+                            {
+                                "url": "/assets/newestBiotech/images/agar_strip2.jpg",
+                                "name": ""
+                            },
+                            {
+                                "url": "/assets/newestBiotech/images/agar_strip3.jpg",
+                                "name": ""
+                            },
+                            {
+                                "url": "/assets/newestBiotech/images/agar_strip4.jpg",
+                                "name": ""
+                            },
+                            {
+                                "url": "/assets/newestBiotech/images/agar_strip5.jpg",
+                                "name": ""
+                            },
+                            {
+                                "url": "/assets/newestBiotech/images/agar_strip6.jpg",
+                                "name": ""
+                            }
+                        ]
                     },
-                    {
-                        "url": "/assets/newestBiotech/images/agar_strip3.jpg",
-                        "name": ""
-                    },
-                    {
-                        "url": "/assets/newestBiotech/images/agar_strip4.jpg",
-                        "name": ""
-                    },
-                    {
-                        "url": "/assets/newestBiotech/images/agar_strip5.jpg",
-                        "name": ""
-                    },
-                    {
-                        "url": "/assets/newestBiotech/images/agar_strip6.jpg",
-                        "name": ""
+                    "Instant Soluble Agar": {
+                        "desc": [
+                            "Instant Soluble Agar dissolves instantly in solutions at 55℃~65℃degrees Celsius where as regular Agar needs to be heated to 100 degrees Celsius and held at that temperature for duration of 5 to 10 minutes to dissolve. Instant soluble agar is specially suitable for application of yogurts, jello, diary, soft drinks, instant coffee, puddings and porridge"
+                        ]
                     }
-                ]
+                },
+                "url": "/products/gums/agar-agar"
             }
         },
         "image": "/assets/newestBiotech/images/products/products_display/agar-agar.png",
