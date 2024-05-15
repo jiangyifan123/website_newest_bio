@@ -113,7 +113,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                             product_detail.multi_desc[currentPro].video_url != '' &&
                                             <div className="video-box">
                                                 <div className="image"><img src={product_detail.multi_desc[currentPro].video_image} alt="" /></div>
-                                                <VideoPopup url={product_detail.multi_desc[currentPro].video_url}/>
+                                                <VideoPopup url={product_detail.multi_desc[currentPro].video_url} style={undefined} text={undefined}/>
                                             </div>
                                         }
                                         
