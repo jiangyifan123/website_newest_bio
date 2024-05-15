@@ -71,7 +71,9 @@
                     "Instant Soluble Agar": {
                         "desc": [
                             "Instant Soluble Agar dissolves instantly in solutions at 55℃~65℃degrees Celsius where as regular Agar needs to be heated to 100 degrees Celsius and held at that temperature for duration of 5 to 10 minutes to dissolve. Instant soluble agar is specially suitable for application of yogurts, jello, diary, soft drinks, instant coffee, puddings and porridge"
-                        ]
+                        ],
+                        "video_image": "/assets/newestBiotech/images/instant_agar.png",
+                        "video_url": "/assets/newestBiotech/videos/instant_agar.mp4"
                     }
                 },
                 "url": "/products/gums/agar-agar"

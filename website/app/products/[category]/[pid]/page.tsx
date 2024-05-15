@@ -6,6 +6,7 @@ import { getProductByPid } from '@/components/data/products'
 import { notFound } from 'next/navigation';
 import dynamic from 'next/dynamic'
 import { useState, useEffect } from 'react'
+import VideoPopup from "@/components/elements/VideoPopup"
 const PortfolioFilter3 = dynamic(() => import('@/components/elements/PortfolioFilter3'), {
     ssr: false,
 })
@@ -106,6 +107,16 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                                 }
                                             })
                                         }
+                                        {
+                                            currentPro !== '' && 
+                                            product_detail.multi_desc[currentPro].video_url &&
+                                            product_detail.multi_desc[currentPro].video_url != '' &&
+                                            <div className="video-box">
+                                                <div className="image"><img src={product_detail.multi_desc[currentPro].video_image} alt="" /></div>
+                                                <VideoPopup url={product_detail.multi_desc[currentPro].video_url}/>
+                                            </div>
+                                        }
+                                        
                                     </div>
                                     <div>
                                         <div className="link-btn"><Link href="/contact" className="theme-btn btn-style-one"><span className="btn-title">Contact us to get a FREE quote</span></Link></div>
