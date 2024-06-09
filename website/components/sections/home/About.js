@@ -1,5 +1,3 @@
-import CounterUp from "@/components/elements/CounterUp"
-import VideoPopup from "@/components/elements/VideoPopup"
 import Link from "next/link"
 
 

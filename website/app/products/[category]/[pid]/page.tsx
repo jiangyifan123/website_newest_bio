@@ -107,7 +107,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                                 }
                                             })
                                         }
-                                        {
+                                        {/* {
                                             currentPro !== '' && 
                                             product_detail.multi_desc[currentPro].video_url &&
                                             product_detail.multi_desc[currentPro].video_url != '' &&
@@ -115,7 +115,7 @@ export default function Home({ params }: { params: { category: string, pid: stri
                                                 <div className="image"><img src={product_detail.multi_desc[currentPro].video_image} alt="" /></div>
                                                 <VideoPopup url={product_detail.multi_desc[currentPro].video_url} style={undefined} text={undefined}/>
                                             </div>
-                                        }
+                                        } */}
                                         
                                     </div>
                                     <div>

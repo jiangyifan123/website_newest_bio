@@ -2,6 +2,8 @@
 'use client'
 import Link from "next/link"
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
+import { useState } from 'react'
+import ModalVideo from 'react-modal-video'
 import { Swiper, SwiperSlide } from "swiper/react"
 
 const swiperOptions = {
@@ -29,6 +31,7 @@ const swiperOptions = {
 
 
 export default function Banner() {
+    const [isOpen, setOpen] = useState(false)
     return (
         <>
             <section className="banner-section style-three">
@@ -79,6 +82,16 @@ export default function Banner() {
                             </div>
                         </div>
                     </SwiperSlide>
+                    <SwiperSlide className="slide-item">
+                        <div className="image-layer lazy-image" data-bg="/assets/newestBiotech/images/instant_agar.png" />
+                        <div className="auto-container">
+                            <div className="content-box">
+                                <div className="btn-box">
+                                    <button onClick={() => setOpen(true)} className="theme-btn btn-style-one"><span className="btn-title">More About instant agar <span className="play-icon flaticon-play" /></span></button>
+                                </div>
+                            </div>
+                        </div>
+                    </SwiperSlide>
                     {/* Slide Item */}
                     {/* <SwiperSlide className="slide-item">
                         <div className="image-layer lazy-image" data-bg="/assets/images/main-slider/9.jpg" />
@@ -104,6 +117,7 @@ export default function Banner() {
                         </button>
                     </div>
                 </Swiper>
+                <ModalVideo channel='custom' autoplay isOpen={isOpen} onClose={() => setOpen(false)} url='/assets/newestBiotech/videos/instant_agar.mp4'/>
             </section>
         </>
     )
